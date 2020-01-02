@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Kampung_22
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -3439635884629957229, guid: 048f0b467f982ba46b072beb5e8cd3a6,
+  m_Sprite: {fileID: -3439635884629957229, guid: 84cec9c7c9a3b1f44b565105cf546dd2,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:

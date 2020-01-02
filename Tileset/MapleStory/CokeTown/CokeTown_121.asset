@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: CokeTown_121
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -4533705836831007233, guid: 7098a78ea197af64f84ac99537ae8f23,
+  m_Sprite: {fileID: -4533705836831007233, guid: 55b7673212a29c342a5fea09af41de29,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
