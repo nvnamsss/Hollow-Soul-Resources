@@ -1,0 +1,3463 @@
+fileFormatVersion: 2
+guid: 84cec9c7c9a3b1f44b565105cf546dd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 791245713843030609
+    second: Kampung_0
+  - first:
+      213: -8019294909168164958
+    second: Kampung_1
+  - first:
+      213: -942451094368659942
+    second: Kampung_2
+  - first:
+      213: -9177737868053467939
+    second: Kampung_3
+  - first:
+      213: -2879416879251264965
+    second: Kampung_4
+  - first:
+      213: -3674091843493608703
+    second: Kampung_5
+  - first:
+      213: -2696382079814178848
+    second: Kampung_6
+  - first:
+      213: -5449093339548724451
+    second: Kampung_7
+  - first:
+      213: 6475096273194987654
+    second: Kampung_8
+  - first:
+      213: 3474232575509653937
+    second: Kampung_9
+  - first:
+      213: -5396460128375933347
+    second: Kampung_10
+  - first:
+      213: 3293923335713546546
+    second: Kampung_11
+  - first:
+      213: -8792835118205262576
+    second: Kampung_12
+  - first:
+      213: 6320697020250526977
+    second: Kampung_13
+  - first:
+      213: 6532719957570587080
+    second: Kampung_14
+  - first:
+      213: 9043471892509733096
+    second: Kampung_15
+  - first:
+      213: 1897246883293057952
+    second: Kampung_16
+  - first:
+      213: -3088406572893084239
+    second: Kampung_17
+  - first:
+      213: -8024033093357863776
+    second: Kampung_18
+  - first:
+      213: -5778902100272976709
+    second: Kampung_19
+  - first:
+      213: 7530431305766025741
+    second: Kampung_20
+  - first:
+      213: 3235735035924480030
+    second: Kampung_21
+  - first:
+      213: -3439635884629957229
+    second: Kampung_22
+  - first:
+      213: 5175444506188483511
+    second: Kampung_23
+  - first:
+      213: -7751653664307042513
+    second: Kampung_24
+  - first:
+      213: -1732964236560076650
+    second: Kampung_25
+  - first:
+      213: 1958954950932270757
+    second: Kampung_26
+  - first:
+      213: -7638044473395505236
+    second: Kampung_27
+  - first:
+      213: 7016005208260238068
+    second: Kampung_28
+  - first:
+      213: 7789784343573907756
+    second: Kampung_29
+  - first:
+      213: 1546478739840735600
+    second: Kampung_30
+  - first:
+      213: -881806200359348286
+    second: Kampung_31
+  - first:
+      213: 5046477762830206232
+    second: Kampung_32
+  - first:
+      213: 4524652587175788960
+    second: Kampung_33
+  - first:
+      213: -5013969768325450493
+    second: Kampung_34
+  - first:
+      213: 6845925945858813441
+    second: Kampung_35
+  - first:
+      213: -183572164054192911
+    second: Kampung_36
+  - first:
+      213: 3188493888091262571
+    second: Kampung_37
+  - first:
+      213: 2262782093711412209
+    second: Kampung_38
+  - first:
+      213: -8657964657506932278
+    second: Kampung_39
+  - first:
+      213: -1261398558778571111
+    second: Kampung_40
+  - first:
+      213: 8142575677557720112
+    second: Kampung_41
+  - first:
+      213: 1595459676125222392
+    second: Kampung_42
+  - first:
+      213: -2001825152971344048
+    second: Kampung_43
+  - first:
+      213: -5797959610492002257
+    second: Kampung_44
+  - first:
+      213: -7307351359048430738
+    second: Kampung_45
+  - first:
+      213: -866866444669224819
+    second: Kampung_46
+  - first:
+      213: -5007850508464347645
+    second: Kampung_47
+  - first:
+      213: -2975411795713048033
+    second: Kampung_48
+  - first:
+      213: -4026164097676808294
+    second: Kampung_49
+  - first:
+      213: -1676032484647672718
+    second: Kampung_50
+  - first:
+      213: 5161300900679366815
+    second: Kampung_51
+  - first:
+      213: -5746804199641301957
+    second: Kampung_52
+  - first:
+      213: -483956710861040500
+    second: Kampung_53
+  - first:
+      213: 7983511141999023825
+    second: Kampung_54
+  - first:
+      213: 3929175258970370986
+    second: Kampung_55
+  - first:
+      213: -7534637956766739328
+    second: Kampung_56
+  - first:
+      213: -1485046927960530137
+    second: Kampung_57
+  - first:
+      213: 6836747658693224110
+    second: Kampung_58
+  - first:
+      213: 3050172732849994146
+    second: Kampung_59
+  - first:
+      213: -7638412204394722090
+    second: Kampung_60
+  - first:
+      213: 1047449252583506394
+    second: Kampung_61
+  - first:
+      213: 7420324174097572484
+    second: Kampung_62
+  - first:
+      213: 4019558881075617187
+    second: Kampung_63
+  - first:
+      213: 1152851321624658723
+    second: Kampung_64
+  - first:
+      213: 4682730610138528733
+    second: Kampung_65
+  - first:
+      213: -279406612117904677
+    second: Kampung_66
+  - first:
+      213: -1776664105332581229
+    second: Kampung_67
+  - first:
+      213: -2639962734313074007
+    second: Kampung_68
+  - first:
+      213: -9205470505847660652
+    second: Kampung_69
+  - first:
+      213: 6728818419824993178
+    second: Kampung_70
+  - first:
+      213: -646232489094961654
+    second: Kampung_71
+  - first:
+      213: 8834820441337966440
+    second: Kampung_72
+  - first:
+      213: 6646777903644088034
+    second: Kampung_73
+  - first:
+      213: -421717721119113632
+    second: Kampung_74
+  - first:
+      213: -2003036897165420005
+    second: Kampung_75
+  - first:
+      213: 8217575164019614155
+    second: Kampung_76
+  - first:
+      213: 8061159634085335289
+    second: Kampung_77
+  - first:
+      213: -4386257010465240335
+    second: Kampung_78
+  - first:
+      213: 4474211784593712693
+    second: Kampung_79
+  - first:
+      213: 318245100411068829
+    second: Kampung_80
+  - first:
+      213: 351561678559343473
+    second: Kampung_81
+  - first:
+      213: 1624531515838966281
+    second: Kampung_82
+  - first:
+      213: -4339246166466271550
+    second: Kampung_83
+  - first:
+      213: 2506855117639281908
+    second: Kampung_84
+  - first:
+      213: -7533436318656477917
+    second: Kampung_85
+  - first:
+      213: -8161399525613804759
+    second: Kampung_86
+  - first:
+      213: 1267868371744975389
+    second: Kampung_87
+  - first:
+      213: -8861992294570866431
+    second: Kampung_88
+  - first:
+      213: 6685579679865389639
+    second: Kampung_89
+  - first:
+      213: 4226295339975189880
+    second: Kampung_90
+  - first:
+      213: 6661345527366915773
+    second: Kampung_91
+  - first:
+      213: -8922808034926748705
+    second: Kampung_92
+  - first:
+      213: -5470800367243320126
+    second: Kampung_93
+  - first:
+      213: 1544452657762855529
+    second: Kampung_94
+  - first:
+      213: -7054351292101294699
+    second: Kampung_95
+  - first:
+      213: 1176845216903026374
+    second: Kampung_96
+  - first:
+      213: 5142861297318184022
+    second: Kampung_97
+  - first:
+      213: 2223619515514151812
+    second: Kampung_98
+  - first:
+      213: -2917211120224487620
+    second: Kampung_99
+  - first:
+      213: -8516080511274566050
+    second: Kampung_100
+  - first:
+      213: -3583438273816958891
+    second: Kampung_101
+  - first:
+      213: -7938800055625122507
+    second: Kampung_102
+  - first:
+      213: 5628111702601508765
+    second: Kampung_103
+  - first:
+      213: 8343936778622174427
+    second: Kampung_104
+  - first:
+      213: 1731064094050910289
+    second: Kampung_105
+  - first:
+      213: 6742084471242336316
+    second: Kampung_106
+  - first:
+      213: -4518339206161578900
+    second: Kampung_107
+  - first:
+      213: -1341278090024487776
+    second: Kampung_108
+  - first:
+      213: 2756646454110608265
+    second: Kampung_109
+  - first:
+      213: 4219763290919419789
+    second: Kampung_110
+  - first:
+      213: 6009914632010766118
+    second: Kampung_111
+  - first:
+      213: 1177375614899970641
+    second: Kampung_112
+  - first:
+      213: 9174545261495581826
+    second: Kampung_113
+  - first:
+      213: 8522258584477501155
+    second: Kampung_114
+  - first:
+      213: 7714540624562945854
+    second: Kampung_115
+  - first:
+      213: -8071586215102718608
+    second: Kampung_116
+  - first:
+      213: 5286722036498644950
+    second: Kampung_117
+  - first:
+      213: 5034438003959002567
+    second: Kampung_118
+  - first:
+      213: -8485384294238959316
+    second: Kampung_119
+  - first:
+      213: -8694189759703181378
+    second: Kampung_120
+  - first:
+      213: 7326178053817960285
+    second: Kampung_121
+  - first:
+      213: -4853305955293136105
+    second: Kampung_122
+  - first:
+      213: -6295859058914022322
+    second: Kampung_123
+  - first:
+      213: 6322766720354868035
+    second: Kampung_124
+  - first:
+      213: -4023955198929315055
+    second: Kampung_125
+  - first:
+      213: 1159079941712480895
+    second: Kampung_126
+  - first:
+      213: -1021555411362488587
+    second: Kampung_127
+  - first:
+      213: -2227784725199904889
+    second: Kampung_128
+  - first:
+      213: 1536572111605219985
+    second: Kampung_129
+  - first:
+      213: -6810722195802430200
+    second: Kampung_130
+  - first:
+      213: -1051172461859943368
+    second: Kampung_131
+  - first:
+      213: 1356028475297764680
+    second: Kampung_132
+  - first:
+      213: 3212519276976729775
+    second: Kampung_133
+  - first:
+      213: -2677292599361907360
+    second: Kampung_134
+  - first:
+      213: -4587427895637370691
+    second: Kampung_135
+  - first:
+      213: 2105938768565703359
+    second: Kampung_136
+  - first:
+      213: 8472081745750202250
+    second: Kampung_137
+  - first:
+      213: 4774005005456227594
+    second: Kampung_138
+  - first:
+      213: 6986814044598488957
+    second: Kampung_139
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kampung_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eccea9d11e3b4409cdb9e5ca155e74
+      internalID: 791245713843030609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840a6e3c2e629df488b6eed79a38d33f
+      internalID: -8019294909168164958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e538b58a9f6d438d55ea8b6950af3
+      internalID: -942451094368659942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26bef9fc9756846932c7996a7400ac
+      internalID: -9177737868053467939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428553bf93e4b6c459872f696eca7d90
+      internalID: -2879416879251264965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08abcbd69bfb15468b2e2165bf8d51a
+      internalID: -3674091843493608703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc3470a28291d42988761e084278bd
+      internalID: -2696382079814178848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85d8892d2999a4c8af3e8f6be91d5d
+      internalID: -5449093339548724451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb12984d002cc48a125a40d8dd0609
+      internalID: 6475096273194987654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e189c84c661a4c4eb4c2aa5b3122f06
+      internalID: 3474232575509653937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b8df0b0fd1a354e9aca2a49460008c
+      internalID: -5396460128375933347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d276c62adab80da45b14dd019c490723
+      internalID: 3293923335713546546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f7dc4c534c3d147a0a9058ecc798a0
+      internalID: -8792835118205262576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe40958407eb347be1be62c2c51f15
+      internalID: 6320697020250526977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae9a6d1c8f391144a0186096a449989
+      internalID: 6532719957570587080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903920a0005a43409a2594e506ac33e
+      internalID: 9043471892509733096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39369abfbe59ccb489ff4eefd82f6230
+      internalID: 1897246883293057952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f578ca3c8b45654c951621117dc874f
+      internalID: -3088406572893084239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060070487652c3c4aa6fc2c3238c6cbd
+      internalID: -8024033093357863776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50a81ac08c11e4aa411eb910130b55
+      internalID: -5778902100272976709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e203341398a4345907006931812e1e
+      internalID: 7530431305766025741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4883ebb087bdc045ab4b7a2ea3cf7da
+      internalID: 3235735035924480030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca8b29d8dcbe1d4f81d88db32ab714b
+      internalID: -3439635884629957229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683a2bd6a4b59749828755da01de8e9
+      internalID: 5175444506188483511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2f8570d9c4a3641a0ec46d43f49c69
+      internalID: -7751653664307042513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff86c2605c5eca144abd9dc0a15c9721
+      internalID: -1732964236560076650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273286c6d3f00ab44a1cc1e5e52bc1e3
+      internalID: 1958954950932270757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881c045e4ad51b4c954735e5f8fb4c0
+      internalID: -7638044473395505236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbc54b556049ec4a9d9ab258f614f64
+      internalID: 7016005208260238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd1f85e41e3b14c89a3e6e3b5cb8a7
+      internalID: 7789784343573907756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ccfeaa3691b04996fdaf121859562
+      internalID: 1546478739840735600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90a4b9296463d43b679ebf2a68e506
+      internalID: -881806200359348286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca4815131271847b24bb20d09c62c0
+      internalID: 5046477762830206232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f695159d6f08527408cf374edf499e94
+      internalID: 4524652587175788960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cd1c9f422d7804b929d01626424dc6
+      internalID: -5013969768325450493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f25710b64f8e42b8c4bad48e8dc27
+      internalID: 6845925945858813441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd9d1a958c86b84a86068c26f3aaa37
+      internalID: -183572164054192911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a785505c0c5eb4a97f04b4f1f4ac66
+      internalID: 3188493888091262571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d20adf8ff1264c85fc8b7d9b5233a
+      internalID: 2262782093711412209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9a0722ccbca746a203c92f3a0fccb
+      internalID: -8657964657506932278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10985db0f90b927499c5aabd1d6937cb
+      internalID: -1261398558778571111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c296d7be564f4489e5bb7b0250820
+      internalID: 8142575677557720112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20862938129522f49b28b4e5ff3d719a
+      internalID: 1595459676125222392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db75a8d358373346922b10febb57491
+      internalID: -2001825152971344048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a203ae5f2270f408b4779f1f5bec7c
+      internalID: -5797959610492002257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea881e582e5d48f44a8480d407fc4da8
+      internalID: -7307351359048430738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727fc1ff4b147674ba9137916112fe3d
+      internalID: -866866444669224819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7f49f4bfb24447ac2bd20a43c63e9
+      internalID: -5007850508464347645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dfb1ff24db1d74282103cd5ca76552
+      internalID: -2975411795713048033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f241cd2732297a24084ce5a9edac3924
+      internalID: -4026164097676808294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b5625b6a2f1464dbcb27abf0815404
+      internalID: -1676032484647672718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f212e397925f4d835cc86ecbe8022
+      internalID: 5161300900679366815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837c150a2d9809409beb1cb19a7b712
+      internalID: -5746804199641301957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3381a126e900441ad1005fbc4255d3
+      internalID: -483956710861040500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe71251a1ff7f14986327eb541c54e9
+      internalID: 7983511141999023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_55
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa78d3b7bf3214abfbab13b960da0f
+      internalID: 3929175258970370986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 251
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d43dd5ec4ca4054b9590aaab1668e25
+      internalID: -7534637956766739328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb432f1fb99e24eaaf2250c90a2713
+      internalID: -1485046927960530137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda693b2c7d4c9e45942ed29840cc3a2
+      internalID: 6836747658693224110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4eb1248775844080b1b18178630ac
+      internalID: 3050172732849994146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23de4e10cc96e6345900ac7aaae6da80
+      internalID: -7638412204394722090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e533396f345846884844485ecf8a7
+      internalID: 1047449252583506394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e5575aa257a694bb46606a6fb8e76f
+      internalID: 7420324174097572484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20899dbcc2dcea240ac80c470fbb354d
+      internalID: 4019558881075617187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be12282f2814d4293c290615c25522
+      internalID: 1152851321624658723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c056dd00b11146b215b0e2043d553
+      internalID: 4682730610138528733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0382411361e02f349a08e7e6f9d507ce
+      internalID: -279406612117904677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e38ba8922958f4b9ed689cfab5bd86
+      internalID: -1776664105332581229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695c24fa21aee14d9f9bc0ad752deb7
+      internalID: -2639962734313074007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cfbe6d8826a624381d24ed50bab72c
+      internalID: -9205470505847660652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ea77839b433247a22168f884e9f3a
+      internalID: 6728818419824993178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c208185b61f3793409de4348f9839ff6
+      internalID: -646232489094961654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3efc2a7a46afeb40a814cd79a3fc8a2
+      internalID: 8834820441337966440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc295c26b3700f49b87ccd27af3e499
+      internalID: 6646777903644088034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8fcbb65fe3364a9465f154f4bef04
+      internalID: -421717721119113632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd3c390914f784f9f482898faf2e99
+      internalID: -2003036897165420005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c4eba7f9562d479e0b3358e3b86d1
+      internalID: 8217575164019614155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa81ea9af736a6479ad1f3473f21256
+      internalID: 8061159634085335289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cb52ea00ee2654cbcb1608dcf7d269
+      internalID: -4386257010465240335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd331d1f5e702b47b251f083e4fbed7
+      internalID: 4474211784593712693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc04af95412a5f44b7ae12f39af3a6f
+      internalID: 318245100411068829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895a03ae282e6004f864891ed26eb498
+      internalID: 351561678559343473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc491a9faffa7458b25088f5757ae6
+      internalID: 1624531515838966281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18525e6759df6714db1b511cdb98e081
+      internalID: -4339246166466271550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5d7849c748674e8455ca638bbc352
+      internalID: 2506855117639281908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac9f8ad8229644ba5d16137064e2c5
+      internalID: -7533436318656477917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b2790adcb6afd49a93591aada305d7
+      internalID: -8161399525613804759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_87
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bd6377fb9e9b944a36d4cd8460eeb6
+      internalID: 1267868371744975389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544c9e3212ccad4596a9098c90e2199
+      internalID: -8861992294570866431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f6304fc0cd62844bbbad0b23cbe942
+      internalID: 6685579679865389639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2c8092824b9c94a81351aa0b44b0b9
+      internalID: 4226295339975189880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074b585352e6234b97ff4da4afbd5e7
+      internalID: 6661345527366915773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153462072e75b84eb39cf7788908604
+      internalID: -8922808034926748705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00aa6094ef6bca4db90db15f1a51796
+      internalID: -5470800367243320126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a492315a4de8a4291bf62c7605499e
+      internalID: 1544452657762855529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bf78914e00b71478646ae637ff67bf
+      internalID: -7054351292101294699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef898261be363d4db27083ca58a0ae8
+      internalID: 1176845216903026374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1b9484930d6464fa5c06e2f39b4463
+      internalID: 5142861297318184022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_98
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 155
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f7151a73632946a1cd5aa3c5d2663
+      internalID: 2223619515514151812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b067efe41ab0a4a96acbd7819f7741
+      internalID: -2917211120224487620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09ee17e5d122944b83278fa137b17df
+      internalID: -8516080511274566050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4219e7c8ec26a5d4c9b22798c4350a59
+      internalID: -3583438273816958891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4751c6434999f47840c7d0c35adf0e
+      internalID: -7938800055625122507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ecf12136a1d524f86f5da0860d2c9b
+      internalID: 5628111702601508765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0fc8d70dd847a409e06df63cacd3c7
+      internalID: 8343936778622174427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd408cf3fae2964ab4faedac292de9e
+      internalID: 1731064094050910289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_106
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779ad6634e505f48a412cae1b8d5895
+      internalID: 6742084471242336316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885aa0cb87af0f43bb0f9f65478e1c0
+      internalID: -4518339206161578900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baa41f6cb8d5c74c9b5b80dc22bf676
+      internalID: -1341278090024487776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c5025fefa7d134285eba062da16ef8
+      internalID: 2756646454110608265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7e50a097b6844da3df1e0ab848d12
+      internalID: 4219763290919419789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a917ef71972bf418298d7618516432
+      internalID: 6009914632010766118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e039912ce0ae87438d4c92eb1403987
+      internalID: 1177375614899970641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c0a0fa50eef54eaee1d0eb5a7796b
+      internalID: 9174545261495581826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55667c3e98613c4294f9b647f0bf0bd
+      internalID: 8522258584477501155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a886eee94d014a92ef66a1bb90635
+      internalID: 7714540624562945854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810212736eda3a41a2ff69803179abf
+      internalID: -8071586215102718608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_117
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 91
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109e31830cb22b47af795d4cf164174
+      internalID: 5286722036498644950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938d379d29edae44aebe38ffd6c44ab
+      internalID: 5034438003959002567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786fe9ab7eec66f4396d2f3ea053a557
+      internalID: -8485384294238959316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b32107a398e349b257b046eca795d
+      internalID: -8694189759703181378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05321ba64dffed843bdcb04bf52552b7
+      internalID: 7326178053817960285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060caf38f9e203418a8d5fe6703e0e9
+      internalID: -4853305955293136105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455daaccb88700741853e1ea1435bb0c
+      internalID: -6295859058914022322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d3898abfea92b42b0faacc3fdf4022
+      internalID: 6322766720354868035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b96a82d7995274d8168f0c99426414
+      internalID: -4023955198929315055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_126
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a026c3d92a0a1f4da9753551519d22b
+      internalID: 1159079941712480895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddc0a6c5c0d6134e911562e6deb0d73
+      internalID: -1021555411362488587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab5ebf7e45d07499e77c6531b700b0
+      internalID: -2227784725199904889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50475fb1adabec24e99a60bffd08ff70
+      internalID: 1536572111605219985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c02507ed26ee446be12ca8143d0327
+      internalID: -6810722195802430200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fc7a64de5080c429605f713b06faa9
+      internalID: -1051172461859943368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99432f89a8d7b87449b63b6989d04454
+      internalID: 1356028475297764680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc92b479aba4ea48991556bfdd414d1
+      internalID: 3212519276976729775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b157575dc2dd9ff4fb84dffe9ffd5312
+      internalID: -2677292599361907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e2e2e63ed5a2f49a93c80dffbca02b
+      internalID: -4587427895637370691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_136
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b336ce33fa29048ad9ec73ad68ad42
+      internalID: 2105938768565703359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d736312ed427574996a8cf96ef4a541
+      internalID: 8472081745750202250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_138
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c1bd275a61ff408897c4d510feb12
+      internalID: 4774005005456227594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kampung_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 27
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84227812a9f7f940926518e79d772a1
+      internalID: 6986814044598488957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

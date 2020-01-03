@@ -1,0 +1,3775 @@
+fileFormatVersion: 2
+guid: a48a0b861f7815441934377cd117d59b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4432839083066577564
+    second: UluCity_0
+  - first:
+      213: 7670483702124511037
+    second: UluCity_1
+  - first:
+      213: 546571490223474394
+    second: UluCity_2
+  - first:
+      213: -2502012575706392114
+    second: UluCity_3
+  - first:
+      213: 3883390902052492704
+    second: UluCity_4
+  - first:
+      213: 5945735693079438793
+    second: UluCity_5
+  - first:
+      213: -6172158731227023551
+    second: UluCity_6
+  - first:
+      213: 4837397534723635841
+    second: UluCity_7
+  - first:
+      213: 5734748720295671810
+    second: UluCity_8
+  - first:
+      213: 6696846717123406210
+    second: UluCity_9
+  - first:
+      213: -4214703436010148811
+    second: UluCity_10
+  - first:
+      213: -9135169224369032558
+    second: UluCity_11
+  - first:
+      213: -2263476259120408413
+    second: UluCity_12
+  - first:
+      213: 6981259917880469981
+    second: UluCity_13
+  - first:
+      213: -360154679241376215
+    second: UluCity_14
+  - first:
+      213: 1562210496065059043
+    second: UluCity_15
+  - first:
+      213: 9070054149163003386
+    second: UluCity_16
+  - first:
+      213: -5711243483521503226
+    second: UluCity_17
+  - first:
+      213: 2751735054821630007
+    second: UluCity_18
+  - first:
+      213: -7096937059474111872
+    second: UluCity_19
+  - first:
+      213: -4645779231493332814
+    second: UluCity_20
+  - first:
+      213: -8321702796298035448
+    second: UluCity_21
+  - first:
+      213: 181614857886798006
+    second: UluCity_22
+  - first:
+      213: 3557645857347483361
+    second: UluCity_23
+  - first:
+      213: -2656023786335546058
+    second: UluCity_24
+  - first:
+      213: -141547333073490322
+    second: UluCity_25
+  - first:
+      213: -4878029671866203321
+    second: UluCity_26
+  - first:
+      213: 7429244750379563006
+    second: UluCity_27
+  - first:
+      213: -8851839858875012760
+    second: UluCity_28
+  - first:
+      213: -7839382608597620686
+    second: UluCity_29
+  - first:
+      213: -1074790267585384983
+    second: UluCity_30
+  - first:
+      213: 443823053167144053
+    second: UluCity_31
+  - first:
+      213: -2752279392698455694
+    second: UluCity_32
+  - first:
+      213: -2479119190754526315
+    second: UluCity_33
+  - first:
+      213: 5354674921426143206
+    second: UluCity_34
+  - first:
+      213: -4607890158779482600
+    second: UluCity_35
+  - first:
+      213: 941480943809316812
+    second: UluCity_36
+  - first:
+      213: 5843422772431293367
+    second: UluCity_37
+  - first:
+      213: 7899367257967579029
+    second: UluCity_38
+  - first:
+      213: -6845099454320659532
+    second: UluCity_39
+  - first:
+      213: 3531557644388229385
+    second: UluCity_40
+  - first:
+      213: 5646056026414902212
+    second: UluCity_41
+  - first:
+      213: 7497613450671421486
+    second: UluCity_42
+  - first:
+      213: 5418570821671707171
+    second: UluCity_43
+  - first:
+      213: -2388444246393407471
+    second: UluCity_44
+  - first:
+      213: 2872545414881059211
+    second: UluCity_45
+  - first:
+      213: 4784678709196863987
+    second: UluCity_46
+  - first:
+      213: -8437883577302550130
+    second: UluCity_47
+  - first:
+      213: 8351867029501453585
+    second: UluCity_48
+  - first:
+      213: 3792822744878729486
+    second: UluCity_49
+  - first:
+      213: -6174689284052960627
+    second: UluCity_50
+  - first:
+      213: -6608367390951315023
+    second: UluCity_51
+  - first:
+      213: -485588548637558591
+    second: UluCity_52
+  - first:
+      213: -696341991033470951
+    second: UluCity_53
+  - first:
+      213: 85532287887574983
+    second: UluCity_54
+  - first:
+      213: -4333184874171071871
+    second: UluCity_55
+  - first:
+      213: -4418208566164747118
+    second: UluCity_56
+  - first:
+      213: 1012686193585810250
+    second: UluCity_57
+  - first:
+      213: -9143749754460002621
+    second: UluCity_58
+  - first:
+      213: 7817736964003496781
+    second: UluCity_59
+  - first:
+      213: 2910962950414068513
+    second: UluCity_60
+  - first:
+      213: 473869193238711630
+    second: UluCity_61
+  - first:
+      213: -3026480698963464857
+    second: UluCity_62
+  - first:
+      213: 5761201076278385986
+    second: UluCity_63
+  - first:
+      213: 7053970154949659672
+    second: UluCity_64
+  - first:
+      213: 138458892638511731
+    second: UluCity_65
+  - first:
+      213: 1680983835618789485
+    second: UluCity_66
+  - first:
+      213: -4204695313819185159
+    second: UluCity_67
+  - first:
+      213: -4653703353179506217
+    second: UluCity_68
+  - first:
+      213: -8523675863986226636
+    second: UluCity_69
+  - first:
+      213: -1331787563772440181
+    second: UluCity_70
+  - first:
+      213: -5353647256397652203
+    second: UluCity_71
+  - first:
+      213: -8878173661971498807
+    second: UluCity_72
+  - first:
+      213: -2710295477417002204
+    second: UluCity_73
+  - first:
+      213: -6336300021236644951
+    second: UluCity_74
+  - first:
+      213: -9019590954458627880
+    second: UluCity_75
+  - first:
+      213: 7506681431468867670
+    second: UluCity_76
+  - first:
+      213: 5813201630785238516
+    second: UluCity_77
+  - first:
+      213: 2067392085863472981
+    second: UluCity_78
+  - first:
+      213: -5349142095161996863
+    second: UluCity_79
+  - first:
+      213: -6327247939595110176
+    second: UluCity_80
+  - first:
+      213: 1381019239439199174
+    second: UluCity_81
+  - first:
+      213: 8788662944994621638
+    second: UluCity_82
+  - first:
+      213: 2010867308390304399
+    second: UluCity_83
+  - first:
+      213: -6241911689511060748
+    second: UluCity_84
+  - first:
+      213: -8574348981401062853
+    second: UluCity_85
+  - first:
+      213: -312397576636426444
+    second: UluCity_86
+  - first:
+      213: -7834830780540354614
+    second: UluCity_87
+  - first:
+      213: 5305158910251073788
+    second: UluCity_88
+  - first:
+      213: 9019035366175023194
+    second: UluCity_89
+  - first:
+      213: -6144062733562483428
+    second: UluCity_90
+  - first:
+      213: 153145469963668025
+    second: UluCity_91
+  - first:
+      213: -1102327562868201736
+    second: UluCity_92
+  - first:
+      213: -2779861697682413466
+    second: UluCity_93
+  - first:
+      213: 7946554720917446110
+    second: UluCity_94
+  - first:
+      213: 5924003953541193832
+    second: UluCity_95
+  - first:
+      213: 6809022770755176088
+    second: UluCity_96
+  - first:
+      213: 1121672927610422854
+    second: UluCity_97
+  - first:
+      213: -4168833528701251130
+    second: UluCity_98
+  - first:
+      213: 248112266528349519
+    second: UluCity_99
+  - first:
+      213: 2484356955233258466
+    second: UluCity_100
+  - first:
+      213: -8029180306192115996
+    second: UluCity_101
+  - first:
+      213: -206634024539619882
+    second: UluCity_102
+  - first:
+      213: -7560697673781942683
+    second: UluCity_103
+  - first:
+      213: 663807364606828603
+    second: UluCity_104
+  - first:
+      213: -5827911235259917180
+    second: UluCity_105
+  - first:
+      213: -934099416491558901
+    second: UluCity_106
+  - first:
+      213: -8972846363649370167
+    second: UluCity_107
+  - first:
+      213: -9189643381076489048
+    second: UluCity_108
+  - first:
+      213: 632298087811950971
+    second: UluCity_109
+  - first:
+      213: 4615071844733527262
+    second: UluCity_110
+  - first:
+      213: 6789922724030168899
+    second: UluCity_111
+  - first:
+      213: -7979828217421504777
+    second: UluCity_112
+  - first:
+      213: 6152769633897328989
+    second: UluCity_113
+  - first:
+      213: 6871278253626882150
+    second: UluCity_114
+  - first:
+      213: 159801364288559441
+    second: UluCity_115
+  - first:
+      213: 7143758614796498088
+    second: UluCity_116
+  - first:
+      213: 6235212190122922395
+    second: UluCity_117
+  - first:
+      213: 8554041076656765043
+    second: UluCity_118
+  - first:
+      213: 3252806332951818003
+    second: UluCity_119
+  - first:
+      213: -1916311704615991446
+    second: UluCity_120
+  - first:
+      213: 7056180308360825826
+    second: UluCity_121
+  - first:
+      213: 8811401146269026897
+    second: UluCity_122
+  - first:
+      213: -4363698852734391569
+    second: UluCity_123
+  - first:
+      213: 7733986175128594763
+    second: UluCity_124
+  - first:
+      213: -3335817663561949142
+    second: UluCity_125
+  - first:
+      213: 3062666414005964985
+    second: UluCity_126
+  - first:
+      213: 2108215747639983886
+    second: UluCity_127
+  - first:
+      213: -2151486049611495542
+    second: UluCity_128
+  - first:
+      213: -5406188281613666718
+    second: UluCity_129
+  - first:
+      213: -4140475253973693500
+    second: UluCity_130
+  - first:
+      213: 8494559018845804879
+    second: UluCity_131
+  - first:
+      213: 6907736676119469808
+    second: UluCity_132
+  - first:
+      213: -3073841722820286122
+    second: UluCity_133
+  - first:
+      213: 2830124664035766319
+    second: UluCity_134
+  - first:
+      213: 7454171747779837213
+    second: UluCity_135
+  - first:
+      213: -5394831406156296003
+    second: UluCity_136
+  - first:
+      213: -5294779668278278099
+    second: UluCity_137
+  - first:
+      213: 7773534057775104766
+    second: UluCity_138
+  - first:
+      213: -1402016021092849626
+    second: UluCity_139
+  - first:
+      213: 8488030622320244625
+    second: UluCity_140
+  - first:
+      213: -8359929076171533932
+    second: UluCity_141
+  - first:
+      213: -6458628288678049007
+    second: UluCity_142
+  - first:
+      213: -6604964669668763544
+    second: UluCity_143
+  - first:
+      213: 4151417833018463848
+    second: UluCity_144
+  - first:
+      213: 2933759387678554069
+    second: UluCity_145
+  - first:
+      213: 7546128940587016036
+    second: UluCity_146
+  - first:
+      213: -8847797852574107425
+    second: UluCity_147
+  - first:
+      213: 5287328428005114188
+    second: UluCity_148
+  - first:
+      213: 6097636210683639822
+    second: UluCity_149
+  - first:
+      213: -8352695948793620764
+    second: UluCity_150
+  - first:
+      213: 7359746159884420688
+    second: UluCity_151
+  - first:
+      213: -7624100371696203483
+    second: UluCity_152
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UluCity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41035c98db054e843bf241a28b518c66
+      internalID: -4432839083066577564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69bcdc40a11bd64f896f7dc38e8d8a7
+      internalID: 7670483702124511037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57c6d7059a21194b94a15997cb336d8
+      internalID: 546571490223474394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b08f777a100d448b00918dd3c95bd0
+      internalID: -2502012575706392114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36aec170857ec43860ee900a5d50f5
+      internalID: 3883390902052492704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae285638561ee746b1c7d060c8af03e
+      internalID: 5945735693079438793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188947d1bd4c4a49b9e210e812eaf11
+      internalID: -6172158731227023551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e9f6bf316c814ea24e8e67347ce60
+      internalID: 4837397534723635841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3197ae67422a48985f6f8694a3ccb
+      internalID: 5734748720295671810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf19619d92940247903234f064fa70a
+      internalID: 6696846717123406210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c4b08862595d48a0d82e550096517
+      internalID: -4214703436010148811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473bde8f20a96384b89c6363abf15961
+      internalID: -9135169224369032558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa20aaa64d364142a9ab0cf2cefbbcd
+      internalID: -2263476259120408413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027318c644a109c48a5e0eefce9c8094
+      internalID: 6981259917880469981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b66ed2fac1d64a88a4a23ad6a12c6
+      internalID: -360154679241376215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 338
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a11d74492ea893448324d3608c7b389
+      internalID: 1562210496065059043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b05aee2d24a8049a3704e9d1460054
+      internalID: 9070054149163003386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d62e149976f5a41ae20873cc3d1e4f
+      internalID: -5711243483521503226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e00f91679bc7740a6127cfb12e4b36
+      internalID: 2751735054821630007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c1a8c238fe0e042a4e2fbaecd932a0
+      internalID: -7096937059474111872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fadc9abf065de4f8a90003da3859a1
+      internalID: -4645779231493332814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024118c2fc5fca04d987a3e7f4afd00a
+      internalID: -8321702796298035448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f777426e1b9c8e43af651bcab8bdd4e
+      internalID: 181614857886798006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec16c6730014446990174b79ab2906
+      internalID: 3557645857347483361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6b56bca943694f9dd8607f0bbbe28
+      internalID: -2656023786335546058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd733ee4b3e21b4419bb4e3b9da97ce5
+      internalID: -141547333073490322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a88f1ea1e571a74589de12faf8f45a0
+      internalID: -4878029671866203321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f2ee7f010d23468fd079254b95db8
+      internalID: 7429244750379563006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29412f5693ac5f443b3979f27b616428
+      internalID: -8851839858875012760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb4799d45a02324b83e48c2c1b0bd1c
+      internalID: -7839382608597620686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6912c0cb95bde049b26cc7f455cd947
+      internalID: -1074790267585384983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 306
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ed1acfb577434ba85b9127e9075a0
+      internalID: 443823053167144053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f49219f8da5c468a27d11e00ccb65
+      internalID: -2752279392698455694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40510eb51ceb74abc9dac07b5dcebb
+      internalID: -2479119190754526315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534a08ba4d667d49ad3f479895bfe03
+      internalID: 5354674921426143206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f753bfc89c7620444b520d1638eaf057
+      internalID: -4607890158779482600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca1b593d2451244a9e05c2c6340a6e4
+      internalID: 941480943809316812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a60501da4148444ad987932dc3a188
+      internalID: 5843422772431293367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bf2d2a1be3a174fa76655c0ced3168
+      internalID: 7899367257967579029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8b82f54eb97f4194f4f2a2bf7579b
+      internalID: -6845099454320659532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad56c9176466874f8f79010c7c22e9f
+      internalID: 3531557644388229385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db477c2bbd7db9c4fa2b859645499eef
+      internalID: 5646056026414902212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf54661d7b3baf47b1bfda9102b2ff5
+      internalID: 7497613450671421486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa482aa8df7fe644929d095b62f16d0
+      internalID: 5418570821671707171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef20beb332016e147a75f5d7d4c545ea
+      internalID: -2388444246393407471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40174b0430b03114ca8df7ad4c2061d8
+      internalID: 2872545414881059211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0266fef277b13a34187ff3d5dc912579
+      internalID: 4784678709196863987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa584a60c284f44b9be8fe35b10ad8
+      internalID: -8437883577302550130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9d7a50c5f7b24e88369ecf9f94838
+      internalID: 8351867029501453585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00767a8f5981dd4418fa68da8065656f
+      internalID: 3792822744878729486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa8ac09fc00e747809355e457a7690
+      internalID: -6174689284052960627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d887c9b082431ee429a30f77416213ec
+      internalID: -6608367390951315023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86560b214e796e74fb874f8c2aff45b3
+      internalID: -485588548637558591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d1fcd99ae9e34f92fdfa4d473a473
+      internalID: -696341991033470951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b062bcc2a6700479f5728077bc1cd1
+      internalID: 85532287887574983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab9b499f4309947b7ecafce8bc36f9
+      internalID: -4333184874171071871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59b4451b9ac7145bc34e504e32fc1a
+      internalID: -4418208566164747118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80acbffdb069eb049bcaffe466fc4915
+      internalID: 1012686193585810250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e39e1efe6336849a4cfd305fcad14e
+      internalID: -9143749754460002621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c59fa2e8c7334a9d616ec84ce0b80
+      internalID: 7817736964003496781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c6df1782010534b8f5e7bd0d9b78c0
+      internalID: 2910962950414068513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaba1efa28442d469fda7a19814fcf2
+      internalID: 473869193238711630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22507749fc93605468dbc8d2f1d48c37
+      internalID: -3026480698963464857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 242
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68dfe115d31b6a4c8b6b47e08ef5966
+      internalID: 5761201076278385986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc07de39aba2f4a8082f750a1e9fd0
+      internalID: 7053970154949659672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837dfe3cda47df74e86b3bdf4b5f5cfd
+      internalID: 138458892638511731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24a827d4d2ded4f80fdd944c7fc305
+      internalID: 1680983835618789485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208688e03efe94d4e96a10fa7de57d4d
+      internalID: -4204695313819185159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929bbaa2d87afc4db4f0746c9424b49
+      internalID: -4653703353179506217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430ec66916cf044c9c4ee0d5960be07
+      internalID: -8523675863986226636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c550ba5e7628b764ea3fa44da5c3247f
+      internalID: -1331787563772440181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62e26aea61097408149ff4c0e0cae5
+      internalID: -5353647256397652203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c3aa964a013984db1d521e890ea930
+      internalID: -8878173661971498807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55458e40390f4a04caecb710af5dde81
+      internalID: -2710295477417002204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb296fde628df6478a595f819d81054
+      internalID: -6336300021236644951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86299bab709b32408c7b4796cfd2d74
+      internalID: -9019590954458627880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d330b59f4a8d70419322b977cfee357
+      internalID: 7506681431468867670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275470053ebd07d458d8fcc370990658
+      internalID: 5813201630785238516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d268f619fc4c19b46b1a587f47c37b93
+      internalID: 2067392085863472981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301db1a5ad4f87943b4829937cfe1474
+      internalID: -5349142095161996863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f4636028bc2c0468e9409a77056aea
+      internalID: -6327247939595110176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159a0c018e8d504d94fe2e1ab470d92
+      internalID: 1381019239439199174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a59194a18bc04293780c056b99beb
+      internalID: 8788662944994621638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b1464a4dda1b048add4affd03115cf
+      internalID: 2010867308390304399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4ca4859537c4048ae527067bc21c8e
+      internalID: -6241911689511060748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b83e435862bd48ab69e3f642d938b
+      internalID: -8574348981401062853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696060938041e54f9474fe3351cbb88
+      internalID: -312397576636426444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48427d28ddc617e45a2e06b24f314367
+      internalID: -7834830780540354614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e8d5c555775f94cb15b7fb5131f2fe
+      internalID: 5305158910251073788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afbadea7a0e99942aff2de5e67bd039
+      internalID: 9019035366175023194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203aa9e66533cb4fb3403717f2ba339
+      internalID: -6144062733562483428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427e830321f3aa4782608109b6f9e1f
+      internalID: 153145469963668025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 178
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf0a98453e93947b4dc3c1a9dfc67a
+      internalID: -1102327562868201736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18d36f6012a6244a9f047a1e9ae543
+      internalID: -2779861697682413466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da682cc8e573d4d9c5f880bb7172b4
+      internalID: 7946554720917446110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720053d96d386f4eb520c6ba65d0247
+      internalID: 5924003953541193832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a595def4fc0954381ebefd25119274
+      internalID: 6809022770755176088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128649fbfcae6dd4bb1e6f7d8290fa69
+      internalID: 1121672927610422854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d269c7861d8994fa148740fce133e4
+      internalID: -4168833528701251130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202533a1e2f85a540b5db75e90495fd4
+      internalID: 248112266528349519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46451710d06501a4ba9d30d92b4218e2
+      internalID: 2484356955233258466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8721a949a7be7d246abaf30b2372d7e9
+      internalID: -8029180306192115996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7967c8f776fd74e859943841698dbc
+      internalID: -206634024539619882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0628dff6add650458f03d60dec2319e
+      internalID: -7560697673781942683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1a1b1e9047084ab5468923b357466
+      internalID: 663807364606828603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a295bf944cc614f85891d1c0c35d21
+      internalID: -5827911235259917180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_106
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45021952e9d7d7c468ff9a153fd03493
+      internalID: -934099416491558901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2af5b71392ab4a866cc431ab7ad3d
+      internalID: -8972846363649370167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_108
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957520102d0ebc045902484788fb7d93
+      internalID: -9189643381076489048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477efbd22eef7e48a0890a9f133c47b
+      internalID: 632298087811950971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_110
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80135a0bf464da49b06f2d636b9dd91
+      internalID: 4615071844733527262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabba0d1f04b8624ea23bcf5487a12d9
+      internalID: 6789922724030168899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af866686181f6046bf60c5be5c48316
+      internalID: -7979828217421504777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_113
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3440e370206a6648a8859f6b7f6b4ba
+      internalID: 6152769633897328989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_114
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da39657f674ffa42b531a1d1123f01d
+      internalID: 6871278253626882150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f2317d40fbb264da884c38509bb1b2
+      internalID: 159801364288559441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd0609e4b9279488c72b5e07a02c08
+      internalID: 7143758614796498088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf78511b558b01f4480348684708bd6f
+      internalID: 6235212190122922395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aaa898cef85624fa82ea57e7ddc1b0
+      internalID: 8554041076656765043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_119
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44241130a3de7d240b5d983d889e1d2a
+      internalID: 3252806332951818003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_120
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb5da71757d4c048b1da3626368107b
+      internalID: -1916311704615991446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada28ee5ebfe0084da54de12210cbaa8
+      internalID: 7056180308360825826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2390790838a9443acdbdea0d94b79e
+      internalID: 8811401146269026897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ccddca94478e478888ab3345f9ca0
+      internalID: -4363698852734391569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_124
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20370497961d36b43aada6829d38a0f4
+      internalID: 7733986175128594763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145f5f2a3adad4459195861ef0ac6bd
+      internalID: -3335817663561949142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd24fa5e0466142800a2c0e43f0933
+      internalID: 3062666414005964985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94d850d7984304aa65218cc1db38bb
+      internalID: 2108215747639983886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb345085e0fb0444b7da19d3036f77e
+      internalID: -2151486049611495542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe9d8a5f0d941449961205bd8504364
+      internalID: -5406188281613666718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190dd424eda23043af9f84d8c317a63
+      internalID: -4140475253973693500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61fd8825fde3444a1e390c14bb128a
+      internalID: 8494559018845804879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98be8bcb4422d42833276e4548b366
+      internalID: 6907736676119469808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373c1d9a3bccd54ca1149c0e5bce40b
+      internalID: -3073841722820286122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed4b547504bd44394cbeadb363fd40
+      internalID: 2830124664035766319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_135
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715c88723a42a2e42af76b2e293fcb8d
+      internalID: 7454171747779837213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cea8cfc27bd449bba7afc222b521f
+      internalID: -5394831406156296003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdea2c5f822a6348b9c030481036374
+      internalID: -5294779668278278099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ed6ebffe1884c468f7bf10960e55c4
+      internalID: 7773534057775104766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632763a8684bffb479a1ff7b0bb442e6
+      internalID: -1402016021092849626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc896f9dd368f54fbdd6976c7831dda
+      internalID: 8488030622320244625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cae58a31704dc40bb0f2ab1ad1255a
+      internalID: -8359929076171533932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0e86bb528c58478801f3f93ede286
+      internalID: -6458628288678049007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b406fe5bf18d4099259561cc9a47e
+      internalID: -6604964669668763544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119f059a70fb9d4bbccf99fb60f0bde
+      internalID: 4151417833018463848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4598c8bb669c7c144b4c2d1ac5bbb1b9
+      internalID: 2933759387678554069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504bc3c6081475d4ca0eb8794814b4c9
+      internalID: 7546128940587016036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b32092552179a498cf26a1a69cfabb
+      internalID: -8847797852574107425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a7af591b0ab643aad74b96a52ea9c
+      internalID: 5287328428005114188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e878c8773d1d46b279f3bfcfdee2b
+      internalID: 6097636210683639822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55a0fb2fb454e4fb9af616c6dad904
+      internalID: -8352695948793620764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39337b3c554a5004bba29d2385b361a4
+      internalID: 7359746159884420688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UluCity_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af442de73b803b54ca68ec02c3350e39
+      internalID: -7624100371696203483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

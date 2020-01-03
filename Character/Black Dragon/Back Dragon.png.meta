@@ -1,0 +1,4840 @@
+fileFormatVersion: 2
+guid: 6c67df96bbc957143976300fd090ef7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6922960200192670731
+    second: Back Dragon_Idle_0
+  - first:
+      213: -2792905596642159711
+    second: Back Dragon_Idle_1
+  - first:
+      213: -6560817280163323136
+    second: Back Dragon_Idle_2
+  - first:
+      213: 8839108147375809099
+    second: Back Dragon_Idle_3
+  - first:
+      213: -8773048844646399663
+    second: Back Dragon_Idle_4
+  - first:
+      213: -4589268823795827044
+    second: Back Dragon_Idle_5
+  - first:
+      213: 7912328990923889564
+    second: Back Dragon_Idle_6
+  - first:
+      213: -8762305837471078474
+    second: Back Dragon_Idle_7
+  - first:
+      213: 3925813240342094487
+    second: Back Dragon_Idle_8
+  - first:
+      213: -7479882017801536706
+    second: Back Dragon_Idle_9
+  - first:
+      213: -4294546973343759557
+    second: Back Dragon_Idle_10
+  - first:
+      213: -5610343406652782182
+    second: Back Dragon_Idle_11
+  - first:
+      213: 1784486128300407022
+    second: Back Dragon_Idle_12
+  - first:
+      213: -403027486208090822
+    second: Back Dragon_Idle_13
+  - first:
+      213: -8368849532791927626
+    second: Back Dragon_Idle_14
+  - first:
+      213: 7920659355750906970
+    second: Back Dragon_Idle_15
+  - first:
+      213: -9090307561044157412
+    second: Back Dragon_Idle_16
+  - first:
+      213: 4135976722890837951
+    second: Back Dragon_Idle_17
+  - first:
+      213: 1836972033840988073
+    second: Back Dragon_Idle_18
+  - first:
+      213: 9139949339821828049
+    second: Back Dragon_Idle_19
+  - first:
+      213: -2569984975620159535
+    second: Back Dragon_20
+  - first:
+      213: 3352547615080789751
+    second: Back Dragon_21
+  - first:
+      213: 8922811860830705783
+    second: Back Dragon_22
+  - first:
+      213: 8722263077370491402
+    second: Back Dragon_23
+  - first:
+      213: -2078003772654079888
+    second: Back Dragon_24
+  - first:
+      213: -1348232239807738084
+    second: Back Dragon_25
+  - first:
+      213: 4984310626249769159
+    second: Back Dragon_26
+  - first:
+      213: 2863727006940219469
+    second: Back Dragon_27
+  - first:
+      213: 9195583371404277262
+    second: Back Dragon_28
+  - first:
+      213: 6102816051793509224
+    second: Back Dragon_29
+  - first:
+      213: -1070930572989609176
+    second: Back Dragon_30
+  - first:
+      213: -1893634024860835132
+    second: Back Dragon_31
+  - first:
+      213: -1901504198362133334
+    second: Back Dragon_32
+  - first:
+      213: -7114845297835472493
+    second: Back Dragon_33
+  - first:
+      213: 6518303399419554245
+    second: Back Dragon_34
+  - first:
+      213: 5494594513755569269
+    second: Back Dragon_35
+  - first:
+      213: -4453206731743145581
+    second: Back Dragon_36
+  - first:
+      213: 8056874734824193264
+    second: Back Dragon_37
+  - first:
+      213: -6724279390964929871
+    second: Back Dragon_38
+  - first:
+      213: 85726747054276512
+    second: Back Dragon_39
+  - first:
+      213: 1237341508118604996
+    second: Back Dragon_40
+  - first:
+      213: 1086606503238674204
+    second: Back Dragon_41
+  - first:
+      213: 5171113800119753290
+    second: Back Dragon_42
+  - first:
+      213: -5204079071648105615
+    second: Spell1_Back Dragon_0
+  - first:
+      213: -6052566983548504678
+    second: Spell1_Back Dragon_1
+  - first:
+      213: 1858369505508611685
+    second: Spell1_Back Dragon_2
+  - first:
+      213: 974866561205270639
+    second: Spell1_Back Dragon_3
+  - first:
+      213: -3636958897641617191
+    second: Back Dragon_47
+  - first:
+      213: -4315631702329908918
+    second: Spell1_Back Dragon_4
+  - first:
+      213: -6914680434846490656
+    second: Back Dragon_49
+  - first:
+      213: 6873030286980578002
+    second: Spell1_Back Dragon_5
+  - first:
+      213: 2028077963791854411
+    second: Spell1_Back Dragon_6
+  - first:
+      213: -6731636205892241568
+    second: Spell1_Back Dragon_7
+  - first:
+      213: 501794388754218660
+    second: Back Dragon_53
+  - first:
+      213: 5480827215880751205
+    second: Back Dragon_54
+  - first:
+      213: 5011217476503572634
+    second: Back Dragon_55
+  - first:
+      213: -4747888312535495939
+    second: Back Dragon_56
+  - first:
+      213: 6792199751123909898
+    second: Back Dragon_57
+  - first:
+      213: -4389598004103030921
+    second: Back Dragon_58
+  - first:
+      213: 808574855622477167
+    second: Back Dragon_59
+  - first:
+      213: -5747588093588749399
+    second: Back Dragon_60
+  - first:
+      213: 5146662342668005123
+    second: Back Dragon_61
+  - first:
+      213: -1615986798560472603
+    second: Back Dragon_62
+  - first:
+      213: -7994199600685094514
+    second: Back Dragon_63
+  - first:
+      213: 3607078605292263067
+    second: Back Dragon_64
+  - first:
+      213: 9098058084562263535
+    second: Back Dragon_65
+  - first:
+      213: -6823593647901501911
+    second: Back Dragon_66
+  - first:
+      213: 7364254588442074081
+    second: Back Dragon_67
+  - first:
+      213: 6890751981908502642
+    second: Back Dragon_68
+  - first:
+      213: -6023890652451866728
+    second: Back Dragon_69
+  - first:
+      213: -5807025355196919401
+    second: Back Dragon_70
+  - first:
+      213: -2986172855504009084
+    second: Back Dragon_71
+  - first:
+      213: -1145726910690256509
+    second: Back Dragon_72
+  - first:
+      213: -8757505374969026669
+    second: Back Dragon_73
+  - first:
+      213: 2113428998318356735
+    second: Back Dragon_74
+  - first:
+      213: 2167007472389549107
+    second: Back Dragon_75
+  - first:
+      213: 1572828209902446640
+    second: Back Dragon_76
+  - first:
+      213: -886631511302074212
+    second: Back Dragon_77
+  - first:
+      213: -3861453430976274256
+    second: Back Dragon_78
+  - first:
+      213: -5042936107673796747
+    second: Back Dragon_79
+  - first:
+      213: 8303982974214394205
+    second: Back Dragon_80
+  - first:
+      213: -1094753071168473238
+    second: Back Dragon_81
+  - first:
+      213: 3217420652195040746
+    second: Back Dragon_82
+  - first:
+      213: 837815133158145840
+    second: Back Dragon_83
+  - first:
+      213: 4668362908190818458
+    second: Back Dragon_84
+  - first:
+      213: 7376747550152149377
+    second: Back Dragon_85
+  - first:
+      213: 1303878294594761400
+    second: Back Dragon_86
+  - first:
+      213: -5011439713389370450
+    second: Back Dragon_87
+  - first:
+      213: -6842076174235467903
+    second: Back Dragon_88
+  - first:
+      213: 2216978905221619732
+    second: Back Dragon_89
+  - first:
+      213: -8173343530425881951
+    second: Back Dragon_90
+  - first:
+      213: 6740632411585684486
+    second: Back Dragon_91
+  - first:
+      213: 3787241967206883096
+    second: Back Dragon_92
+  - first:
+      213: 5375990989190723137
+    second: Back Dragon_93
+  - first:
+      213: -8630251883711932597
+    second: Back Dragon_94
+  - first:
+      213: 1693955192288323349
+    second: Back Dragon_95
+  - first:
+      213: 5259984972883119682
+    second: Back Dragon_96
+  - first:
+      213: -8473679317163533650
+    second: Back Dragon_97
+  - first:
+      213: 2727953296715079207
+    second: Back Dragon_98
+  - first:
+      213: -1833083183650787448
+    second: Back Dragon_99
+  - first:
+      213: 8299147873484713347
+    second: Back Dragon_100
+  - first:
+      213: 3096968891344369975
+    second: Back Dragon_101
+  - first:
+      213: -5229430770699239541
+    second: Back Dragon_102
+  - first:
+      213: 9051386117076803645
+    second: Back Dragon_103
+  - first:
+      213: 6572367475107664026
+    second: Back Dragon_104
+  - first:
+      213: 7243934013332905131
+    second: Back Dragon_105
+  - first:
+      213: 6526164456349510347
+    second: Back Dragon_106
+  - first:
+      213: -1440839281893217689
+    second: Back Dragon_107
+  - first:
+      213: -2219760892437253268
+    second: Back Dragon_108
+  - first:
+      213: -280402919538413572
+    second: Back Dragon_109
+  - first:
+      213: -7772837265679923543
+    second: Back Dragon_110
+  - first:
+      213: 4902974505194569682
+    second: Back Dragon_111
+  - first:
+      213: -8917184639183974559
+    second: Back Dragon_112
+  - first:
+      213: 7395531093098284732
+    second: Back Dragon_113
+  - first:
+      213: -8171000074136326893
+    second: Back Dragon_114
+  - first:
+      213: 6767915379370974880
+    second: Back Dragon_115
+  - first:
+      213: 1836599977702695178
+    second: Back Dragon_116
+  - first:
+      213: -603386749608409798
+    second: Back Dragon_117
+  - first:
+      213: -5787291731966577349
+    second: Back Dragon_118
+  - first:
+      213: 860915715647614967
+    second: Back Dragon_119
+  - first:
+      213: -3868499594398830732
+    second: Back Dragon_120
+  - first:
+      213: 1092993558495583045
+    second: Back Dragon_121
+  - first:
+      213: 5749423048845550897
+    second: Back Dragon_122
+  - first:
+      213: 6596497258101189020
+    second: Back Dragon_123
+  - first:
+      213: 7585142782608927799
+    second: Back Dragon_124
+  - first:
+      213: 2875818274977927528
+    second: Back Dragon_125
+  - first:
+      213: 8749363339009407747
+    second: Back Dragon_126
+  - first:
+      213: 2573814026349852595
+    second: Back Dragon_127
+  - first:
+      213: -7502990965941391085
+    second: Back Dragon_128
+  - first:
+      213: 6698878793995316273
+    second: Back Dragon_129
+  - first:
+      213: 1401004814764481946
+    second: Back Dragon_130
+  - first:
+      213: -9005254276133989445
+    second: Back Dragon_131
+  - first:
+      213: 287310409043531187
+    second: Back Dragon_132
+  - first:
+      213: 4773561355457460773
+    second: Back Dragon_133
+  - first:
+      213: 5714990039995185618
+    second: Back Dragon_134
+  - first:
+      213: -1678856959075128498
+    second: Back Dragon_135
+  - first:
+      213: 4585076054930142127
+    second: Back Dragon_136
+  - first:
+      213: -8755444449076179761
+    second: Back Dragon_137
+  - first:
+      213: -2996703618438870860
+    second: Back Dragon_138
+  - first:
+      213: -713614228697134575
+    second: Back Dragon_139
+  - first:
+      213: -4739012995138736799
+    second: Back Dragon_140
+  - first:
+      213: -214273249314708764
+    second: Back Dragon_141
+  - first:
+      213: -487121496119439865
+    second: Back Dragon_142
+  - first:
+      213: 8437973294268412364
+    second: Back Dragon_143
+  - first:
+      213: 4881200144450454780
+    second: Back Dragon_144
+  - first:
+      213: 4184119200604966977
+    second: Back Dragon_145
+  - first:
+      213: 441747462265886256
+    second: Back Dragon_146
+  - first:
+      213: 439724773296509087
+    second: Back Dragon_147
+  - first:
+      213: -900920262168800038
+    second: Back Dragon_148
+  - first:
+      213: 7078661169135368748
+    second: Back Dragon_149
+  - first:
+      213: -975172319418132224
+    second: Back Dragon_150
+  - first:
+      213: -6351684526958042410
+    second: Back Dragon_151
+  - first:
+      213: 1761705368891389368
+    second: Back Dragon_152
+  - first:
+      213: -8717973560628129913
+    second: Back Dragon_153
+  - first:
+      213: -4519855235900375132
+    second: Back Dragon_154
+  - first:
+      213: -6204141021929889072
+    second: Back Dragon_155
+  - first:
+      213: 8380685049129529112
+    second: Back Dragon_156
+  - first:
+      213: -1058808762962029590
+    second: Back Dragon_157
+  - first:
+      213: -3567038529833341823
+    second: Back Dragon_158
+  - first:
+      213: -2194012452613773553
+    second: Back Dragon_159
+  - first:
+      213: -5639439148956471481
+    second: Back Dragon_160
+  - first:
+      213: 5142473276800880020
+    second: Back Dragon_161
+  - first:
+      213: 2890710594055893163
+    second: Back Dragon_162
+  - first:
+      213: 4425864820845331586
+    second: Back Dragon_163
+  - first:
+      213: -4813882622511953133
+    second: Back Dragon_164
+  - first:
+      213: 7716629699576674021
+    second: Back Dragon_165
+  - first:
+      213: 3202250769370246895
+    second: Back Dragon_166
+  - first:
+      213: 7210955743714525968
+    second: Back Dragon_167
+  - first:
+      213: 46684766703976349
+    second: Back Dragon_168
+  - first:
+      213: -8996479495318339051
+    second: Back Dragon_169
+  - first:
+      213: 5650163045453201694
+    second: Back Dragon_170
+  - first:
+      213: -4910054587080162959
+    second: Back Dragon_171
+  - first:
+      213: 7713983098787060658
+    second: Back Dragon_172
+  - first:
+      213: 7423436745276182513
+    second: Back Dragon_173
+  - first:
+      213: 4974733745062046752
+    second: Back Dragon_174
+  - first:
+      213: 6160507972054910971
+    second: Back Dragon_175
+  - first:
+      213: 3109994515025703763
+    second: Back Dragon_176
+  - first:
+      213: 5273586898532166979
+    second: Back Dragon_177
+  - first:
+      213: -7188694294076303831
+    second: Back Dragon_178
+  - first:
+      213: 6974136889650523511
+    second: Back Dragon_179
+  - first:
+      213: -7193806122365366475
+    second: Back Dragon_180
+  - first:
+      213: 5814573616152714987
+    second: Back Dragon_181
+  - first:
+      213: -2704669019282457424
+    second: Back Dragon_182
+  - first:
+      213: 9217305080082729541
+    second: Back Dragon_183
+  - first:
+      213: -6241550763958402039
+    second: Back Dragon_184
+  - first:
+      213: 6149700895191191189
+    second: Back Dragon_185
+  - first:
+      213: 8541231377351507429
+    second: Back Dragon_186
+  - first:
+      213: 1136158109270465829
+    second: Back Dragon_187
+  - first:
+      213: 35438378482406216
+    second: Back Dragon_188
+  - first:
+      213: -354404168493725078
+    second: Back Dragon_189
+  - first:
+      213: -6911508540350250651
+    second: Back Dragon_190
+  - first:
+      213: -3654696942639639146
+    second: Back Dragon_191
+  - first:
+      213: 2607130396728062204
+    second: Back Dragon_192
+  - first:
+      213: 5806733577023133258
+    second: Back Dragon_193
+  - first:
+      213: -5706889587578437415
+    second: Back Dragon_194
+  - first:
+      213: -6500440524131744339
+    second: Back Dragon_195
+  - first:
+      213: 371451511321663490
+    second: Back Dragon_196
+  - first:
+      213: -7666146059055601487
+    second: Back Dragon_197
+  - first:
+      213: -9212285864048690760
+    second: Back Dragon_198
+  - first:
+      213: -949882299971685069
+    second: Back Dragon_199
+  - first:
+      213: -3616640889359914903
+    second: Back Dragon_200
+  - first:
+      213: 3288097028331465571
+    second: Back Dragon_201
+  - first:
+      213: -6764903731975369299
+    second: Back Dragon_202
+  - first:
+      213: 1063911493258641593
+    second: Back Dragon_203
+  - first:
+      213: -6878727637490214137
+    second: Back Dragon_204
+  - first:
+      213: 7932235945108040504
+    second: Back Dragon_205
+  - first:
+      213: -6893236771601923728
+    second: Back Dragon_206
+  - first:
+      213: 2836667380576341787
+    second: Back Dragon_207
+  - first:
+      213: 9118368858756102679
+    second: Back Dragon_208
+  - first:
+      213: 5154754583202669797
+    second: Back Dragon_209
+  - first:
+      213: -5042096888033600907
+    second: Back Dragon_210
+  - first:
+      213: -1979654598560773248
+    second: Back Dragon_211
+  - first:
+      213: -8494990476827473196
+    second: Back Dragon_212
+  - first:
+      213: 2126157159105810450
+    second: Back Dragon_213
+  - first:
+      213: 2286494452485649621
+    second: Back Dragon_214
+  - first:
+      213: 6353605087311533037
+    second: Back Dragon_215
+  - first:
+      213: -1479868761219897386
+    second: Back Dragon_216
+  - first:
+      213: 7802700047989294153
+    second: Back Dragon_217
+  - first:
+      213: 3767748410801634197
+    second: Back Dragon_218
+  - first:
+      213: 3170167343221127242
+    second: Back Dragon_219
+  - first:
+      213: 6740629530129188086
+    second: Back Dragon_220
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back Dragon_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1459
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6676e3ef7fecfaf40906e6987d5b88fa
+      internalID: 6922960200192670731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1459
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1d12e76716c84f9a33a2206c20bb7
+      internalID: -2792905596642159711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1459
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e612434ace914bb877a328249dc6a
+      internalID: -6560817280163323136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1459
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e2f7f1f2d0c64d8057baa59739670
+      internalID: 8839108147375809099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1459
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af09fe102a601214083a259908fc4d4c
+      internalID: -8773048844646399663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f0cec5f607b146b802a5b1baf1820
+      internalID: -4589268823795827044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2fcbd7a5579a543ad3e5a02a82b153
+      internalID: 7912328990923889564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370ee1d081a16141a551aa70d7ad796
+      internalID: -8762305837471078474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b431feb688543a34489390f7aba02d37
+      internalID: 3925813240342094487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b92632cedbd84445b127cde16710bd0
+      internalID: -7479882017801536706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302473b6ba2424845a032b2515b8aa37
+      internalID: -4294546973343759557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26fd16fb7d687a43a0cadff64b39cc6
+      internalID: -5610343406652782182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd405e7e35fa95a4ba9eb217fcd8a269
+      internalID: 1784486128300407022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363b36f6edcdcd48b5aa639f1f07c95
+      internalID: -403027486208090822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1379
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04d30061e456e5459abae81fd5cc86f
+      internalID: -8368849532791927626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1299
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8297bed0bf2ed498f95d4ba0cef05d
+      internalID: 7920659355750906970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1299
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175e612bf8cf17a419af11d5649e9bba
+      internalID: -9090307561044157412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1299
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fab635cca5b0c541b0ccf287852204e
+      internalID: 4135976722890837951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1299
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5b10a20726bad40815424d73613a9c
+      internalID: 1836972033840988073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1299
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879762ca71f8af4daee0f8332e6926c
+      internalID: 9139949339821828049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1299
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37ff7830467b24596a1497a2bd20b7
+      internalID: -2569984975620159535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1219
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc358ee8a04b7c40b21df0eaf0fdabb
+      internalID: 3352547615080789751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1219
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e74b0d9a9d50419dc6723d661432f
+      internalID: 8922811860830705783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1219
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed35bd1c1ebb043951a808fbc9b5f0
+      internalID: 8722263077370491402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1219
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90059dcb74ac441b4ebb4755b21697
+      internalID: -2078003772654079888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1219
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4e6e2962b3da4ea3997301c141205
+      internalID: -1348232239807738084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe4684dbc95e24b9720b756bafeebc
+      internalID: 4984310626249769159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352e7f064b141843b509d63dbcdd578
+      internalID: 2863727006940219469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62863f0e3161314b850f33417e468f5
+      internalID: 9195583371404277262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee8fe65041ae24a887c225643d664d
+      internalID: 6102816051793509224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f12f4f9eb98342beb6cc9f37f9111
+      internalID: -1070930572989609176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1139
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8944245487d122044aadb03d97331392
+      internalID: -1893634024860835132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d088dcf386824a8af23ca7424dc68
+      internalID: -1901504198362133334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09978b458db7834294cab9b1a2d1653
+      internalID: -7114845297835472493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddf888e12d6aa4ea90486ff8d6dfd2
+      internalID: 6518303399419554245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054fb41d6f5ded4986acd3fabe76479
+      internalID: 5494594513755569269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36016a461e8bcb4984e02a45bedac2b
+      internalID: -4453206731743145581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1a3c06280feb8459c9ca8a5105570d
+      internalID: 8056874734824193264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744f13a748355841afcb309168f018c
+      internalID: -6724279390964929871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c6e26a4cb53a40b60d7e9780559a1
+      internalID: 85726747054276512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d35e92aef083c74fb1ff7ef2a563d26
+      internalID: 1237341508118604996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced3b4cf08b05a14e9b756ab4f7c153f
+      internalID: 1086606503238674204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1059
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b5925380308754489bca4251432162
+      internalID: 5171113800119753290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 980
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af6d82d905e2b4eb8b74151ff77a84
+      internalID: -5204079071648105615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 980
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e05a1f9ec1cad45a976ecbbeb121ea
+      internalID: -6052566983548504678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 979
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2760bd6d4fa5a244ae764ed3c7f805d
+      internalID: 1858369505508611685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 979
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740717fe72d7704e8ba88db72d5f793
+      internalID: 974866561205270639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 979
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed590f72df41a6498ea4363de4679d8
+      internalID: -4315631702329908918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 979
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da70fbef8f1960418a7837763518a6b
+      internalID: 6873030286980578002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 979
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305efa97138f7d4d9ddb0f806c6cb30
+      internalID: 2028077963791854411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 978
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b235b81aab8704aad8183e8184ecca
+      internalID: -6731636205892241568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129fa0ea8319954d97c3bb735b24b2a
+      internalID: 5480827215880751205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199c89000203b94e823858d19d11f31
+      internalID: 5011217476503572634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93f49ba86da2cc49b4f5cf3faa6a218
+      internalID: -4747888312535495939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65977e85c7bcd7242bce9daffecdbf51
+      internalID: 6792199751123909898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8387f6827fce4bc47b0058e8895b634a
+      internalID: -4389598004103030921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf5a42271b9be4a8a5989153a64087
+      internalID: 808574855622477167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58a51ef4a8a684592309cdd58bbc09
+      internalID: -5747588093588749399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa49ee345364f49aa04266d21e7591
+      internalID: 5146662342668005123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e385841697552488aceaea44325616
+      internalID: -1615986798560472603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 899
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b4418035ea454e8bd24317247d689
+      internalID: -7994199600685094514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178eb8ac69afc6c4e91989acd3d6f50b
+      internalID: 3607078605292263067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e8ba8a3cc5724ab1836357311c7ff
+      internalID: 9098058084562263535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dc6b0d3e8256946bc6ccc716835253
+      internalID: -6823593647901501911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5cd180ef2a984198563c5634a71d5
+      internalID: 7364254588442074081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e0fa809f5ccb4bbf7337521774502
+      internalID: 6890751981908502642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca9306cb141794daef9e4e5ebdfb8a
+      internalID: -6023890652451866728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9b53e3fc8c034a9f03819949e5665
+      internalID: -5807025355196919401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870ee67a7efa0747beda9caf736bce6
+      internalID: -2986172855504009084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5c92750d512d49ae768a32d85dfba
+      internalID: -1145726910690256509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 819
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343df21acd70904a9fe2785088390a4
+      internalID: -8757505374969026669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ab00fe004f658408f106942f68861f
+      internalID: 2113428998318356735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82534d4fe1d8d74fa786c1ddc345e25
+      internalID: 2167007472389549107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b6aba8779906478856cab804470bd
+      internalID: 1572828209902446640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fea8413b2d041488ea18b1a1c35019
+      internalID: -886631511302074212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c942f7b5168af4ebb8ced203b89563
+      internalID: -3861453430976274256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e43e61de9ad0f245b2a000045401ef3
+      internalID: -5042936107673796747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c1165ac104d7428ce8e1b3b172577
+      internalID: 8303982974214394205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d51ddd3c8c7ee4c8b7e02c81f2d818
+      internalID: -1094753071168473238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac3e584feda0c4aae88ffc06754dc8
+      internalID: 3217420652195040746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 739
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860977433b9d8d4ba44f6806d048c93
+      internalID: 837815133158145840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583d24f4dfd74794e9603b33a9e648eb
+      internalID: 4668362908190818458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90088d4b0262f914f91ddb6269cf0197
+      internalID: 7376747550152149377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac464a75e9a8014583cf13700638633
+      internalID: 1303878294594761400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48052973840539949a2f3cf1433b2a39
+      internalID: -5011439713389370450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47b67e472f6d3248a5bdfd10124c92d
+      internalID: -6842076174235467903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14583d4d1d38f754db4af18cf86b2ece
+      internalID: 2216978905221619732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20f9148a6452448ad7d3965bdbbb0b
+      internalID: -8173343530425881951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04894ad3667c2e42b94158032d1bd5a
+      internalID: 6740632411585684486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772b14fed3038042949620f1c479dc7
+      internalID: 3787241967206883096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35056b60b583346a6b123014de26df
+      internalID: 5375990989190723137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad429a7f567b6c44980b1dda27d1a66
+      internalID: -8630251883711932597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202571407ae04e549a48f1a8cd00dd3c
+      internalID: 1693955192288323349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb90215e99245849bb83f9afbcf0aaa
+      internalID: 5259984972883119682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2c4f317837fd428abc2b9ef8d3bf0
+      internalID: -8473679317163533650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7104027fd033f5c4b8f7903ea76c6db0
+      internalID: 2727953296715079207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82370b08c093be4ba5bc2ed022beae6
+      internalID: -1833083183650787448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66910a2e559bc4b9de6efc227b4203
+      internalID: 8299147873484713347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56c3ea8c22315f4db7fc9473d18f5f7
+      internalID: 3096968891344369975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c70bf651355254ca6bb53ae0c7511b
+      internalID: -5229430770699239541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653b6a2b69ccf6468edbdd839680d7b
+      internalID: 9051386117076803645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e599ddcbdd83c3d4ebc90afe9495a707
+      internalID: 6572367475107664026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d729d58e83685d342a54926d38db99d6
+      internalID: 7243934013332905131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e79b4252b8fc24a9d5fa927ecb4dae
+      internalID: 6526164456349510347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b500fdbbd7827e4195b3369479fa15b
+      internalID: -1440839281893217689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d16df7372b074a8e6280e73b37c1d
+      internalID: -2219760892437253268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eccee39b2083c4094d0ad16f4b5a44
+      internalID: -280402919538413572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229343ae02e080469f20156999c9120
+      internalID: -7772837265679923543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b90b56ea235248b401c148c55f550
+      internalID: 4902974505194569682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a9da1916706346b203fb0c5ccc15f
+      internalID: -8917184639183974559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d36d0b2cfe1904f9ae723e30ade403
+      internalID: 7395531093098284732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bcfd768cceec945bde2114bfc315ae
+      internalID: -8171000074136326893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_115
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbdc2fcd0650042be2f86eed57678e
+      internalID: 6767915379370974880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_116
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac999cffea13e34c860e4d974a0b591
+      internalID: 1836599977702695178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_117
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f4f2fc4f9b194a9dd4407a5963477
+      internalID: -603386749608409798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_118
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a22ddcea27764b991f76f6966e5b4
+      internalID: -5787291731966577349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_119
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c65641ea4b7a478d79529ff2870af
+      internalID: 860915715647614967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_120
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 659
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84feded3411f7d4b96a40dc0af44562
+      internalID: -3868499594398830732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_121
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95653b351a6dff42855a0b2d114a763
+      internalID: 1092993558495583045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_122
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42fb606c8781c4c9c2a9e6c3dfb68f
+      internalID: 5749423048845550897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_123
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1243fdb0142d1a043bdf252524cf7eda
+      internalID: 6596497258101189020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_124
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6738853d02364aac8e5a7dadd2b83
+      internalID: 7585142782608927799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_125
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22966b4151ab9744ae210d7be0cb60f
+      internalID: 2875818274977927528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_126
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ddf08978cac0e4d94872bc3bbc5d7e
+      internalID: 8749363339009407747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_127
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb386de7542f9c4386370334fedb80e
+      internalID: 2573814026349852595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_128
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d08eefd5634084d8f1544724c27c78
+      internalID: -7502990965941391085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_129
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1a2e8096a5154eaa74bf405160a7a
+      internalID: 6698878793995316273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b36ece2eab0d7b4eb34f8a7571d3793
+      internalID: 1401004814764481946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_131
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9dd6aaf0021b14fa41ae69c59ac42f
+      internalID: -9005254276133989445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_132
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2eac152549f44cb3579510a048d5e
+      internalID: 287310409043531187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_133
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640383712b95564d90056d2bf912e1f
+      internalID: 4773561355457460773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_134
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cc558340e30fe45a875c35dd0daa66
+      internalID: 5714990039995185618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_135
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96a2f424a7f53a428317e07f01f54c5
+      internalID: -1678856959075128498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_136
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddfd76624b9ccb4ba919c18ec121f87
+      internalID: 4585076054930142127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_137
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5fcdd6a37edc48b216f9a1bef6523
+      internalID: -8755444449076179761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_138
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520ee46fffd92f4e8f15da32aa234c0
+      internalID: -2996703618438870860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_139
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412fd054920c7f445b8880328552f830
+      internalID: -713614228697134575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_140
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c24799a4ad1c459860724f9b78469
+      internalID: -4739012995138736799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_141
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3bca1bbe2111449c466caa532b558
+      internalID: -214273249314708764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_142
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b32ad78a341e7b408e9bcf18f72e5a7
+      internalID: -487121496119439865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_143
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab251c7fa20dc8347ab1159ddc2e1d98
+      internalID: 8437973294268412364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_144
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb08c7a759d3f7408fe31a7b3f75b18
+      internalID: 4881200144450454780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_145
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330bf3a61a64714c893f5a060441280
+      internalID: 4184119200604966977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_146
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387f57212a44db40ac1b94a246411bf
+      internalID: 441747462265886256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_147
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79fe87452cfd947be4d326fd27add0
+      internalID: 439724773296509087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_148
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffb2a30f6bf4e4dadb58ddfc93ec07
+      internalID: -900920262168800038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_149
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983de21e9b1821409f2bc75525f4629
+      internalID: 7078661169135368748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_150
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f3bdb57cb1064d94cc5f5b2c3a8af
+      internalID: -975172319418132224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_151
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca98f157bcdde946973aeec93b06ef0
+      internalID: -6351684526958042410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_152
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0e3fd934f5f844b5eef42cfb8c498
+      internalID: 1761705368891389368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_153
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de130de70d6bd4ea4ee9bd3f3702af
+      internalID: -8717973560628129913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_154
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1b2d7ee449b24c9bc4af32d9c898c
+      internalID: -4519855235900375132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_155
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca6d0943ed0074a9956a7eb956bda2
+      internalID: -6204141021929889072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_156
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02994c0af0569fb438abfbe0ca6f09b3
+      internalID: 8380685049129529112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_157
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 579
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922982233281a1d4ca2f036e7e74a591
+      internalID: -1058808762962029590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 499
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c50ae1e04f595448c9c18e6473411f
+      internalID: -3567038529833341823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_159
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 499
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e87bb19a85f0f64f9c4fac7770805b1
+      internalID: -2194012452613773553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_160
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 499
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd1129df6ea1f4d9e71916147819a6
+      internalID: -5639439148956471481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_161
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 499
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfceb0fb2572c8499eaf4758ba801e8
+      internalID: 5142473276800880020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_162
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 499
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2369ace1f632f40879d2d238f46a5a
+      internalID: 2890710594055893163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_163
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a3b4d0be64ccd449eafdc92f0aab5a
+      internalID: 4425864820845331586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_164
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b51389d9e9e3e429a3ddfbfe3e3fd1
+      internalID: -4813882622511953133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_165
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6500555fa12ae4aa6889e5fbb9b276
+      internalID: 7716629699576674021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_166
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bf430dd27648d4c9ef9f39314efae2
+      internalID: 3202250769370246895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_167
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3aab7322499ff439028b407e377fe6
+      internalID: 7210955743714525968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_168
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 419
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c8d6dd91a04244b7dbd80afb9ea61
+      internalID: 46684766703976349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_169
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a1377fe4136d4f8150f4555a6f244
+      internalID: -8996479495318339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_170
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1edb99833c25d4089d1e30f84a6567
+      internalID: 5650163045453201694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_171
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70289e0d0a79eda4ba324de4b4a76dbb
+      internalID: -4910054587080162959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_172
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c0fc47a2e39248bb6bb1452b45295
+      internalID: 7713983098787060658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_173
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65d78c8371323428deb147b5614bfa
+      internalID: 7423436745276182513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 339
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632b6add47baaf438a31a24427d5b5c
+      internalID: 4974733745062046752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_175
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 259
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b98cf1aaabd804caf852b68f947514
+      internalID: 6160507972054910971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_176
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 259
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58792318bb9b564fab6b04040c88c61
+      internalID: 3109994515025703763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_177
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dfb0823df413749908213387fc9988
+      internalID: 5273586898532166979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_178
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 259
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b185d65350684a8dc7245a0799740
+      internalID: -7188694294076303831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_179
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 259
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fbeadac29ab8d448dceb2e52b54e9a
+      internalID: 6974136889650523511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_180
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 179
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e0d1545576974eb5532786ad5ebe0
+      internalID: -7193806122365366475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_181
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 179
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef428e0f5b7c6c642a6a1ce69a54d1cb
+      internalID: 5814573616152714987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_182
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 179
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8aedcc63d15c646a7963d5ac7fc956
+      internalID: -2704669019282457424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_183
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 179
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92c62e779c02f4ca21cccca38c8b46
+      internalID: 9217305080082729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_184
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 179
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71491f14f165fdc44861ef4d4cf479e7
+      internalID: -6241550763958402039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_185
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0acca5afd2a94e980d99720dd0bb4
+      internalID: 6149700895191191189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_186
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c18f2f5be9f6549897940e390d2de8
+      internalID: 8541231377351507429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_187
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1393d857b122cfd4fa0b1612bda07f0d
+      internalID: 1136158109270465829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_188
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb288b966f1be4f956c0dadc65c38c
+      internalID: 35438378482406216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_189
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d495f65e040ebf4db0983b0ae568e25
+      internalID: -354404168493725078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_190
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 99
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dda37c293ad87418f77fa443dc545d
+      internalID: -6911508540350250651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_191
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400a3e4a6301b94887f979ff176a762
+      internalID: -3654696942639639146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_192
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9fcf66c20dc924c80fcfd4f4d0f337
+      internalID: 2607130396728062204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_193
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8908f6fbfdbea7143a4650b301eab030
+      internalID: 5806733577023133258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_194
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b6c198a1429ff46a300ba06f6a5f1e
+      internalID: -5706889587578437415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_195
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d119f66b9bbe4e9322224d86dc11d
+      internalID: -6500440524131744339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Dragon_196
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 19
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d933b5dbc8d44ab96163c81fe0195
+      internalID: 371451511321663490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
