@@ -19,49 +19,49 @@ TextureImporter:
     second: Back Dragon_Idle_4
   - first:
       213: -4589268823795827044
-    second: Back Dragon_5
+    second: Back Dragon_Idle_5
   - first:
       213: 7912328990923889564
-    second: Back Dragon_6
+    second: Back Dragon_Idle_6
   - first:
       213: -8762305837471078474
-    second: Back Dragon_7
+    second: Back Dragon_Idle_7
   - first:
       213: 3925813240342094487
-    second: Back Dragon_8
+    second: Back Dragon_Idle_8
   - first:
       213: -7479882017801536706
-    second: Back Dragon_9
+    second: Back Dragon_Idle_9
   - first:
       213: -4294546973343759557
-    second: Back Dragon_10
+    second: Back Dragon_Idle_10
   - first:
       213: -5610343406652782182
-    second: Back Dragon_11
+    second: Back Dragon_Idle_11
   - first:
       213: 1784486128300407022
-    second: Back Dragon_12
+    second: Back Dragon_Idle_12
   - first:
       213: -403027486208090822
-    second: Back Dragon_13
+    second: Back Dragon_Idle_13
   - first:
       213: -8368849532791927626
-    second: Back Dragon_14
+    second: Back Dragon_Idle_14
   - first:
       213: 7920659355750906970
-    second: Back Dragon_15
+    second: Back Dragon_Idle_15
   - first:
       213: -9090307561044157412
-    second: Back Dragon_16
+    second: Back Dragon_Idle_16
   - first:
       213: 4135976722890837951
-    second: Back Dragon_17
+    second: Back Dragon_Idle_17
   - first:
       213: 1836972033840988073
-    second: Back Dragon_18
+    second: Back Dragon_Idle_18
   - first:
       213: 9139949339821828049
-    second: Back Dragon_19
+    second: Back Dragon_Idle_19
   - first:
       213: -2569984975620159535
     second: Back Dragon_20
@@ -133,34 +133,34 @@ TextureImporter:
     second: Back Dragon_42
   - first:
       213: -5204079071648105615
-    second: Back Dragon_43
+    second: Spell1_Back Dragon_0
   - first:
       213: -6052566983548504678
-    second: Back Dragon_44
+    second: Spell1_Back Dragon_1
   - first:
       213: 1858369505508611685
-    second: Back Dragon_45
+    second: Spell1_Back Dragon_2
   - first:
       213: 974866561205270639
-    second: Back Dragon_46
+    second: Spell1_Back Dragon_3
   - first:
       213: -3636958897641617191
     second: Back Dragon_47
   - first:
       213: -4315631702329908918
-    second: Back Dragon_48
+    second: Spell1_Back Dragon_4
   - first:
       213: -6914680434846490656
     second: Back Dragon_49
   - first:
       213: 6873030286980578002
-    second: Back Dragon_50
+    second: Spell1_Back Dragon_5
   - first:
       213: 2028077963791854411
-    second: Back Dragon_51
+    second: Spell1_Back Dragon_6
   - first:
       213: -6731636205892241568
-    second: Back Dragon_52
+    second: Spell1_Back Dragon_7
   - first:
       213: 501794388754218660
     second: Back Dragon_53
@@ -854,7 +854,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_5
+      name: Back Dragon_Idle_5
       rect:
         serializedVersion: 2
         x: 6
@@ -875,10 +875,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_6
+      name: Back Dragon_Idle_6
       rect:
         serializedVersion: 2
-        x: 78
+        x: 77
         y: 1379
         width: 64
         height: 80
@@ -896,7 +896,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_7
+      name: Back Dragon_Idle_7
       rect:
         serializedVersion: 2
         x: 150
@@ -917,7 +917,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_8
+      name: Back Dragon_Idle_8
       rect:
         serializedVersion: 2
         x: 222
@@ -938,10 +938,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_9
+      name: Back Dragon_Idle_9
       rect:
         serializedVersion: 2
-        x: 294
+        x: 293
         y: 1379
         width: 64
         height: 80
@@ -959,7 +959,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_10
+      name: Back Dragon_Idle_10
       rect:
         serializedVersion: 2
         x: 366
@@ -980,10 +980,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_11
+      name: Back Dragon_Idle_11
       rect:
         serializedVersion: 2
-        x: 439
+        x: 438
         y: 1379
         width: 64
         height: 80
@@ -1001,10 +1001,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_12
+      name: Back Dragon_Idle_12
       rect:
         serializedVersion: 2
-        x: 510
+        x: 508
         y: 1379
         width: 64
         height: 80
@@ -1022,10 +1022,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_13
+      name: Back Dragon_Idle_13
       rect:
         serializedVersion: 2
-        x: 582
+        x: 579
         y: 1379
         width: 64
         height: 80
@@ -1043,10 +1043,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_14
+      name: Back Dragon_Idle_14
       rect:
         serializedVersion: 2
-        x: 654
+        x: 651
         y: 1379
         width: 64
         height: 80
@@ -1064,7 +1064,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_15
+      name: Back Dragon_Idle_15
       rect:
         serializedVersion: 2
         x: 6
@@ -1085,7 +1085,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_16
+      name: Back Dragon_Idle_16
       rect:
         serializedVersion: 2
         x: 78
@@ -1106,12 +1106,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_17
+      name: Back Dragon_Idle_17
       rect:
         serializedVersion: 2
         x: 150
         y: 1299
-        width: 64
+        width: 70
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1127,12 +1127,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_18
+      name: Back Dragon_Idle_18
       rect:
         serializedVersion: 2
         x: 222
         y: 1299
-        width: 64
+        width: 73
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1148,12 +1148,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_19
+      name: Back Dragon_Idle_19
       rect:
         serializedVersion: 2
-        x: 294
+        x: 302
         y: 1299
-        width: 64
+        width: 68
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1195,7 +1195,7 @@ TextureImporter:
         serializedVersion: 2
         x: 6
         y: 1219
-        width: 64
+        width: 73
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1652,12 +1652,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_43
+      name: Spell1_Back Dragon_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 979
-        width: 64
+        x: 5
+        y: 980
+        width: 76
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1673,12 +1673,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_44
+      name: Spell1_Back Dragon_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 979
-        width: 64
+        x: 87
+        y: 980
+        width: 76
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1694,12 +1694,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_45
+      name: Spell1_Back Dragon_2
       rect:
         serializedVersion: 2
-        x: 150
+        x: 180
         y: 979
-        width: 64
+        width: 82
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1715,12 +1715,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_46
+      name: Spell1_Back Dragon_3
       rect:
         serializedVersion: 2
-        x: 222
+        x: 276
         y: 979
-        width: 64
+        width: 86
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1736,33 +1736,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_47
+      name: Spell1_Back Dragon_4
       rect:
         serializedVersion: 2
-        x: 294
+        x: 395
         y: 979
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b08d362f897d9e47b83afbd48b7df9e
-      internalID: -3636958897641617191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_48
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 979
-        width: 64
+        width: 76
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1778,33 +1757,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_49
+      name: Spell1_Back Dragon_5
       rect:
         serializedVersion: 2
-        x: 438
+        x: 488
         y: 979
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5724e3d6d179dce488f2becb068a09c0
-      internalID: -6914680434846490656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_50
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 979
-        width: 64
+        width: 76
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1820,12 +1778,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_51
+      name: Spell1_Back Dragon_6
       rect:
         serializedVersion: 2
         x: 582
         y: 979
-        width: 64
+        width: 79
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1841,12 +1799,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_52
+      name: Spell1_Back Dragon_7
       rect:
         serializedVersion: 2
-        x: 654
-        y: 979
-        width: 64
+        x: 680
+        y: 978
+        width: 76
         height: 80
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1857,27 +1815,6 @@ TextureImporter:
       bones: []
       spriteID: f2b235b81aab8704aad8183e8184ecca
       internalID: -6731636205892241568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_53
-      rect:
-        serializedVersion: 2
-        x: 726
-        y: 979
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f62dec65d18b2834c8425fc74b1ccd84
-      internalID: 501794388754218660
       vertices: []
       indices: 
       edges: []
