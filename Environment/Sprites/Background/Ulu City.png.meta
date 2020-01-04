@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 5864ce53c837c1b44b7b9f7e766a9c8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 852021686616658630
+    second: Cloud_Ulu City_0
+  - first:
+      213: -4062281085893663854
+    second: Ulu City_1
+  - first:
+      213: 663458093887610133
+    second: Cloud_Ulu City_1
+  - first:
+      213: -7559539122535107890
+    second: Ulu City_3
+  - first:
+      213: -6312087719734292925
+    second: Ulu City_4
+  - first:
+      213: -6994319806793680130
+    second: Cloud_Ulu City_2
+  - first:
+      213: 6581887328002453927
+    second: Cloud_Ulu City_3
+  - first:
+      213: -6808740033277786276
+    second: Cloud_Ulu City_4
+  - first:
+      213: -1969387303173774894
+    second: Cloud_Ulu City_5
+  - first:
+      213: 9159889414212492162
+    second: Cloud_Ulu City_6
+  - first:
+      213: -760740239135329180
+    second: Cloud_Ulu City_7
+  - first:
+      213: 3020548538688901902
+    second: City_Ulu City_0
+  - first:
+      213: -5923713686449061914
+    second: City_Ulu City_12
+  - first:
+      213: 3345395604388127057
+    second: City_Ulu City_13
+  - first:
+      213: -8971997183249594357
+    second: City_Ulu City_14
+  - first:
+      213: -4473896061073091230
+    second: Ulu City_15
+  - first:
+      213: 2543880426819614175
+    second: City_Ulu City_16
+  - first:
+      213: -5089766449580648223
+    second: City_Ulu City_17
+  - first:
+      213: 1045059897793718869
+    second: City_Ulu City_18
+  - first:
+      213: 6400246160420326873
+    second: Cloud_Ulu City_19
+  - first:
+      213: 2216214699890856343
+    second: City_Ulu City_20
+  - first:
+      213: 5789144989414960311
+    second: City_Ulu City_21
+  - first:
+      213: 1851654893864164667
+    second: City_Ulu City_22
+  - first:
+      213: -3257573587573783401
+    second: City_Ulu City_23
+  - first:
+      213: -4630943776286081230
+    second: City_Ulu City_24
+  - first:
+      213: 2203834330800149753
+    second: City_Ulu City_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cloud_Ulu City_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4245
+        width: 782
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f92126731137e3489ddc248f31ac364
+      internalID: 852021686616658630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulu City_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3512
+        width: 86
+        height: 988
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554ba64d0f99a3e4ebd5b911cea3b54a
+      internalID: -4062281085893663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4097
+        width: 359
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def67d616f4a4f4cb8d8072dad26199
+      internalID: 663458093887610133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulu City_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4067
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5350d0f97cc12cf4db6f29b4268eeb14
+      internalID: -7559539122535107890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulu City_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3982
+        width: 318
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d574f19e30e0419d107707185a6fe
+      internalID: -6312087719734292925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3738
+        width: 567
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28531b9030c6f3d4baea03ded9304360
+      internalID: -6994319806793680130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3430
+        width: 410
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f7f28e5ade3c4a8ade479b8e7d87b
+      internalID: 6581887328002453927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 3438
+        width: 233
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f963bc29357a7408015bdbd49c8877
+      internalID: -6808740033277786276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3218
+        width: 282
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b79c84b8025de419a9d7325befa167
+      internalID: -1969387303173774894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3136
+        width: 488
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ae3a8990884a45b9b0bf807b8da3e
+      internalID: 9159889414212492162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2545
+        width: 674
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494d9f1c076d1546913a2e86b0ac9f3
+      internalID: -760740239135329180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2094
+        width: 316
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a339401c3e62479df5333f3b1af5c
+      internalID: 3020548538688901902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2094
+        width: 183
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5ceca354bac24081dcb3fd702bea5
+      internalID: -5923713686449061914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2088
+        width: 214
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5171c40c3bd0449ba64732c7d4d1de
+      internalID: 3345395604388127057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1906
+        width: 501
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f59ac4b9cf5647b521d9828907e2a
+      internalID: -8971997183249594357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ulu City_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1909
+        width: 208
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952242d4f52e2304bba875935a65d156
+      internalID: -4473896061073091230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1716
+        width: 561
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a7632d711676b49bcbe7a5b3359f07
+      internalID: 2543880426819614175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1498
+        width: 426
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136fde7ed1544046b4e50649d2e30f4
+      internalID: -5089766449580648223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1297
+        width: 666
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c18694931005438a0c2e13e02c7f0
+      internalID: 1045059897793718869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_Ulu City_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1134
+        width: 518
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f4bce8b4dff740a996c37b14f207d
+      internalID: 6400246160420326873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 802
+        width: 348
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f642dfa4a0378064aaaa32e3350afe71
+      internalID: 2216214699890856343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 799
+        width: 436
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e471d9403fa024d9f1d611307aa509
+      internalID: 5789144989414960311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 563
+        width: 376
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97df1fc448e6b48a261d6b151b2dba
+      internalID: 1851654893864164667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 10
+        width: 340
+        height: 661
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd3f50558ddd34eb48836c8b414f45
+      internalID: -3257573587573783401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 291
+        width: 485
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608e3e9b0c4f06428ff201ae436e002
+      internalID: -4630943776286081230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Ulu City_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 586
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d00cb72cc67aec4c90e4be924dbe6b4
+      internalID: 2203834330800149753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
