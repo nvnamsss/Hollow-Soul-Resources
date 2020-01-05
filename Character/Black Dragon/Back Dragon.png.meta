@@ -145,13 +145,13 @@ TextureImporter:
     second: Spell1_Back Dragon_3
   - first:
       213: -3636958897641617191
-    second: Back Dragon_47
+    second: Spell1_Back Dragon_47
   - first:
       213: -4315631702329908918
     second: Spell1_Back Dragon_4
   - first:
       213: -6914680434846490656
-    second: Back Dragon_49
+    second: Spell1_Back Dragon_49
   - first:
       213: 6873030286980578002
     second: Spell1_Back Dragon_5
@@ -163,13 +163,13 @@ TextureImporter:
     second: Spell1_Back Dragon_7
   - first:
       213: 501794388754218660
-    second: Back Dragon_53
+    second: Spell1_Back Dragon_53
   - first:
       213: 5480827215880751205
     second: Back Dragon_54
   - first:
       213: 5011217476503572634
-    second: Back Dragon_55
+    second: Spell1_Back Dragon_55
   - first:
       213: -4747888312535495939
     second: Back Dragon_56
@@ -250,82 +250,82 @@ TextureImporter:
     second: Back Dragon_81
   - first:
       213: 3217420652195040746
-    second: Back Dragon_82
+    second: Metamorphosis_Back Dragon_82
   - first:
       213: 837815133158145840
-    second: Back Dragon_83
+    second: Metamorphosis_Back Dragon_83
   - first:
       213: 4668362908190818458
-    second: Back Dragon_84
+    second: Metamorphosis_Back Dragon_84
   - first:
       213: 7376747550152149377
-    second: Back Dragon_85
+    second: Metamorphosis_Back Dragon_85
   - first:
       213: 1303878294594761400
-    second: Back Dragon_86
+    second: Metamorphosis_Back Dragon_86
   - first:
       213: -5011439713389370450
-    second: Back Dragon_87
+    second: Metamorphosis_Back Dragon_87
   - first:
       213: -6842076174235467903
-    second: Back Dragon_88
+    second: Metamorphosis_Back Dragon_88
   - first:
       213: 2216978905221619732
-    second: Back Dragon_89
+    second: Metamorphosis_Back Dragon_89
   - first:
       213: -8173343530425881951
-    second: Back Dragon_90
+    second: Metamorphosis_Back Dragon_90
   - first:
       213: 6740632411585684486
-    second: Back Dragon_91
+    second: Metamorphosis_Back Dragon_91
   - first:
       213: 3787241967206883096
-    second: Back Dragon_92
+    second: Metamorphosis_Back Dragon_92
   - first:
       213: 5375990989190723137
-    second: Back Dragon_93
+    second: Metamorphosis_Back Dragon_93
   - first:
       213: -8630251883711932597
-    second: Back Dragon_94
+    second: Metamorphosis_Back Dragon_94
   - first:
       213: 1693955192288323349
-    second: Back Dragon_95
+    second: Metamorphosis_Back Dragon_95
   - first:
       213: 5259984972883119682
-    second: Back Dragon_96
+    second: Metamorphosis_Back Dragon_96
   - first:
       213: -8473679317163533650
-    second: Back Dragon_97
+    second: Metamorphosis_Back Dragon_97
   - first:
       213: 2727953296715079207
-    second: Back Dragon_98
+    second: Metamorphosis_Back Dragon_98
   - first:
       213: -1833083183650787448
-    second: Back Dragon_99
+    second: Metamorphosis_Back Dragon_99
   - first:
       213: 8299147873484713347
-    second: Back Dragon_100
+    second: Metamorphosis_Back Dragon_100
   - first:
       213: 3096968891344369975
-    second: Back Dragon_101
+    second: Metamorphosis_Back Dragon_101
   - first:
       213: -5229430770699239541
-    second: Back Dragon_102
+    second: Metamorphosis_Back Dragon_102
   - first:
       213: 9051386117076803645
-    second: Back Dragon_103
+    second: Metamorphosis_Back Dragon_103
   - first:
       213: 6572367475107664026
-    second: Back Dragon_104
+    second: Metamorphosis_Back Dragon_104
   - first:
       213: 7243934013332905131
-    second: Back Dragon_105
+    second: Metamorphosis_Back Dragon_105
   - first:
       213: 6526164456349510347
-    second: Back Dragon_106
+    second: Metamorphosis_Back Dragon_106
   - first:
       213: -1440839281893217689
-    second: Back Dragon_107
+    second: Metamorphosis_Back Dragon_107
   - first:
       213: -2219760892437253268
     second: Back Dragon_108
@@ -665,6 +665,90 @@ TextureImporter:
   - first:
       213: 6740629530129188086
     second: Back Dragon_220
+  - first:
+      213: 6922960200192670731
+    second: Back Dragon_0
+  - first:
+      213: -2792905596642159711
+    second: Back Dragon_1
+  - first:
+      213: -6560817280163323136
+    second: Back Dragon_2
+  - first:
+      213: 8839108147375809099
+    second: Back Dragon_3
+  - first:
+      213: -8773048844646399663
+    second: Back Dragon_4
+  - first:
+      213: -4589268823795827044
+    second: Back Dragon_5
+  - first:
+      213: 7912328990923889564
+    second: Back Dragon_6
+  - first:
+      213: -8762305837471078474
+    second: Back Dragon_7
+  - first:
+      213: 3925813240342094487
+    second: Back Dragon_8
+  - first:
+      213: -7479882017801536706
+    second: Back Dragon_9
+  - first:
+      213: -4294546973343759557
+    second: Back Dragon_10
+  - first:
+      213: -5610343406652782182
+    second: Back Dragon_11
+  - first:
+      213: 1784486128300407022
+    second: Back Dragon_12
+  - first:
+      213: -403027486208090822
+    second: Back Dragon_13
+  - first:
+      213: -8368849532791927626
+    second: Back Dragon_14
+  - first:
+      213: 7920659355750906970
+    second: Back Dragon_15
+  - first:
+      213: -9090307561044157412
+    second: Back Dragon_16
+  - first:
+      213: 4135976722890837951
+    second: Back Dragon_17
+  - first:
+      213: 1836972033840988073
+    second: Back Dragon_18
+  - first:
+      213: 9139949339821828049
+    second: Back Dragon_19
+  - first:
+      213: -5204079071648105615
+    second: Back Dragon_43
+  - first:
+      213: -6052566983548504678
+    second: Back Dragon_44
+  - first:
+      213: 1858369505508611685
+    second: Back Dragon_45
+  - first:
+      213: 974866561205270639
+    second: Spell1_Back Dragon_46
+  - first:
+      213: -4315631702329908918
+    second: Spell1_Back Dragon_48
+  - first:
+      213: 6873030286980578002
+    second: Spell1_Back Dragon_50
+  - first:
+      213: 2028077963791854411
+    second: Spell1_Back Dragon_51
+  - first:
+      213: -6731636205892241568
+    second: Back Dragon_52
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -749,13 +833,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Back Dragon_Idle_0
+      name: Back Dragon_0
       rect:
         serializedVersion: 2
         x: 6
-        y: 1459
+        y: 1466
         width: 64
-        height: 80
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -763,20 +847,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6676e3ef7fecfaf40906e6987d5b88fa
+      spriteID: 3d0aa80d9c46885418b3235cf0f6dd6a
       internalID: 6922960200192670731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_1
+      name: Back Dragon_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1459
-        width: 64
-        height: 80
+        x: 77
+        y: 1466
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,20 +868,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cfe1d12e76716c84f9a33a2206c20bb7
+      spriteID: 51c6d709b1fea4341b098162f3f9bdfe
       internalID: -2792905596642159711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_2
+      name: Back Dragon_2
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1459
+        x: 151
+        y: 1461
         width: 64
-        height: 80
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,20 +889,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d20e612434ace914bb877a328249dc6a
+      spriteID: cddead24672c1124c8dc781f3baca48b
       internalID: -6560817280163323136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_3
+      name: Back Dragon_3
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1459
-        width: 64
-        height: 80
+        x: 223
+        y: 1461
+        width: 63
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,20 +910,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff0e2f7f1f2d0c64d8057baa59739670
+      spriteID: 3dca7880cabf26f4fa90b67d707e2472
       internalID: 8839108147375809099
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_4
+      name: Back Dragon_4
       rect:
         serializedVersion: 2
         x: 294
-        y: 1459
-        width: 64
-        height: 80
+        y: 1466
+        width: 63
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,20 +931,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af09fe102a601214083a259908fc4d4c
+      spriteID: 335c6ce28cb21ce4e94c4e6781de5ea0
       internalID: -8773048844646399663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_5
+      name: Back Dragon_5
       rect:
         serializedVersion: 2
         x: 6
-        y: 1379
+        y: 1390
         width: 64
-        height: 80
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -868,20 +952,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 033f0cec5f607b146b802a5b1baf1820
+      spriteID: 91a7e83e2884eb247828a1b9bceafde7
       internalID: -4589268823795827044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_6
+      name: Back Dragon_6
       rect:
         serializedVersion: 2
         x: 77
-        y: 1379
-        width: 64
-        height: 80
+        y: 1390
+        width: 66
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -889,20 +973,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c2fcbd7a5579a543ad3e5a02a82b153
+      spriteID: 299ede0ff194c5b48be427c6d5f5140c
       internalID: 7912328990923889564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_7
+      name: Back Dragon_7
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1379
+        x: 151
+        y: 1383
         width: 64
-        height: 80
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -910,20 +994,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f370ee1d081a16141a551aa70d7ad796
+      spriteID: 50aa63a9c765e8f4d900a7459b1e1b6d
       internalID: -8762305837471078474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_8
+      name: Back Dragon_8
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1379
-        width: 64
-        height: 80
+        x: 223
+        y: 1384
+        width: 63
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -931,20 +1015,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b431feb688543a34489390f7aba02d37
+      spriteID: 6026134646368174ebecf4540901debb
       internalID: 3925813240342094487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_9
+      name: Back Dragon_9
       rect:
         serializedVersion: 2
         x: 293
-        y: 1379
+        y: 1390
         width: 64
-        height: 80
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -952,20 +1036,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b92632cedbd84445b127cde16710bd0
+      spriteID: d026b43e56caf8d4b8773641c1fd60f2
       internalID: -7479882017801536706
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_10
+      name: Back Dragon_10
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1379
+        x: 365
+        y: 1390
         width: 64
-        height: 80
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,20 +1057,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 302473b6ba2424845a032b2515b8aa37
+      spriteID: d1c8d5cb0b8bb064c9fff5282c31dce2
       internalID: -4294546973343759557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_11
+      name: Back Dragon_11
       rect:
         serializedVersion: 2
-        x: 438
-        y: 1379
-        width: 64
-        height: 80
+        x: 436
+        y: 1390
+        width: 66
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -994,20 +1078,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b26fd16fb7d687a43a0cadff64b39cc6
+      spriteID: 99e4816d45250414ea998d6f310d037c
       internalID: -5610343406652782182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_12
+      name: Back Dragon_12
       rect:
         serializedVersion: 2
         x: 508
-        y: 1379
-        width: 64
-        height: 80
+        y: 1383
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1015,20 +1099,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd405e7e35fa95a4ba9eb217fcd8a269
+      spriteID: 3081c92c32dd9244ebdfc8dd725304d8
       internalID: 1784486128300407022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_13
+      name: Back Dragon_13
       rect:
         serializedVersion: 2
         x: 579
-        y: 1379
+        y: 1384
         width: 64
-        height: 80
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1036,20 +1120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2363b36f6edcdcd48b5aa639f1f07c95
+      spriteID: 43032301cb0380348af0bdcd3aaa2da7
       internalID: -403027486208090822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_14
+      name: Back Dragon_14
       rect:
         serializedVersion: 2
-        x: 651
-        y: 1379
-        width: 64
-        height: 80
+        x: 650
+        y: 1390
+        width: 65
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,20 +1141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04d30061e456e5459abae81fd5cc86f
+      spriteID: 99fe517940244e34c8ba8b0cbccf17fb
       internalID: -8368849532791927626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_15
+      name: Back Dragon_15
       rect:
         serializedVersion: 2
         x: 6
-        y: 1299
+        y: 1315
         width: 64
-        height: 80
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,20 +1162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc8297bed0bf2ed498f95d4ba0cef05d
+      spriteID: 9b671e119f413054b8807d8d28c6984e
       internalID: 7920659355750906970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_16
+      name: Back Dragon_16
       rect:
         serializedVersion: 2
         x: 78
-        y: 1299
-        width: 64
-        height: 80
+        y: 1315
+        width: 66
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1099,20 +1183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 175e612bf8cf17a419af11d5649e9bba
+      spriteID: cb0ed73346debbd4c9fe369d9247d19d
       internalID: -9090307561044157412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_17
+      name: Back Dragon_17
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1299
-        width: 70
-        height: 80
+        x: 152
+        y: 1307
+        width: 67
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1120,20 +1204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fab635cca5b0c541b0ccf287852204e
+      spriteID: b0961378fb552ba488cbe4b7b642c991
       internalID: 4135976722890837951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_18
+      name: Back Dragon_18
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1299
-        width: 73
-        height: 80
+        x: 227
+        y: 1308
+        width: 68
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1141,20 +1225,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e5b10a20726bad40815424d73613a9c
+      spriteID: b54c373b62100a24c81b940f66af8d24
       internalID: 1836972033840988073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_Idle_19
+      name: Back Dragon_19
       rect:
         serializedVersion: 2
         x: 302
-        y: 1299
-        width: 68
-        height: 80
+        y: 1315
+        width: 67
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1162,7 +1246,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f879762ca71f8af4daee0f8332e6926c
+      spriteID: 2c88c0ed61b42cb48afa51be212071ff
       internalID: 9139949339821828049
       vertices: []
       indices: 
@@ -1172,10 +1256,10 @@ TextureImporter:
       name: Back Dragon_20
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1299
-        width: 64
-        height: 80
+        x: 9
+        y: 1235
+        width: 69
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1183,7 +1267,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db37ff7830467b24596a1497a2bd20b7
+      spriteID: f16be87617766e34088bc11eea7681e5
       internalID: -2569984975620159535
       vertices: []
       indices: 
@@ -1193,10 +1277,10 @@ TextureImporter:
       name: Back Dragon_21
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1219
-        width: 73
-        height: 80
+        x: 94
+        y: 1261
+        width: 46
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1204,7 +1288,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bc358ee8a04b7c40b21df0eaf0fdabb
+      spriteID: 9390c0548e6eece41b6bfc310b47f230
       internalID: 3352547615080789751
       vertices: []
       indices: 
@@ -1214,10 +1298,10 @@ TextureImporter:
       name: Back Dragon_22
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1219
-        width: 64
-        height: 80
+        x: 143
+        y: 1274
+        width: 14
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1225,7 +1309,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae1e74b0d9a9d50419dc6723d661432f
+      spriteID: ab04d6b1d7192e344a6144490f8ed009
       internalID: 8922811860830705783
       vertices: []
       indices: 
@@ -1235,10 +1319,10 @@ TextureImporter:
       name: Back Dragon_23
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1219
-        width: 64
-        height: 80
+        x: 147
+        y: 1244
+        width: 68
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,7 +1330,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51ed35bd1c1ebb043951a808fbc9b5f0
+      spriteID: 613426ea37230a0498fb62cb8940f7ce
       internalID: 8722263077370491402
       vertices: []
       indices: 
@@ -1256,10 +1340,10 @@ TextureImporter:
       name: Back Dragon_24
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1219
-        width: 64
-        height: 80
+        x: 132
+        y: 1261
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1267,7 +1351,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f90059dcb74ac441b4ebb4755b21697
+      spriteID: 5fafbc318243b9544ae56e25a196d338
       internalID: -2078003772654079888
       vertices: []
       indices: 
@@ -1277,10 +1361,10 @@ TextureImporter:
       name: Back Dragon_25
       rect:
         serializedVersion: 2
-        x: 294
-        y: 1219
-        width: 64
-        height: 80
+        x: 118
+        y: 1241
+        width: 27
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,7 +1372,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50a4e6e2962b3da4ea3997301c141205
+      spriteID: 769ce3f0d9070c548b2080b092099582
       internalID: -1348232239807738084
       vertices: []
       indices: 
@@ -1298,10 +1382,10 @@ TextureImporter:
       name: Back Dragon_26
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1139
-        width: 64
-        height: 80
+        x: 10
+        y: 1149
+        width: 67
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,7 +1393,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61fe4684dbc95e24b9720b756bafeebc
+      spriteID: 0172dd5fb5dbc37448229d1974fd7824
       internalID: 4984310626249769159
       vertices: []
       indices: 
@@ -1319,10 +1403,10 @@ TextureImporter:
       name: Back Dragon_27
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1139
-        width: 64
-        height: 80
+        x: 107
+        y: 1213
+        width: 8
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1330,7 +1414,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6352e7f064b141843b509d63dbcdd578
+      spriteID: 1023b875ce474534ab6ae5aed8321deb
       internalID: 2863727006940219469
       vertices: []
       indices: 
@@ -1340,10 +1424,10 @@ TextureImporter:
       name: Back Dragon_28
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1139
-        width: 64
-        height: 80
+        x: 120
+        y: 1212
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1351,7 +1435,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e62863f0e3161314b850f33417e468f5
+      spriteID: 40c1f8db50484de4b8abe67bca509e64
       internalID: 9195583371404277262
       vertices: []
       indices: 
@@ -1361,10 +1445,10 @@ TextureImporter:
       name: Back Dragon_29
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1139
-        width: 64
-        height: 80
+        x: 188
+        y: 1215
+        width: 9
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1372,7 +1456,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26ee8fe65041ae24a887c225643d664d
+      spriteID: 65da8c55cb2973e47993c0830989002b
       internalID: 6102816051793509224
       vertices: []
       indices: 
@@ -1382,10 +1466,10 @@ TextureImporter:
       name: Back Dragon_30
       rect:
         serializedVersion: 2
-        x: 294
-        y: 1139
-        width: 64
-        height: 80
+        x: 205
+        y: 1218
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1393,7 +1477,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df0f12f4f9eb98342beb6cc9f37f9111
+      spriteID: 4627724a82ed2b445b09db43e4d1b461
       internalID: -1070930572989609176
       vertices: []
       indices: 
@@ -1403,10 +1487,10 @@ TextureImporter:
       name: Back Dragon_31
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1139
-        width: 64
-        height: 80
+        x: 212
+        y: 1214
+        width: 8
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1414,7 +1498,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8944245487d122044aadb03d97331392
+      spriteID: baf1d3bd71dd3b142890478b9e937304
       internalID: -1893634024860835132
       vertices: []
       indices: 
@@ -1424,10 +1508,10 @@ TextureImporter:
       name: Back Dragon_32
       rect:
         serializedVersion: 2
-        x: 6
-        y: 1059
-        width: 64
-        height: 80
+        x: 274
+        y: 1215
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1435,7 +1519,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a2d088dcf386824a8af23ca7424dc68
+      spriteID: 3496e0d2a9a074048806bcebe7f6bf57
       internalID: -1901504198362133334
       vertices: []
       indices: 
@@ -1445,10 +1529,10 @@ TextureImporter:
       name: Back Dragon_33
       rect:
         serializedVersion: 2
-        x: 78
-        y: 1059
-        width: 64
-        height: 80
+        x: 293
+        y: 1218
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1456,7 +1540,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d09978b458db7834294cab9b1a2d1653
+      spriteID: 09b4329dcfae0ee4fbee58fffb4d950e
       internalID: -7114845297835472493
       vertices: []
       indices: 
@@ -1466,10 +1550,10 @@ TextureImporter:
       name: Back Dragon_34
       rect:
         serializedVersion: 2
-        x: 150
-        y: 1059
-        width: 64
-        height: 80
+        x: 301
+        y: 1214
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1477,7 +1561,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaddf888e12d6aa4ea90486ff8d6dfd2
+      spriteID: 2f0f9fc84c8079e4d9b6aea06df4fb60
       internalID: 6518303399419554245
       vertices: []
       indices: 
@@ -1487,10 +1571,10 @@ TextureImporter:
       name: Back Dragon_35
       rect:
         serializedVersion: 2
-        x: 222
-        y: 1059
-        width: 64
-        height: 80
+        x: 86
+        y: 1149
+        width: 71
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1498,7 +1582,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9054fb41d6f5ded4986acd3fabe76479
+      spriteID: 5e9587cefbd27c64195bbd9abd411261
       internalID: 5494594513755569269
       vertices: []
       indices: 
@@ -1508,10 +1592,10 @@ TextureImporter:
       name: Back Dragon_36
       rect:
         serializedVersion: 2
-        x: 294
-        y: 1059
-        width: 64
-        height: 80
+        x: 165
+        y: 1144
+        width: 72
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1519,7 +1603,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a36016a461e8bcb4984e02a45bedac2b
+      spriteID: b2f8db91bd606ed4bbd9b023ed42afa6
       internalID: -4453206731743145581
       vertices: []
       indices: 
@@ -1529,10 +1613,10 @@ TextureImporter:
       name: Back Dragon_37
       rect:
         serializedVersion: 2
-        x: 366
-        y: 1059
-        width: 64
-        height: 80
+        x: 248
+        y: 1145
+        width: 74
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1540,7 +1624,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f1a3c06280feb8459c9ca8a5105570d
+      spriteID: ed47370856c03d64c8233022c9fc1ea6
       internalID: 8056874734824193264
       vertices: []
       indices: 
@@ -1550,10 +1634,10 @@ TextureImporter:
       name: Back Dragon_38
       rect:
         serializedVersion: 2
-        x: 438
-        y: 1059
-        width: 64
-        height: 80
+        x: 328
+        y: 1149
+        width: 76
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1561,7 +1645,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7744f13a748355841afcb309168f018c
+      spriteID: 7821a35568c1d0244bce2c2df32305b7
       internalID: -6724279390964929871
       vertices: []
       indices: 
@@ -1571,10 +1655,10 @@ TextureImporter:
       name: Back Dragon_39
       rect:
         serializedVersion: 2
-        x: 510
-        y: 1059
-        width: 64
-        height: 80
+        x: 10
+        y: 1071
+        width: 66
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1582,7 +1666,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff9c6e26a4cb53a40b60d7e9780559a1
+      spriteID: e199c82964e0ff540accfdc70613ed90
       internalID: 85726747054276512
       vertices: []
       indices: 
@@ -1592,10 +1676,10 @@ TextureImporter:
       name: Back Dragon_40
       rect:
         serializedVersion: 2
-        x: 582
-        y: 1059
-        width: 64
-        height: 80
+        x: 82
+        y: 1074
+        width: 66
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1603,7 +1687,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d35e92aef083c74fb1ff7ef2a563d26
+      spriteID: eda0cc8cbb1903846821695394cc1e4f
       internalID: 1237341508118604996
       vertices: []
       indices: 
@@ -1613,10 +1697,10 @@ TextureImporter:
       name: Back Dragon_41
       rect:
         serializedVersion: 2
-        x: 654
-        y: 1059
-        width: 64
-        height: 80
+        x: 156
+        y: 1067
+        width: 76
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1624,7 +1708,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ced3b4cf08b05a14e9b756ab4f7c153f
+      spriteID: 6919c74da086c06438cd22bfe3d19736
       internalID: 1086606503238674204
       vertices: []
       indices: 
@@ -1634,10 +1718,10 @@ TextureImporter:
       name: Back Dragon_42
       rect:
         serializedVersion: 2
-        x: 726
-        y: 1059
-        width: 64
-        height: 80
+        x: 240
+        y: 1079
+        width: 18
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1645,20 +1729,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8b5925380308754489bca4251432162
+      spriteID: 0b0be1d422716de41b5055b1ff099a11
       internalID: 5171113800119753290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_0
+      name: Back Dragon_43
       rect:
         serializedVersion: 2
-        x: 5
-        y: 980
-        width: 76
-        height: 80
+        x: 255
+        y: 1069
+        width: 63
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1666,20 +1750,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6af6d82d905e2b4eb8b74151ff77a84
+      spriteID: 9b50327532f9a0140a941efa8afcb836
       internalID: -5204079071648105615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_1
+      name: Back Dragon_44
       rect:
         serializedVersion: 2
-        x: 87
-        y: 980
-        width: 76
-        height: 80
+        x: 326
+        y: 1078
+        width: 18
+        height: 17
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1687,20 +1771,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73e05a1f9ec1cad45a976ecbbeb121ea
+      spriteID: 013a05907d9331e4d8a06f0fcd65d43f
       internalID: -6052566983548504678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_2
+      name: Back Dragon_45
       rect:
         serializedVersion: 2
-        x: 180
-        y: 979
-        width: 82
-        height: 80
+        x: 343
+        y: 1074
+        width: 64
+        height: 59
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,20 +1792,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2760bd6d4fa5a244ae764ed3c7f805d
+      spriteID: 4b24d08b284f3c64cbafd5c5ae9c19be
       internalID: 1858369505508611685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_3
+      name: Spell1_Back Dragon_46
       rect:
         serializedVersion: 2
-        x: 276
-        y: 979
-        width: 86
-        height: 80
+        x: 14
+        y: 976
+        width: 71
+        height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1729,20 +1813,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7740717fe72d7704e8ba88db72d5f793
+      spriteID: 9877f628fb0c1c24893654857f174ded
       internalID: 974866561205270639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_4
+      name: Spell1_Back Dragon_47
       rect:
         serializedVersion: 2
-        x: 395
-        y: 979
+        x: 92
+        y: 977
         width: 76
-        height: 80
+        height: 86
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1750,20 +1834,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ed590f72df41a6498ea4363de4679d8
+      spriteID: 0993338b57be4b44288ecd4517318845
+      internalID: -3636958897641617191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 978
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b494301ec6e66d42819ab18cb9a7883
       internalID: -4315631702329908918
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_5
+      name: Spell1_Back Dragon_49
       rect:
         serializedVersion: 2
-        x: 488
+        x: 271
         y: 979
-        width: 76
-        height: 80
+        width: 106
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1771,20 +1876,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5da70fbef8f1960418a7837763518a6b
+      spriteID: 62bed6f2f693a9149b9cfeab109917c9
+      internalID: -6914680434846490656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell1_Back Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 978
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b1cf26c263ef44bd2f8ad06fce70d
       internalID: 6873030286980578002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_6
+      name: Spell1_Back Dragon_51
       rect:
         serializedVersion: 2
-        x: 582
-        y: 979
-        width: 79
-        height: 80
+        x: 495
+        y: 978
+        width: 71
+        height: 85
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1792,20 +1918,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6305efa97138f7d4d9ddb0f806c6cb30
+      spriteID: 7927e96cbab79034d91484213d4c6f39
       internalID: 2028077963791854411
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spell1_Back Dragon_7
+      name: Spell1_Back Dragon_53
       rect:
         serializedVersion: 2
-        x: 680
-        y: 978
-        width: 76
-        height: 80
+        x: 591
+        y: 977
+        width: 69
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1813,8 +1939,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b235b81aab8704aad8183e8184ecca
-      internalID: -6731636205892241568
+      spriteID: 50f155aa585dc4b48aade91787714f55
+      internalID: 501794388754218660
       vertices: []
       indices: 
       edges: []
@@ -1823,10 +1949,10 @@ TextureImporter:
       name: Back Dragon_54
       rect:
         serializedVersion: 2
-        x: 6
-        y: 899
-        width: 64
-        height: 80
+        x: 669
+        y: 979
+        width: 6
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1834,20 +1960,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9129fa0ea8319954d97c3bb735b24b2a
+      spriteID: 5eb39a1ee6d6c4a43a084feda18523c8
       internalID: 5480827215880751205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_55
+      name: Spell1_Back Dragon_55
       rect:
         serializedVersion: 2
-        x: 78
-        y: 899
-        width: 64
-        height: 80
+        x: 684
+        y: 982
+        width: 68
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1855,7 +1981,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5199c89000203b94e823858d19d11f31
+      spriteID: 9df2fc77ef713734a85587c6373799e2
       internalID: 5011217476503572634
       vertices: []
       indices: 
@@ -1865,10 +1991,10 @@ TextureImporter:
       name: Back Dragon_56
       rect:
         serializedVersion: 2
-        x: 150
-        y: 899
-        width: 64
-        height: 80
+        x: 7
+        y: 920
+        width: 19
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1876,7 +2002,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c93f49ba86da2cc49b4f5cf3faa6a218
+      spriteID: 12aedab200d361240a614b985ac45ad9
       internalID: -4747888312535495939
       vertices: []
       indices: 
@@ -1886,10 +2012,10 @@ TextureImporter:
       name: Back Dragon_57
       rect:
         serializedVersion: 2
-        x: 222
-        y: 899
-        width: 64
-        height: 80
+        x: 23
+        y: 878
+        width: 61
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1897,7 +2023,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65977e85c7bcd7242bce9daffecdbf51
+      spriteID: e79f0669101727641bfad8dd4600ef45
       internalID: 6792199751123909898
       vertices: []
       indices: 
@@ -1907,10 +2033,10 @@ TextureImporter:
       name: Back Dragon_58
       rect:
         serializedVersion: 2
-        x: 294
-        y: 899
-        width: 64
-        height: 80
+        x: 89
+        y: 878
+        width: 70
+        height: 88
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1918,7 +2044,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8387f6827fce4bc47b0058e8895b634a
+      spriteID: 15b5ddb057e928c4fa705baeff952f85
       internalID: -4389598004103030921
       vertices: []
       indices: 
@@ -1928,10 +2054,10 @@ TextureImporter:
       name: Back Dragon_59
       rect:
         serializedVersion: 2
-        x: 366
-        y: 899
-        width: 64
-        height: 80
+        x: 166
+        y: 878
+        width: 77
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1939,7 +2065,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bbf5a42271b9be4a8a5989153a64087
+      spriteID: c59f2cc03b0d3cf4ab7cc1673e244122
       internalID: 808574855622477167
       vertices: []
       indices: 
@@ -1949,10 +2075,10 @@ TextureImporter:
       name: Back Dragon_60
       rect:
         serializedVersion: 2
-        x: 438
-        y: 899
-        width: 64
-        height: 80
+        x: 249
+        y: 920
+        width: 19
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1960,7 +2086,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd58a51ef4a8a684592309cdd58bbc09
+      spriteID: dfdaa79b4c0a3104e82785b498a1b91f
       internalID: -5747588093588749399
       vertices: []
       indices: 
@@ -1970,10 +2096,10 @@ TextureImporter:
       name: Back Dragon_61
       rect:
         serializedVersion: 2
-        x: 510
-        y: 899
-        width: 64
-        height: 80
+        x: 264
+        y: 878
+        width: 62
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1981,7 +2107,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71fa49ee345364f49aa04266d21e7591
+      spriteID: 1907d7542e8e00f4cb3e2d0563d73a66
       internalID: 5146662342668005123
       vertices: []
       indices: 
@@ -1991,10 +2117,10 @@ TextureImporter:
       name: Back Dragon_62
       rect:
         serializedVersion: 2
-        x: 582
-        y: 899
-        width: 64
-        height: 80
+        x: 333
+        y: 878
+        width: 77
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2002,7 +2128,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26e385841697552488aceaea44325616
+      spriteID: e784b14c9edf9ca4690635cf49c14ee3
       internalID: -1615986798560472603
       vertices: []
       indices: 
@@ -2012,10 +2138,10 @@ TextureImporter:
       name: Back Dragon_63
       rect:
         serializedVersion: 2
-        x: 654
-        y: 899
-        width: 64
-        height: 80
+        x: 419
+        y: 914
+        width: 20
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2023,7 +2149,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 562b4418035ea454e8bd24317247d689
+      spriteID: 6a953253b3d046a49b3509e4c8c63212
       internalID: -7994199600685094514
       vertices: []
       indices: 
@@ -2033,10 +2159,10 @@ TextureImporter:
       name: Back Dragon_64
       rect:
         serializedVersion: 2
-        x: 6
-        y: 819
-        width: 64
-        height: 80
+        x: 439
+        y: 877
+        width: 56
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2044,7 +2170,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 178eb8ac69afc6c4e91989acd3d6f50b
+      spriteID: 2e38785e4ef7d5844aef01c8af5dd7a0
       internalID: 3607078605292263067
       vertices: []
       indices: 
@@ -2054,10 +2180,10 @@ TextureImporter:
       name: Back Dragon_65
       rect:
         serializedVersion: 2
-        x: 78
-        y: 819
-        width: 64
-        height: 80
+        x: 503
+        y: 878
+        width: 57
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2065,7 +2191,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b0e8ba8a3cc5724ab1836357311c7ff
+      spriteID: 3fe0ba851a061cb47be23790e4f77831
       internalID: 9098058084562263535
       vertices: []
       indices: 
@@ -2075,10 +2201,10 @@ TextureImporter:
       name: Back Dragon_66
       rect:
         serializedVersion: 2
-        x: 150
-        y: 819
-        width: 64
-        height: 80
+        x: 15
+        y: 799
+        width: 63
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2086,7 +2212,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7dc6b0d3e8256946bc6ccc716835253
+      spriteID: 775ca5288c104924e844befb6b208c3f
       internalID: -6823593647901501911
       vertices: []
       indices: 
@@ -2096,10 +2222,10 @@ TextureImporter:
       name: Back Dragon_67
       rect:
         serializedVersion: 2
-        x: 222
-        y: 819
-        width: 64
-        height: 80
+        x: 86
+        y: 798
+        width: 75
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2107,7 +2233,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdd5cd180ef2a984198563c5634a71d5
+      spriteID: 3c324ab9eec4da342a928b8046e6c165
       internalID: 7364254588442074081
       vertices: []
       indices: 
@@ -2117,10 +2243,10 @@ TextureImporter:
       name: Back Dragon_68
       rect:
         serializedVersion: 2
-        x: 294
-        y: 819
-        width: 64
-        height: 80
+        x: 172
+        y: 783
+        width: 102
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2128,7 +2254,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c92e0fa809f5ccb4bbf7337521774502
+      spriteID: 847232c4d8e483d47b8d6037e6c14f05
       internalID: 6890751981908502642
       vertices: []
       indices: 
@@ -2138,10 +2264,10 @@ TextureImporter:
       name: Back Dragon_69
       rect:
         serializedVersion: 2
-        x: 366
-        y: 819
-        width: 64
-        height: 80
+        x: 284
+        y: 782
+        width: 104
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2149,7 +2275,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fca9306cb141794daef9e4e5ebdfb8a
+      spriteID: ee99e14ef5d75d74aa8edad193cc0a05
       internalID: -6023890652451866728
       vertices: []
       indices: 
@@ -2159,10 +2285,10 @@ TextureImporter:
       name: Back Dragon_70
       rect:
         serializedVersion: 2
-        x: 438
-        y: 819
-        width: 64
-        height: 80
+        x: 398
+        y: 782
+        width: 104
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2170,7 +2296,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbb9b53e3fc8c034a9f03819949e5665
+      spriteID: 63079ce3be8913445a8f0a5ec2cb1c02
       internalID: -5807025355196919401
       vertices: []
       indices: 
@@ -2181,9 +2307,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 510
-        y: 819
-        width: 64
-        height: 80
+        y: 800
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2191,7 +2317,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f870ee67a7efa0747beda9caf736bce6
+      spriteID: 902b76d21c567b14b9b5c855d9b8623e
       internalID: -2986172855504009084
       vertices: []
       indices: 
@@ -2201,10 +2327,10 @@ TextureImporter:
       name: Back Dragon_72
       rect:
         serializedVersion: 2
-        x: 582
-        y: 819
-        width: 64
-        height: 80
+        x: 512
+        y: 782
+        width: 102
+        height: 83
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2212,7 +2338,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cae5c92750d512d49ae768a32d85dfba
+      spriteID: 6a38832d885923d4aacc4d1a41f3dfa3
       internalID: -1145726910690256509
       vertices: []
       indices: 
@@ -2222,10 +2348,10 @@ TextureImporter:
       name: Back Dragon_73
       rect:
         serializedVersion: 2
-        x: 654
-        y: 819
-        width: 64
-        height: 80
+        x: 624
+        y: 783
+        width: 96
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2233,7 +2359,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7343df21acd70904a9fe2785088390a4
+      spriteID: 873011c543741e74889ca49cec896ed5
       internalID: -8757505374969026669
       vertices: []
       indices: 
@@ -2243,8 +2369,8 @@ TextureImporter:
       name: Back Dragon_74
       rect:
         serializedVersion: 2
-        x: 6
-        y: 739
+        x: 14
+        y: 693
         width: 64
         height: 80
       alignment: 0
@@ -2254,7 +2380,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5ab00fe004f658408f106942f68861f
+      spriteID: 3d7e545a3cc0e954999a3270df75b0bd
       internalID: 2113428998318356735
       vertices: []
       indices: 
@@ -2264,10 +2390,10 @@ TextureImporter:
       name: Back Dragon_75
       rect:
         serializedVersion: 2
-        x: 78
-        y: 739
-        width: 64
-        height: 80
+        x: 85
+        y: 693
+        width: 66
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2275,7 +2401,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e82534d4fe1d8d74fa786c1ddc345e25
+      spriteID: 00e8a369b82c81a4abf4410f93016c49
       internalID: 2167007472389549107
       vertices: []
       indices: 
@@ -2285,10 +2411,10 @@ TextureImporter:
       name: Back Dragon_76
       rect:
         serializedVersion: 2
-        x: 150
-        y: 739
-        width: 64
-        height: 80
+        x: 165
+        y: 754
+        width: 33
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2296,7 +2422,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f4b6aba8779906478856cab804470bd
+      spriteID: cacef3bbf60fb514cb457cbde215d8a8
       internalID: 1572828209902446640
       vertices: []
       indices: 
@@ -2306,10 +2432,10 @@ TextureImporter:
       name: Back Dragon_77
       rect:
         serializedVersion: 2
-        x: 222
-        y: 739
-        width: 64
-        height: 80
+        x: 231
+        y: 752
+        width: 27
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2317,7 +2443,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1fea8413b2d041488ea18b1a1c35019
+      spriteID: dbb07c53382921c4ca1e8367ee488e40
       internalID: -886631511302074212
       vertices: []
       indices: 
@@ -2327,10 +2453,10 @@ TextureImporter:
       name: Back Dragon_78
       rect:
         serializedVersion: 2
-        x: 294
-        y: 739
-        width: 64
-        height: 80
+        x: 302
+        y: 757
+        width: 25
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2338,7 +2464,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47c942f7b5168af4ebb8ced203b89563
+      spriteID: 2a4711e468926e54d97f4b49af27149f
       internalID: -3861453430976274256
       vertices: []
       indices: 
@@ -2348,10 +2474,10 @@ TextureImporter:
       name: Back Dragon_79
       rect:
         serializedVersion: 2
-        x: 366
-        y: 739
-        width: 64
-        height: 80
+        x: 157
+        y: 686
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2359,7 +2485,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e43e61de9ad0f245b2a000045401ef3
+      spriteID: d2fa0aa9a6d6a364a94ffd79d291ce86
       internalID: -5042936107673796747
       vertices: []
       indices: 
@@ -2369,10 +2495,10 @@ TextureImporter:
       name: Back Dragon_80
       rect:
         serializedVersion: 2
-        x: 438
-        y: 739
-        width: 64
-        height: 80
+        x: 231
+        y: 687
+        width: 63
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2380,7 +2506,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140c1165ac104d7428ce8e1b3b172577
+      spriteID: 8993ca8e60820d54894c7a6affea067e
       internalID: 8303982974214394205
       vertices: []
       indices: 
@@ -2390,10 +2516,10 @@ TextureImporter:
       name: Back Dragon_81
       rect:
         serializedVersion: 2
-        x: 510
-        y: 739
-        width: 64
-        height: 80
+        x: 312
+        y: 693
+        width: 65
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2401,20 +2527,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53d51ddd3c8c7ee4c8b7e02c81f2d818
+      spriteID: e59e95a1fda1bc545be19066127bb3a2
       internalID: -1094753071168473238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_82
+      name: Metamorphosis_Back Dragon_82
       rect:
         serializedVersion: 2
-        x: 582
-        y: 739
-        width: 64
-        height: 80
+        x: 10
+        y: 611
+        width: 63
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2422,20 +2548,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faac3e584feda0c4aae88ffc06754dc8
+      spriteID: 0f22bab31b4a02b48bdd74390f2b6daa
       internalID: 3217420652195040746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_83
+      name: Metamorphosis_Back Dragon_83
       rect:
         serializedVersion: 2
-        x: 654
-        y: 739
-        width: 64
-        height: 80
+        x: 80
+        y: 610
+        width: 69
+        height: 70
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2443,20 +2569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e860977433b9d8d4ba44f6806d048c93
+      spriteID: 3e0e530143daf6f469f854cb98896f27
       internalID: 837815133158145840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_84
+      name: Metamorphosis_Back Dragon_84
       rect:
         serializedVersion: 2
-        x: 6
-        y: 659
-        width: 64
-        height: 80
+        x: 160
+        y: 608
+        width: 71
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2464,20 +2590,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 583d24f4dfd74794e9603b33a9e648eb
+      spriteID: ee0e91c8e93eab04cbf75182f3339c9b
       internalID: 4668362908190818458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_85
+      name: Metamorphosis_Back Dragon_85
       rect:
         serializedVersion: 2
-        x: 78
-        y: 659
-        width: 64
-        height: 80
+        x: 241
+        y: 593
+        width: 71
+        height: 82
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2485,20 +2611,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90088d4b0262f914f91ddb6269cf0197
+      spriteID: 448e8c71bbc5c444fa45c1b0fc028792
       internalID: 7376747550152149377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_86
+      name: Metamorphosis_Back Dragon_86
       rect:
         serializedVersion: 2
-        x: 150
-        y: 659
-        width: 64
-        height: 80
+        x: 320
+        y: 581
+        width: 78
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2506,20 +2632,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ac464a75e9a8014583cf13700638633
+      spriteID: 00a68760337639a4d98c8d701226c2f7
       internalID: 1303878294594761400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_87
+      name: Metamorphosis_Back Dragon_87
       rect:
         serializedVersion: 2
-        x: 222
-        y: 659
-        width: 64
-        height: 80
+        x: 407
+        y: 582
+        width: 87
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2527,20 +2653,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48052973840539949a2f3cf1433b2a39
+      spriteID: 81c2e9dc2e582eb4fa600a98c4fdb113
       internalID: -5011439713389370450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_88
+      name: Metamorphosis_Back Dragon_88
       rect:
         serializedVersion: 2
-        x: 294
-        y: 659
-        width: 64
-        height: 80
+        x: 501
+        y: 581
+        width: 105
+        height: 102
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2548,20 +2674,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b47b67e472f6d3248a5bdfd10124c92d
+      spriteID: 75fd45421f0977441bc38cab6e0df622
       internalID: -6842076174235467903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_89
+      name: Metamorphosis_Back Dragon_89
       rect:
         serializedVersion: 2
-        x: 366
-        y: 659
-        width: 64
-        height: 80
+        x: 615
+        y: 583
+        width: 99
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2569,20 +2695,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14583d4d1d38f754db4af18cf86b2ece
+      spriteID: 9a45cde6fb6ca694e83ca3d29009ba37
       internalID: 2216978905221619732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_90
+      name: Metamorphosis_Back Dragon_90
       rect:
         serializedVersion: 2
-        x: 438
-        y: 659
-        width: 64
-        height: 80
+        x: 722
+        y: 583
+        width: 99
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2590,20 +2716,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a20f9148a6452448ad7d3965bdbbb0b
+      spriteID: 8965ce4b14382c44a80bc8487a3d6d33
       internalID: -8173343530425881951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_91
+      name: Metamorphosis_Back Dragon_91
       rect:
         serializedVersion: 2
-        x: 510
-        y: 659
-        width: 64
-        height: 80
+        x: 829
+        y: 583
+        width: 102
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2611,20 +2737,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a04894ad3667c2e42b94158032d1bd5a
+      spriteID: c0c6268bfe8f62f48867cc6826c205d1
       internalID: 6740632411585684486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_92
+      name: Metamorphosis_Back Dragon_92
       rect:
         serializedVersion: 2
-        x: 582
-        y: 659
-        width: 64
-        height: 80
+        x: 936
+        y: 583
+        width: 105
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2632,20 +2758,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d772b14fed3038042949620f1c479dc7
+      spriteID: 5c8123302a5b81f4387b6d9b02a1138b
       internalID: 3787241967206883096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_93
+      name: Metamorphosis_Back Dragon_93
       rect:
         serializedVersion: 2
-        x: 654
-        y: 659
-        width: 64
-        height: 80
+        x: 1048
+        y: 583
+        width: 105
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2653,20 +2779,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f35056b60b583346a6b123014de26df
+      spriteID: 5e53d6e6b953ed84f8fd9e77818a31b0
       internalID: 5375990989190723137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_94
+      name: Metamorphosis_Back Dragon_94
       rect:
         serializedVersion: 2
-        x: 726
-        y: 659
-        width: 64
-        height: 80
+        x: 1160
+        y: 583
+        width: 102
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2674,20 +2800,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ad429a7f567b6c44980b1dda27d1a66
+      spriteID: 0b848c1d4c0e54648b21acc203b6332e
       internalID: -8630251883711932597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_95
+      name: Metamorphosis_Back Dragon_95
       rect:
         serializedVersion: 2
-        x: 798
-        y: 659
-        width: 64
-        height: 80
+        x: 1269
+        y: 583
+        width: 101
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2695,20 +2821,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 202571407ae04e549a48f1a8cd00dd3c
+      spriteID: 22b06442dbd92fb4fb4d2a0ea03eeea0
       internalID: 1693955192288323349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_96
+      name: Metamorphosis_Back Dragon_96
       rect:
         serializedVersion: 2
-        x: 870
-        y: 659
-        width: 64
-        height: 80
+        x: 1374
+        y: 584
+        width: 109
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2716,20 +2842,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdb90215e99245849bb83f9afbcf0aaa
+      spriteID: 88ec155476d6d3749804f515d04118ab
       internalID: 5259984972883119682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_97
+      name: Metamorphosis_Back Dragon_97
       rect:
         serializedVersion: 2
-        x: 942
-        y: 659
-        width: 64
-        height: 80
+        x: 1490
+        y: 584
+        width: 109
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2737,20 +2863,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1c2c4f317837fd428abc2b9ef8d3bf0
+      spriteID: 653c88208f4d25541bf952089ffe4c4c
       internalID: -8473679317163533650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_98
+      name: Metamorphosis_Back Dragon_98
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 659
-        width: 64
-        height: 80
+        x: 1607
+        y: 584
+        width: 113
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2758,20 +2884,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7104027fd033f5c4b8f7903ea76c6db0
+      spriteID: d258a52e193df8d4bbc089e2e0f42db7
       internalID: 2727953296715079207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_99
+      name: Metamorphosis_Back Dragon_99
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 659
-        width: 64
-        height: 80
+        x: 1727
+        y: 584
+        width: 118
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2779,20 +2905,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e82370b08c093be4ba5bc2ed022beae6
+      spriteID: be39e99a44bd01649b6e927079b6e3d0
       internalID: -1833083183650787448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_100
+      name: Metamorphosis_Back Dragon_100
       rect:
         serializedVersion: 2
-        x: 1158
-        y: 659
-        width: 64
-        height: 80
+        x: 1853
+        y: 584
+        width: 117
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2800,20 +2926,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef66910a2e559bc4b9de6efc227b4203
+      spriteID: 78aa4e60cbf99da4289a88d50a52743a
       internalID: 8299147873484713347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_101
+      name: Metamorphosis_Back Dragon_101
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 659
-        width: 64
-        height: 80
+        x: 1978
+        y: 584
+        width: 107
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2821,20 +2947,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f56c3ea8c22315f4db7fc9473d18f5f7
+      spriteID: 416d576b5171fc34789496bbe9414069
       internalID: 3096968891344369975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_102
+      name: Metamorphosis_Back Dragon_102
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 659
-        width: 64
-        height: 80
+        x: 2105
+        y: 581
+        width: 105
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2842,20 +2968,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5c70bf651355254ca6bb53ae0c7511b
+      spriteID: aae54ff1615dd1d4da1dfbc78ea5fbea
       internalID: -5229430770699239541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_103
+      name: Metamorphosis_Back Dragon_103
       rect:
         serializedVersion: 2
-        x: 1374
-        y: 659
-        width: 64
-        height: 80
+        x: 2216
+        y: 583
+        width: 104
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2863,20 +2989,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d653b6a2b69ccf6468edbdd839680d7b
+      spriteID: 63415dee7cd74c94cb74c22b49d4e092
       internalID: 9051386117076803645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_104
+      name: Metamorphosis_Back Dragon_104
       rect:
         serializedVersion: 2
-        x: 1446
-        y: 659
-        width: 64
-        height: 80
+        x: 2326
+        y: 583
+        width: 104
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2884,20 +3010,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e599ddcbdd83c3d4ebc90afe9495a707
+      spriteID: 2b34ae9cb7dbbce40b99c529ccf05edb
       internalID: 6572367475107664026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_105
+      name: Metamorphosis_Back Dragon_105
       rect:
         serializedVersion: 2
-        x: 1518
-        y: 659
-        width: 64
-        height: 80
+        x: 2437
+        y: 583
+        width: 88
+        height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2905,20 +3031,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d729d58e83685d342a54926d38db99d6
+      spriteID: fa1446ff803b8e145897b63eea88b0da
       internalID: 7243934013332905131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_106
+      name: Metamorphosis_Back Dragon_106
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 659
-        width: 64
-        height: 80
+        x: 2533
+        y: 583
+        width: 71
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2926,20 +3052,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97e79b4252b8fc24a9d5fa927ecb4dae
+      spriteID: 4227b31154ba13c4da669a13b103a53e
       internalID: 6526164456349510347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Back Dragon_107
+      name: Metamorphosis_Back Dragon_107
       rect:
         serializedVersion: 2
-        x: 1662
-        y: 659
-        width: 64
-        height: 80
+        x: 2613
+        y: 583
+        width: 74
+        height: 92
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2947,29 +3073,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b500fdbbd7827e4195b3369479fa15b
+      spriteID: 94ac366dcade7b04986ea8df1e7ed90d
       internalID: -1440839281893217689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_108
-      rect:
-        serializedVersion: 2
-        x: 1734
-        y: 659
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f7d16df7372b074a8e6280e73b37c1d
-      internalID: -2219760892437253268
       vertices: []
       indices: 
       edges: []
@@ -2978,10 +3083,10 @@ TextureImporter:
       name: Back Dragon_109
       rect:
         serializedVersion: 2
-        x: 1806
-        y: 659
-        width: 64
-        height: 80
+        x: 2091
+        y: 585
+        width: 5
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2989,7 +3094,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0eccee39b2083c4094d0ad16f4b5a44
+      spriteID: 12d6d115381eab241aa569d1d4bdacb6
       internalID: -280402919538413572
       vertices: []
       indices: 
@@ -2999,10 +3104,10 @@ TextureImporter:
       name: Back Dragon_110
       rect:
         serializedVersion: 2
-        x: 1878
-        y: 659
-        width: 64
-        height: 80
+        x: 11
+        y: 506
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3010,7 +3115,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4229343ae02e080469f20156999c9120
+      spriteID: 80bb67c702c94084b8ae9c6c71b3cd5a
       internalID: -7772837265679923543
       vertices: []
       indices: 
@@ -3020,10 +3125,10 @@ TextureImporter:
       name: Back Dragon_111
       rect:
         serializedVersion: 2
-        x: 1950
-        y: 659
+        x: 84
+        y: 506
         width: 64
-        height: 80
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3031,7 +3136,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d96b90b56ea235248b401c148c55f550
+      spriteID: 9b4569bee7714634884a797a2ecdac9b
       internalID: 4902974505194569682
       vertices: []
       indices: 
@@ -3041,10 +3146,10 @@ TextureImporter:
       name: Back Dragon_112
       rect:
         serializedVersion: 2
-        x: 2022
-        y: 659
+        x: 156
+        y: 501
         width: 64
-        height: 80
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3052,7 +3157,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 610a9da1916706346b203fb0c5ccc15f
+      spriteID: c353657a1852ff04bbaef731d64b08cd
       internalID: -8917184639183974559
       vertices: []
       indices: 
@@ -3062,10 +3167,10 @@ TextureImporter:
       name: Back Dragon_113
       rect:
         serializedVersion: 2
-        x: 2094
-        y: 659
-        width: 64
-        height: 80
+        x: 227
+        y: 502
+        width: 63
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3073,7 +3178,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6d36d0b2cfe1904f9ae723e30ade403
+      spriteID: eb0a5d30a7c161a44886947302c8950d
       internalID: 7395531093098284732
       vertices: []
       indices: 
@@ -3083,10 +3188,10 @@ TextureImporter:
       name: Back Dragon_114
       rect:
         serializedVersion: 2
-        x: 2166
-        y: 659
+        x: 298
+        y: 506
         width: 64
-        height: 80
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3094,7 +3199,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70bcfd768cceec945bde2114bfc315ae
+      spriteID: 672cbf361adceef47b862ebc44afe1dd
       internalID: -8171000074136326893
       vertices: []
       indices: 
@@ -3104,10 +3209,10 @@ TextureImporter:
       name: Back Dragon_115
       rect:
         serializedVersion: 2
-        x: 2238
-        y: 659
-        width: 64
-        height: 80
+        x: 9
+        y: 415
+        width: 78
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3115,7 +3220,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03bbdc2fcd0650042be2f86eed57678e
+      spriteID: 092a6941c13243540b8096ad1d120a16
       internalID: 6767915379370974880
       vertices: []
       indices: 
@@ -3125,10 +3230,10 @@ TextureImporter:
       name: Back Dragon_116
       rect:
         serializedVersion: 2
-        x: 2310
-        y: 659
-        width: 64
-        height: 80
+        x: 95
+        y: 414
+        width: 81
+        height: 81
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3136,7 +3241,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ac999cffea13e34c860e4d974a0b591
+      spriteID: 5e16df400bc538341bad6be38302aed7
       internalID: 1836599977702695178
       vertices: []
       indices: 
@@ -3146,10 +3251,10 @@ TextureImporter:
       name: Back Dragon_117
       rect:
         serializedVersion: 2
-        x: 2382
-        y: 659
-        width: 64
-        height: 80
+        x: 185
+        y: 411
+        width: 79
+        height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3157,7 +3262,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e75f4f2fc4f9b194a9dd4407a5963477
+      spriteID: 77d46abb5d4ef414d9d7014c8dc986e9
       internalID: -603386749608409798
       vertices: []
       indices: 
@@ -3167,10 +3272,10 @@ TextureImporter:
       name: Back Dragon_118
       rect:
         serializedVersion: 2
-        x: 2454
-        y: 659
-        width: 64
-        height: 80
+        x: 272
+        y: 411
+        width: 77
+        height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3178,7 +3283,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 872a22ddcea27764b991f76f6966e5b4
+      spriteID: 5522a26eb3a08e24ebf24c4a77ff47d0
       internalID: -5787291731966577349
       vertices: []
       indices: 
@@ -3188,10 +3293,10 @@ TextureImporter:
       name: Back Dragon_119
       rect:
         serializedVersion: 2
-        x: 2526
-        y: 659
-        width: 64
-        height: 80
+        x: 358
+        y: 414
+        width: 79
+        height: 75
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3199,7 +3304,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a8c65641ea4b7a478d79529ff2870af
+      spriteID: edf237256e8a92b4d80079c94cd6f337
       internalID: 860915715647614967
       vertices: []
       indices: 
@@ -3209,10 +3314,10 @@ TextureImporter:
       name: Back Dragon_120
       rect:
         serializedVersion: 2
-        x: 2598
-        y: 659
-        width: 64
-        height: 80
+        x: 11
+        y: 331
+        width: 65
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3220,7 +3325,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b84feded3411f7d4b96a40dc0af44562
+      spriteID: 562745f6dbce9bb48ae3c6ed103fcf96
       internalID: -3868499594398830732
       vertices: []
       indices: 
@@ -3230,10 +3335,10 @@ TextureImporter:
       name: Back Dragon_121
       rect:
         serializedVersion: 2
-        x: 6
-        y: 579
-        width: 64
-        height: 80
+        x: 59
+        y: 318
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3241,7 +3346,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f95653b351a6dff42855a0b2d114a763
+      spriteID: 876f1540287ea0e48b31546f89153549
       internalID: 1092993558495583045
       vertices: []
       indices: 
@@ -3251,10 +3356,10 @@ TextureImporter:
       name: Back Dragon_122
       rect:
         serializedVersion: 2
-        x: 78
-        y: 579
-        width: 64
-        height: 80
+        x: 10
+        y: 235
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3262,7 +3367,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a42fb606c8781c4c9c2a9e6c3dfb68f
+      spriteID: c087f12514fa5074295f854aa0223784
       internalID: 5749423048845550897
       vertices: []
       indices: 
@@ -3272,10 +3377,10 @@ TextureImporter:
       name: Back Dragon_123
       rect:
         serializedVersion: 2
-        x: 150
-        y: 579
+        x: 84
+        y: 235
         width: 64
-        height: 80
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3283,7 +3388,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1243fdb0142d1a043bdf252524cf7eda
+      spriteID: db8edd92a3e1b0d49afe52aff049fa52
       internalID: 6596497258101189020
       vertices: []
       indices: 
@@ -3293,10 +3398,10 @@ TextureImporter:
       name: Back Dragon_124
       rect:
         serializedVersion: 2
-        x: 222
-        y: 579
-        width: 64
-        height: 80
+        x: 156
+        y: 235
+        width: 66
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3304,7 +3409,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9f6738853d02364aac8e5a7dadd2b83
+      spriteID: 54dddc3179019b749bf3622256b89f37
       internalID: 7585142782608927799
       vertices: []
       indices: 
@@ -3314,10 +3419,10 @@ TextureImporter:
       name: Back Dragon_125
       rect:
         serializedVersion: 2
-        x: 294
-        y: 579
-        width: 64
-        height: 80
+        x: 230
+        y: 235
+        width: 63
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3325,7 +3430,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d22966b4151ab9744ae210d7be0cb60f
+      spriteID: 07681c77bf0111544b2de49accffb945
       internalID: 2875818274977927528
       vertices: []
       indices: 
@@ -3335,10 +3440,10 @@ TextureImporter:
       name: Back Dragon_126
       rect:
         serializedVersion: 2
-        x: 366
-        y: 579
-        width: 64
-        height: 80
+        x: 299
+        y: 235
+        width: 65
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3346,7 +3451,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28ddf08978cac0e4d94872bc3bbc5d7e
+      spriteID: bd471f7cb1bb5e34a9dd93d7de38b9a8
       internalID: 8749363339009407747
       vertices: []
       indices: 
@@ -3356,10 +3461,10 @@ TextureImporter:
       name: Back Dragon_127
       rect:
         serializedVersion: 2
-        x: 438
-        y: 579
+        x: 9
+        y: 160
         width: 64
-        height: 80
+        height: 67
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3367,7 +3472,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edb386de7542f9c4386370334fedb80e
+      spriteID: 3622b7ffb1d53434ea6cfb3aa0b1cc99
       internalID: 2573814026349852595
       vertices: []
       indices: 
@@ -3377,10 +3482,10 @@ TextureImporter:
       name: Back Dragon_128
       rect:
         serializedVersion: 2
-        x: 510
-        y: 579
-        width: 64
-        height: 80
+        x: 81
+        y: 155
+        width: 66
+        height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3388,7 +3493,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10d08eefd5634084d8f1544724c27c78
+      spriteID: 25d80e55a4823ca4ca6fb47a6b1d4306
       internalID: -7502990965941391085
       vertices: []
       indices: 
@@ -3398,10 +3503,10 @@ TextureImporter:
       name: Back Dragon_129
       rect:
         serializedVersion: 2
-        x: 582
-        y: 579
-        width: 64
-        height: 80
+        x: 10
+        y: 102
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3409,7 +3514,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87c1a2e8096a5154eaa74bf405160a7a
+      spriteID: 15b1e21762a0e354d9177efd1c826a23
       internalID: 6698878793995316273
       vertices: []
       indices: 
@@ -3419,10 +3524,10 @@ TextureImporter:
       name: Back Dragon_130
       rect:
         serializedVersion: 2
-        x: 654
-        y: 579
-        width: 64
-        height: 80
+        x: 16
+        y: 51
+        width: 66
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3430,7 +3535,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b36ece2eab0d7b4eb34f8a7571d3793
+      spriteID: 3f3010595e301f44980e7ee0c6c0d50e
       internalID: 1401004814764481946
       vertices: []
       indices: 
@@ -3440,10 +3545,10 @@ TextureImporter:
       name: Back Dragon_131
       rect:
         serializedVersion: 2
-        x: 726
-        y: 579
-        width: 64
-        height: 80
+        x: 90
+        y: 102
+        width: 16
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3451,7 +3556,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb9dd6aaf0021b14fa41ae69c59ac42f
+      spriteID: fd6da627cde84cc4fbc8d39275f3352a
       internalID: -9005254276133989445
       vertices: []
       indices: 
@@ -3461,10 +3566,10 @@ TextureImporter:
       name: Back Dragon_132
       rect:
         serializedVersion: 2
-        x: 798
-        y: 579
-        width: 64
-        height: 80
+        x: 98
+        y: 51
+        width: 66
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3472,7 +3577,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: edc2eac152549f44cb3579510a048d5e
+      spriteID: f94a896cc3438d248a557851f8069de1
       internalID: 287310409043531187
       vertices: []
       indices: 
@@ -3482,10 +3587,10 @@ TextureImporter:
       name: Back Dragon_133
       rect:
         serializedVersion: 2
-        x: 870
-        y: 579
-        width: 64
-        height: 80
+        x: 170
+        y: 107
+        width: 15
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3493,7 +3598,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0640383712b95564d90056d2bf912e1f
+      spriteID: dccf3d7cc6c39c149a94394f2c5e05fb
       internalID: 4773561355457460773
       vertices: []
       indices: 
@@ -3503,10 +3608,10 @@ TextureImporter:
       name: Back Dragon_134
       rect:
         serializedVersion: 2
-        x: 942
-        y: 579
-        width: 64
-        height: 80
+        x: 178
+        y: 51
+        width: 66
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3514,7 +3619,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30cc558340e30fe45a875c35dd0daa66
+      spriteID: 28cbd33320f86be44bab11d877193a5f
       internalID: 5714990039995185618
       vertices: []
       indices: 
@@ -3524,10 +3629,10 @@ TextureImporter:
       name: Back Dragon_135
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 579
-        width: 64
-        height: 80
+        x: 249
+        y: 107
+        width: 16
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3535,7 +3640,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a96a2f424a7f53a428317e07f01f54c5
+      spriteID: 2c7ccdc2b7fd5e14aad74f0d7103aecb
       internalID: -1678856959075128498
       vertices: []
       indices: 
@@ -3545,10 +3650,10 @@ TextureImporter:
       name: Back Dragon_136
       rect:
         serializedVersion: 2
-        x: 1086
-        y: 579
-        width: 64
-        height: 80
+        x: 257
+        y: 51
+        width: 63
+        height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3556,7 +3661,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ddfd76624b9ccb4ba919c18ec121f87
+      spriteID: 5935c20517029c641a55a00fb8e3e3bc
       internalID: 4585076054930142127
       vertices: []
       indices: 
@@ -3566,10 +3671,10 @@ TextureImporter:
       name: Back Dragon_137
       rect:
         serializedVersion: 2
-        x: 1158
-        y: 579
-        width: 64
-        height: 80
+        x: 328
+        y: 51
+        width: 65
+        height: 89
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3577,7 +3682,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bac5fcdd6a37edc48b216f9a1bef6523
+      spriteID: ca608a5a59049da40ba879e48920685f
       internalID: -8755444449076179761
       vertices: []
       indices: 
@@ -3587,10 +3692,10 @@ TextureImporter:
       name: Back Dragon_138
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 579
-        width: 64
-        height: 80
+        x: 14
+        y: 6
+        width: 35
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3598,7 +3703,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4520ee46fffd92f4e8f15da32aa234c0
+      spriteID: 83c4bd96214ddc84995cf840a0e4d2a5
       internalID: -2996703618438870860
       vertices: []
       indices: 
@@ -3608,10 +3713,10 @@ TextureImporter:
       name: Back Dragon_139
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 579
-        width: 64
-        height: 80
+        x: 56
+        y: 6
+        width: 34
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3619,7 +3724,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 412fd054920c7f445b8880328552f830
+      spriteID: 5be7bea1bf6bfca48adc6ff922cdc220
       internalID: -713614228697134575
       vertices: []
       indices: 
@@ -3629,10 +3734,10 @@ TextureImporter:
       name: Back Dragon_140
       rect:
         serializedVersion: 2
-        x: 1374
-        y: 579
-        width: 64
-        height: 80
+        x: 95
+        y: 6
+        width: 37
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3640,7 +3745,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 189c24799a4ad1c459860724f9b78469
+      spriteID: 4dfb8e8600b96744a96f4f96c64aa994
       internalID: -4739012995138736799
       vertices: []
       indices: 
@@ -3650,10 +3755,10 @@ TextureImporter:
       name: Back Dragon_141
       rect:
         serializedVersion: 2
-        x: 1446
-        y: 579
-        width: 64
-        height: 80
+        x: 137
+        y: 6
+        width: 33
+        height: 35
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3661,1163 +3766,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bc3bca1bbe2111449c466caa532b558
+      spriteID: da4a2a8abbb29a8449d5ff2e4475ed63
       internalID: -214273249314708764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_142
-      rect:
-        serializedVersion: 2
-        x: 1518
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b32ad78a341e7b408e9bcf18f72e5a7
-      internalID: -487121496119439865
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_143
-      rect:
-        serializedVersion: 2
-        x: 1590
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab251c7fa20dc8347ab1159ddc2e1d98
-      internalID: 8437973294268412364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_144
-      rect:
-        serializedVersion: 2
-        x: 1662
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bbb08c7a759d3f7408fe31a7b3f75b18
-      internalID: 4881200144450454780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_145
-      rect:
-        serializedVersion: 2
-        x: 1734
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0330bf3a61a64714c893f5a060441280
-      internalID: 4184119200604966977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_146
-      rect:
-        serializedVersion: 2
-        x: 1806
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e387f57212a44db40ac1b94a246411bf
-      internalID: 441747462265886256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_147
-      rect:
-        serializedVersion: 2
-        x: 1878
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: da79fe87452cfd947be4d326fd27add0
-      internalID: 439724773296509087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_148
-      rect:
-        serializedVersion: 2
-        x: 1950
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8ffb2a30f6bf4e4dadb58ddfc93ec07
-      internalID: -900920262168800038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_149
-      rect:
-        serializedVersion: 2
-        x: 2022
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6983de21e9b1821409f2bc75525f4629
-      internalID: 7078661169135368748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_150
-      rect:
-        serializedVersion: 2
-        x: 2094
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 314f3bdb57cb1064d94cc5f5b2c3a8af
-      internalID: -975172319418132224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_151
-      rect:
-        serializedVersion: 2
-        x: 2166
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ca98f157bcdde946973aeec93b06ef0
-      internalID: -6351684526958042410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_152
-      rect:
-        serializedVersion: 2
-        x: 2238
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51a0e3fd934f5f844b5eef42cfb8c498
-      internalID: 1761705368891389368
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_153
-      rect:
-        serializedVersion: 2
-        x: 2310
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91de130de70d6bd4ea4ee9bd3f3702af
-      internalID: -8717973560628129913
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_154
-      rect:
-        serializedVersion: 2
-        x: 2382
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08d1b2d7ee449b24c9bc4af32d9c898c
-      internalID: -4519855235900375132
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_155
-      rect:
-        serializedVersion: 2
-        x: 2454
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cdca6d0943ed0074a9956a7eb956bda2
-      internalID: -6204141021929889072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_156
-      rect:
-        serializedVersion: 2
-        x: 2526
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 02994c0af0569fb438abfbe0ca6f09b3
-      internalID: 8380685049129529112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_157
-      rect:
-        serializedVersion: 2
-        x: 2598
-        y: 579
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 922982233281a1d4ca2f036e7e74a591
-      internalID: -1058808762962029590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_158
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 499
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0c50ae1e04f595448c9c18e6473411f
-      internalID: -3567038529833341823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_159
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 499
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e87bb19a85f0f64f9c4fac7770805b1
-      internalID: -2194012452613773553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_160
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 499
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77fd1129df6ea1f4d9e71916147819a6
-      internalID: -5639439148956471481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_161
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 499
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: edfceb0fb2572c8499eaf4758ba801e8
-      internalID: 5142473276800880020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_162
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 499
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b2369ace1f632f40879d2d238f46a5a
-      internalID: 2890710594055893163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_163
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65a3b4d0be64ccd449eafdc92f0aab5a
-      internalID: 4425864820845331586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_164
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06b51389d9e9e3e429a3ddfbfe3e3fd1
-      internalID: -4813882622511953133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_165
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc6500555fa12ae4aa6889e5fbb9b276
-      internalID: 7716629699576674021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_166
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6bf430dd27648d4c9ef9f39314efae2
-      internalID: 3202250769370246895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_167
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef3aab7322499ff439028b407e377fe6
-      internalID: 7210955743714525968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_168
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 419
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e3c8d6dd91a04244b7dbd80afb9ea61
-      internalID: 46684766703976349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_169
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf3a1377fe4136d4f8150f4555a6f244
-      internalID: -8996479495318339051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_170
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b1edb99833c25d4089d1e30f84a6567
-      internalID: 5650163045453201694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_171
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70289e0d0a79eda4ba324de4b4a76dbb
-      internalID: -4910054587080162959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_172
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c63c0fc47a2e39248bb6bb1452b45295
-      internalID: 7713983098787060658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_173
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a65d78c8371323428deb147b5614bfa
-      internalID: 7423436745276182513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_174
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 339
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d632b6add47baaf438a31a24427d5b5c
-      internalID: 4974733745062046752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_175
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 259
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33b98cf1aaabd804caf852b68f947514
-      internalID: 6160507972054910971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_176
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 259
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a58792318bb9b564fab6b04040c88c61
-      internalID: 3109994515025703763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_177
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 259
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5dfb0823df413749908213387fc9988
-      internalID: 5273586898532166979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_178
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 259
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef0b185d65350684a8dc7245a0799740
-      internalID: -7188694294076303831
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_179
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 259
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1fbeadac29ab8d448dceb2e52b54e9a
-      internalID: 6974136889650523511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_180
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 179
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 083e0d1545576974eb5532786ad5ebe0
-      internalID: -7193806122365366475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_181
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 179
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef428e0f5b7c6c642a6a1ce69a54d1cb
-      internalID: 5814573616152714987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_182
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 179
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f8aedcc63d15c646a7963d5ac7fc956
-      internalID: -2704669019282457424
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_183
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 179
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f92c62e779c02f4ca21cccca38c8b46
-      internalID: 9217305080082729541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_184
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 179
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71491f14f165fdc44861ef4d4cf479e7
-      internalID: -6241550763958402039
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_185
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ad0acca5afd2a94e980d99720dd0bb4
-      internalID: 6149700895191191189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_186
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2c18f2f5be9f6549897940e390d2de8
-      internalID: 8541231377351507429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_187
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1393d857b122cfd4fa0b1612bda07f0d
-      internalID: 1136158109270465829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_188
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27bb288b966f1be4f956c0dadc65c38c
-      internalID: 35438378482406216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_189
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d495f65e040ebf4db0983b0ae568e25
-      internalID: -354404168493725078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_190
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 99
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52dda37c293ad87418f77fa443dc545d
-      internalID: -6911508540350250651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_191
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f400a3e4a6301b94887f979ff176a762
-      internalID: -3654696942639639146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_192
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c9fcf66c20dc924c80fcfd4f4d0f337
-      internalID: 2607130396728062204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_193
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8908f6fbfdbea7143a4650b301eab030
-      internalID: 5806733577023133258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_194
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17b6c198a1429ff46a300ba06f6a5f1e
-      internalID: -5706889587578437415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_195
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c4d119f66b9bbe4e9322224d86dc11d
-      internalID: -6500440524131744339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Back Dragon_196
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 19
-        width: 64
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 896d933b5dbc8d44ab96163c81fe0195
-      internalID: 371451511321663490
       vertices: []
       indices: 
       edges: []
