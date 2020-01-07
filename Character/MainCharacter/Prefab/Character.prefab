@@ -253,6 +253,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3627300635899174760}
   - component: {fileID: 3627300635899174763}
+  - component: {fileID: 8048719847217721357}
+  - component: {fileID: 4386789085126199682}
+  - component: {fileID: 6925333035241532621}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -297,6 +300,89 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &8048719847217721357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3627300635899174762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26f24847758eb314dac93878867baf63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TimeScale: 0
+  Strength: 0
+  Agility: 0
+  Intelligent: 0
+  AttackDamage: 0
+  MDamageAmplified: 0
+  MaxHp: 0
+  MaxMp: 0
+  HpRegen: 0
+  MpRegen: 0
+  ShieldRegen: 0
+  MShieldRegen: 0
+  PShield: 0
+  HpRegenPercent: 0
+  MpRegenPercent: 0
+  Armor: 0
+  MArmor: 0
+  AttackRange: 0
+  CastRange: 0
+  MovementSpeed: 0
+  AttackSpeed: 0
+  JumpSpeed: 0
+  StandOn: 0
+  Body: {fileID: 0}
+  Collider: {fileID: 0}
+  _isFly: 0
+  _currentShield: 22
+  _currentMShield: 0
+  _currentPShield: 52
+  _currentHp: 100
+  _currentMp: 0
+  _jumpTimes: 1
+  _currentJump: 0
+  _unitStatus: 0
+--- !u!70 &4386789085126199682
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3627300635899174762}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.5, y: 1}
+  m_Direction: 0
+--- !u!50 &6925333035241532621
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3627300635899174762}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 5
 --- !u!1 &3627300636161704206
 GameObject:
   m_ObjectHideFlags: 0

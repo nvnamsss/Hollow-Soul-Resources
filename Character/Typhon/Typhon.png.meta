@@ -1,0 +1,3199 @@
+fileFormatVersion: 2
+guid: 38d14f80a2af08a4983d731e49ac5103
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6699111921202895765
+    second: Typhon_0
+  - first:
+      213: -788823638265543229
+    second: Typhon_1
+  - first:
+      213: 6824439381048396191
+    second: Typhon_2
+  - first:
+      213: -914901777222888229
+    second: Typhon_3
+  - first:
+      213: -3986841498148258410
+    second: Typhon_4
+  - first:
+      213: 9172397212032291109
+    second: Typhon_5
+  - first:
+      213: 5080552050360021956
+    second: Typhon_6
+  - first:
+      213: -1830524585976630405
+    second: Typhon_7
+  - first:
+      213: -4855581670967537693
+    second: Typhon_8
+  - first:
+      213: -6375732700585006426
+    second: Typhon_9
+  - first:
+      213: -560110517841731093
+    second: Typhon_10
+  - first:
+      213: 5421566407043175143
+    second: Typhon_11
+  - first:
+      213: 2543113543073297401
+    second: Typhon_12
+  - first:
+      213: -4024264352038584554
+    second: Typhon_13
+  - first:
+      213: 3106842292989269951
+    second: Typhon_14
+  - first:
+      213: -2985019507647386065
+    second: Typhon_15
+  - first:
+      213: 3314161927639133842
+    second: Typhon_16
+  - first:
+      213: -7382964214974462891
+    second: Typhon_17
+  - first:
+      213: 9098068329651599577
+    second: Typhon_18
+  - first:
+      213: -7274441752163746561
+    second: Typhon_19
+  - first:
+      213: 8457386414112096597
+    second: Typhon_20
+  - first:
+      213: -5176388085826484034
+    second: Typhon_21
+  - first:
+      213: -6175771135263684552
+    second: Typhon_22
+  - first:
+      213: -457120380998575624
+    second: Cyclone_Effect_3
+  - first:
+      213: -3217969348218240942
+    second: Typhon_24
+  - first:
+      213: 899114023806406029
+    second: Cyclone_Effect_4
+  - first:
+      213: -6797374979767271433
+    second: Typhon_26
+  - first:
+      213: 7287687045012273537
+    second: Cyclone_Effect_5
+  - first:
+      213: -8846064651192654741
+    second: Typhon_28
+  - first:
+      213: 4445688156692222944
+    second: Cyclone_Effect_6
+  - first:
+      213: -3454872126295927631
+    second: Typhon_30
+  - first:
+      213: 8461407943503069148
+    second: Typhon_31
+  - first:
+      213: 4419456179967894977
+    second: Typhon_32
+  - first:
+      213: -4135320455722608219
+    second: Typhon_33
+  - first:
+      213: 425496437192005366
+    second: Typhon_34
+  - first:
+      213: 4550828964821186696
+    second: Typhon_35
+  - first:
+      213: 5747560107268482145
+    second: Typhon_36
+  - first:
+      213: -5528576701577333812
+    second: Typhon_37
+  - first:
+      213: 6139526159872588454
+    second: Typhon_38
+  - first:
+      213: 8474303744158315856
+    second: Typhon_39
+  - first:
+      213: -5315388092186616997
+    second: Typhon_40
+  - first:
+      213: -9163863142360747715
+    second: Typhon_41
+  - first:
+      213: -5206879610442276787
+    second: Typhon_42
+  - first:
+      213: 4920238429522429071
+    second: Typhon_43
+  - first:
+      213: -4742497658523804634
+    second: Typhon_44
+  - first:
+      213: 8458241079578034224
+    second: Typhon_45
+  - first:
+      213: -9184602958049741428
+    second: Typhon_46
+  - first:
+      213: 7493735957888994604
+    second: Typhon_47
+  - first:
+      213: -4002570138115580824
+    second: Typhon_48
+  - first:
+      213: 7496076786994341284
+    second: Typhon_49
+  - first:
+      213: -4367363615208042209
+    second: Typhon_50
+  - first:
+      213: 3918363763444610381
+    second: Typhon_51
+  - first:
+      213: 1131266119123370944
+    second: Typhon_52
+  - first:
+      213: -5416956350640661756
+    second: Typhon_53
+  - first:
+      213: -226437657219590232
+    second: Typhon_54
+  - first:
+      213: 5126908983420197809
+    second: Typhon_55
+  - first:
+      213: 5804973323463481602
+    second: Typhon_56
+  - first:
+      213: -6003151951646683635
+    second: Typhon_57
+  - first:
+      213: -9006790686963058193
+    second: Typhon_58
+  - first:
+      213: -1581080209507062834
+    second: Typhon_59
+  - first:
+      213: -7933106606366386382
+    second: Typhon_60
+  - first:
+      213: -8617042423974480631
+    second: Typhon_61
+  - first:
+      213: 4646203904646016218
+    second: Typhon_62
+  - first:
+      213: 302635407352359398
+    second: Typhon_63
+  - first:
+      213: -8660701860827276887
+    second: Typhon_64
+  - first:
+      213: 8322209185989846757
+    second: Typhon_65
+  - first:
+      213: -1011237531926236254
+    second: Typhon_66
+  - first:
+      213: -551241326675040857
+    second: Typhon_67
+  - first:
+      213: 6544430478831245165
+    second: Typhon_68
+  - first:
+      213: -3630348330961909098
+    second: Typhon_69
+  - first:
+      213: 3596350174938580214
+    second: Typhon_70
+  - first:
+      213: -4221568217464434581
+    second: Typhon_71
+  - first:
+      213: -5841859835580277271
+    second: Typhon_72
+  - first:
+      213: -3807171147595712855
+    second: Typhon_73
+  - first:
+      213: 1727591555460783644
+    second: Typhon_74
+  - first:
+      213: 5195347703535902452
+    second: Typhon_75
+  - first:
+      213: -5960758439994191246
+    second: Typhon_76
+  - first:
+      213: -8142668324607244873
+    second: Typhon_77
+  - first:
+      213: 6661193143597310072
+    second: Typhon_78
+  - first:
+      213: -2677251455854691156
+    second: Typhon_79
+  - first:
+      213: 761628405955276635
+    second: Typhon_80
+  - first:
+      213: 841058873110944529
+    second: Typhon_81
+  - first:
+      213: -7739796817591404378
+    second: Typhon_82
+  - first:
+      213: 5550258059028023887
+    second: Typhon_83
+  - first:
+      213: 3982621167743835732
+    second: Typhon_84
+  - first:
+      213: -2249138064712706929
+    second: Typhon_85
+  - first:
+      213: -1982708202856992187
+    second: Typhon_86
+  - first:
+      213: 5566765223943626961
+    second: Typhon_87
+  - first:
+      213: -3439663287398382657
+    second: Typhon_88
+  - first:
+      213: 276682277648848522
+    second: Typhon_89
+  - first:
+      213: -4845569550917358167
+    second: Typhon_90
+  - first:
+      213: -4229822437585001851
+    second: Typhon_91
+  - first:
+      213: 9127317879346465851
+    second: Typhon_92
+  - first:
+      213: -7453615755225781549
+    second: Typhon_93
+  - first:
+      213: -1463659168859873258
+    second: Typhon_94
+  - first:
+      213: 3593228714746977362
+    second: Typhon_95
+  - first:
+      213: -1673078440160273730
+    second: Typhon_96
+  - first:
+      213: 7322019231347606543
+    second: Typhon_97
+  - first:
+      213: 6775832377106024287
+    second: Typhon_98
+  - first:
+      213: 6006554388191613547
+    second: Typhon_99
+  - first:
+      213: 8483030790705530505
+    second: Typhon_100
+  - first:
+      213: 3892238491049107270
+    second: Typhon_101
+  - first:
+      213: -6131435947853345615
+    second: Typhon_102
+  - first:
+      213: -5452369767139609016
+    second: Typhon_103
+  - first:
+      213: -117290814995700549
+    second: Typhon_104
+  - first:
+      213: 5950981859931210591
+    second: Typhon_105
+  - first:
+      213: -489940030951433639
+    second: Typhon_106
+  - first:
+      213: 6581811646528789000
+    second: Typhon_107
+  - first:
+      213: 7653726803228258425
+    second: Typhon_108
+  - first:
+      213: -5074129930873594759
+    second: Typhon_109
+  - first:
+      213: -3939448257021909382
+    second: Typhon_110
+  - first:
+      213: 3991893795300175925
+    second: Typhon_111
+  - first:
+      213: 7960291173010424145
+    second: Typhon_112
+  - first:
+      213: 9039510386362669734
+    second: Typhon_113
+  - first:
+      213: -2616970613047438095
+    second: Typhon_114
+  - first:
+      213: -6024132558279733243
+    second: Typhon_115
+  - first:
+      213: 6721056032628428319
+    second: Typhon_116
+  - first:
+      213: 2018287055687392076
+    second: Typhon_117
+  - first:
+      213: -8696304640748765901
+    second: Typhon_118
+  - first:
+      213: -3616957439383170208
+    second: Typhon_119
+  - first:
+      213: -2210035008832471089
+    second: Typhon_120
+  - first:
+      213: -1039981338280970639
+    second: Typhon_121
+  - first:
+      213: -3539421626553093235
+    second: Typhon_122
+  - first:
+      213: 2997374513858681415
+    second: Typhon_123
+  - first:
+      213: -3707347808090816334
+    second: Typhon_124
+  - first:
+      213: 4296901541897590379
+    second: Typhon_125
+  - first:
+      213: -1877292216394015990
+    second: Typhon_126
+  - first:
+      213: 8020421287517372185
+    second: Cyclone_Effect_1
+  - first:
+      213: -1752260378240762186
+    second: Cyclone_Effect_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Typhon_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 498
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e95319df4771746aca4dc3aa40ca9c
+      internalID: -6699111921202895765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 501
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900fd1d4877d5c14fad51bf5e6c42904
+      internalID: -788823638265543229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 475
+        width: 122
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1673a83121b7143845617bef75c18c
+      internalID: 6824439381048396191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 478
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e8ff2884a32fb40b5186b4913ff767
+      internalID: -914901777222888229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 497
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c40169b20be77428449a78d2650759
+      internalID: -3986841498148258410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_5
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 531
+        width: 300
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e383481e5d30bfa42ab54193ce4f5bd6
+      internalID: 9172397212032291109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 474
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e6de4da5651e4d869c611e712b5aa
+      internalID: 5080552050360021956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870bb8a788c1ff43952a25d305ab067
+      internalID: -1830524585976630405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 472
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59631af783d1b2e4fb864ab67cd1e17f
+      internalID: -4855581670967537693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 466
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c417ed777e8b9438fbaf6e1177eb83
+      internalID: -6375732700585006426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 478
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550338aacd5a821479848e9553ff97b2
+      internalID: -560110517841731093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13d0825b7b3fd4dae7a30c9a5e742b
+      internalID: 5421566407043175143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 474
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d4c08019ad3343aac24a0a60c7671
+      internalID: 2543113543073297401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 475
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e25dcc3f9883b47bb8849df26f99cf
+      internalID: -4024264352038584554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 465
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e16c61bde0e804393d3c19cafe78dc
+      internalID: 3106842292989269951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 465
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aab9b4b402b9341bf4aa18ed16a178
+      internalID: -2985019507647386065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 460
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189b1bf16dc4914bbd24fda3572ef04
+      internalID: 3314161927639133842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 467
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bcba5f7665c7f4d9cd06a10256ac91
+      internalID: -7382964214974462891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 284
+        width: 125
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbcfbd5d6a7b6344a1f14f0caa198fb
+      internalID: 9098068329651599577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 284
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ed6b2837015b489c1ece42c898ea5
+      internalID: -7274441752163746561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 283
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6256334fb1406f4e9dc0a2b728eb1a3
+      internalID: 8457386414112096597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 278
+        width: 162
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc0854251e8e54bad85e6ac10cf829
+      internalID: -5176388085826484034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 280
+        width: 217
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8399812bde98177458839602688e5c96
+      internalID: -6175771135263684552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 282
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5d689ce6e9504db45edfa7c245016
+      internalID: -457120380998575624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_24
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 313
+        width: 120
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f55343faa33a41b30024c45bc3ae8
+      internalID: -3217969348218240942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 288
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3cc9d9bcb6d3d4c9a5394a4d51c6fb
+      internalID: 899114023806406029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 313
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa1f850f25cc64d94995b1ae3a3b56
+      internalID: -6797374979767271433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 293
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4fce367f5cac4a9978baef0fa0c75
+      internalID: 7287687045012273537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_28
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 278
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a5c703ec1317b47b141770a22bcc36
+      internalID: -8846064651192654741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 329
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d5d42c0266c048ab9aedc2ee370ad
+      internalID: 4445688156692222944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_30
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 287
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab31fc580d70384d9bf9cf430d61db8
+      internalID: -3454872126295927631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_31
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 346
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9af3529b58a242a265e004c4838e3
+      internalID: 8461407943503069148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_32
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 304
+        width: 126
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24353d3b699b7fa41a3b350904b6d1e5
+      internalID: 4419456179967894977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_33
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 304
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b515afa2c892749b3af6e05900dfb8
+      internalID: -4135320455722608219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_34
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a1efe2cd0a0454bb006b46d1ab9d7a
+      internalID: 425496437192005366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_35
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd900be7adc1264db73df48bb60391d
+      internalID: 4550828964821186696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_36
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 301
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc8e8466967b74280d491644263aaf
+      internalID: 5747560107268482145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_37
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 287
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b993da5fe87cdcd46b6fc0a110c2e60f
+      internalID: -5528576701577333812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_38
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a71215f45ebd439db93da07ab8026
+      internalID: 6139526159872588454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_39
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 305
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddca2402386944580fd673cb58b4ae
+      internalID: 8474303744158315856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_40
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 291
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa3dd299ea65545a2daffde698d461
+      internalID: -5315388092186616997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_41
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 298
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9e8f81884c4d48aef020e53c74555
+      internalID: -9163863142360747715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_42
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 293
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f155f13ef3314d929f4fec98c659b
+      internalID: -5206879610442276787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_43
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 288
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317589fc0d4537a408578e5bcca4e800
+      internalID: 4920238429522429071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_44
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 297
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97620569a9e254b4cb13147b4df8b3bf
+      internalID: -4742497658523804634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_45
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 288
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f81046882e05b47a4b860859d35d24
+      internalID: 8458241079578034224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_46
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 281
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea78a3b883eebb4db9cd2def96a59f6
+      internalID: -9184602958049741428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_47
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 274
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df676947b62e34db780842f58bebc2
+      internalID: 7493735957888994604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_48
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 280
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a5395423cac34e9a411f62a090eb0
+      internalID: -4002570138115580824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_49
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 278
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe1255126785543bc154bc17648fcb
+      internalID: 7496076786994341284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_50
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 277
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7593baa12d91524e96138f4d4a2de06
+      internalID: -4367363615208042209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_51
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 272
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84acb364490c061438faaa32110ac039
+      internalID: 3918363763444610381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_52
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 285
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8112cb5280363458b0a0865028628f
+      internalID: 1131266119123370944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_53
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4cb68f544924e4096c947241b94fff
+      internalID: -5416956350640661756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 282
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d499e68eb5b66a4d84bcd8fc6b185ce
+      internalID: -226437657219590232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_55
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 274
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681df14f2eb4d44bb46b6594e8dfeaf
+      internalID: 5126908983420197809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 209
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7593c80061c58449e579e3419dae98
+      internalID: 5804973323463481602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 203
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb49d96f1fae64ba3246858d07a556
+      internalID: -6003151951646683635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_58
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 204
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e86972194afa44832764e75ae808f
+      internalID: -9006790686963058193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 205
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e94f14580cb34a97b5d2dd4c94bca
+      internalID: -1581080209507062834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb58d29f333434eb3b785e99bcb5e9
+      internalID: -7933106606366386382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 176
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb06580426de1449b4943294390082
+      internalID: -8617042423974480631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a856e2b46cdf4cbdd2cfd1c80794d
+      internalID: 4646203904646016218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_63
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 54
+        width: 139
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcbc86e0529f3342bb30090f6bce159
+      internalID: 302635407352359398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_64
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 141
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b5de2487c4aaa46a8d7aa351492a9f
+      internalID: -8660701860827276887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_65
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 54
+        width: 137
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243b6aa9ee6aca4aaa3b85239ae861f
+      internalID: 8322209185989846757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 51
+        width: 143
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56194b510815004cb5ee1be472ac2cd
+      internalID: -1011237531926236254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_67
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 50
+        width: 142
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890e1b76210b384ca06a4b22b48e197
+      internalID: -551241326675040857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_68
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 46
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fd4c8eaea9924a8216305b3a7f57d
+      internalID: 6544430478831245165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_69
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 47
+        width: 121
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396439816dfe751429dbd8e7bb771668
+      internalID: -3630348330961909098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_70
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 41
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706488e37ccf55e488cba6195f6bf0d5
+      internalID: 3596350174938580214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_71
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 149
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace25a7b7ae612941b38bdf3ddbff072
+      internalID: -4221568217464434581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_72
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc08aa7a68ae0b4bb3d18ee12aab444
+      internalID: -5841859835580277271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_73
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 142
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc9808267acc84b87be76043c5a10a
+      internalID: -3807171147595712855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_74
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 130
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaed9991651d83f46909b8980a13be74
+      internalID: 1727591555460783644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_75
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 56
+        width: 125
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ae8cd9d6252f4bb7bdb4eb5164b27
+      internalID: 5195347703535902452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_76
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 124
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0e8065988877478691f7a31a4055b
+      internalID: -5960758439994191246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_77
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 144
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ac7db55b7d23498f8c9cae58d5717
+      internalID: -8142668324607244873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_78
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 47
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739f02baade0324eb975d9a49f9f3d5
+      internalID: 6661193143597310072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_79
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 117
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545bda74edf65143800571ed2646569
+      internalID: -2677251455854691156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_80
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 94
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b7d486ae676584ab4bbcd3d2bb9027
+      internalID: 761628405955276635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_81
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 117
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b79f5f21d96cc64eafdc85529ed395a
+      internalID: 841058873110944529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_82
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 83
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a072f09bd68b6a4795e0e7621bb8993
+      internalID: -7739796817591404378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_83
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 91
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d62949ef3a6b428b6d3695423aadd
+      internalID: 5550258059028023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_84
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 117
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349475b62dd69347a196c28e1b5ab90
+      internalID: 3982621167743835732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_85
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 83
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4243f9f01a77f46935ee061e8a41ba
+      internalID: -2249138064712706929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_86
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 121
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebcf95336a7ac444a967f3e70366630
+      internalID: -1982708202856992187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_87
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 83
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466de77ef0715d40aac0a0735da3b92
+      internalID: 5566765223943626961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_88
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 79
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfdc552f2d175944a26821e72c02706
+      internalID: -3439663287398382657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_89
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 92
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c378fcd10d47f46a218a3f8767afbf
+      internalID: 276682277648848522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_90
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17df5bd7d246f64996156bd163d965f
+      internalID: -4845569550917358167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_91
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9e7ebafa50da24484a21f7818b9114
+      internalID: -4229822437585001851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_92
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 91
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921e79492578f0489451df7d90e5623
+      internalID: 9127317879346465851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_93
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87907aa323443b243b7b3f02e424a085
+      internalID: -7453615755225781549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_94
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf4f578e3cd044c8238e04d90c5ecc
+      internalID: -1463659168859873258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_95
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 98
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7af5a4550dd7146aabc3a3f6940763
+      internalID: 3593228714746977362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_96
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbebeb72b368d8f48882762a29342ed8
+      internalID: -1673078440160273730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_97
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 79
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3092ce4bd773484e8b524fcb98c0729
+      internalID: 7322019231347606543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_98
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 96
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac7cec2e1dd31543a8f2f5898ab0bf1
+      internalID: 6775832377106024287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_99
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 72
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f417c9a75714b4796474ee140a0884
+      internalID: 6006554388191613547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_100
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 69
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5753c7d4916d294fbd49cf0b2019d13
+      internalID: 8483030790705530505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_101
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 50
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c77ccecf94d648aa83b8bbb3bdceb
+      internalID: 3892238491049107270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_102
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6df1b05cb3c5e4db10e8cf33f1335d
+      internalID: -6131435947853345615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_103
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 66
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd072018d3593c449c773c4e4629775
+      internalID: -5452369767139609016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_104
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 53
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af071b27401654f8c358054290adbb
+      internalID: -117290814995700549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_105
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 84
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e2cc4295890e048bef8452eadce127
+      internalID: 5950981859931210591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_106
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 65
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6efa37ee57b7643b70d80458cace23
+      internalID: -489940030951433639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_107
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 53
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6bae3d5ef5c5f439ba30cb34d70979
+      internalID: 6581811646528789000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_108
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24dec3115148f047b3caa11ca909457
+      internalID: 7653726803228258425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_109
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc9cdaae9360d43b8124d44e343d9b
+      internalID: -5074129930873594759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_110
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45cf71575af71242a151634876c50eb
+      internalID: -3939448257021909382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_111
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 50
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2faa7b42c3d1e34f9cdae13ab4f13d5
+      internalID: 3991893795300175925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_112
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b019bcd5032bc4e89f1f4b242ed0c7
+      internalID: 7960291173010424145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_113
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 51
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728c9f440a05094991bb3210024d078
+      internalID: 9039510386362669734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_114
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 48
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da7650431119e341b2de0ec7e159b24
+      internalID: -2616970613047438095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_115
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf6bddf0bcd8a428148d3318e20e18
+      internalID: -6024132558279733243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_116
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f560c695bd8e3458a22c2e5109dc65
+      internalID: 6721056032628428319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_117
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136b336cc88faa4d88475855f09d04e
+      internalID: 2018287055687392076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_118
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 54
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3cb79f7ff588a498bc2cb07fb350a4
+      internalID: -8696304640748765901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_119
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f07681b3bafdfc4b80948ad324f528c
+      internalID: -3616957439383170208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_120
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 51
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e036073ec1ad304ba79cbd2d19bd038
+      internalID: -2210035008832471089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_121
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c62b89cc225a468708ccc687946fa
+      internalID: -1039981338280970639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_122
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 44
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088065d16777a9349974ddfacd508521
+      internalID: -3539421626553093235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_123
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cce1c7234c86641b16bbbd0dd2034e
+      internalID: 2997374513858681415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_124
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 42
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1af9a2c345c7448af822daed989e4
+      internalID: -3707347808090816334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_125
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 23
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b657e8680d2c44aac65957f2ae7e16
+      internalID: 4296901541897590379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Typhon_126
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 12
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec916b01cbca0f47aa62a44ba559083
+      internalID: -1877292216394015990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 283
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db9a777d8e3dae47949e6f191c953cf
+      internalID: 8020421287517372185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyclone_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 281
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae205864d1ef77f4ba65de53c1224403
+      internalID: -1752260378240762186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
