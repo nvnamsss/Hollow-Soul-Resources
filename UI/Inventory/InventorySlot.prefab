@@ -59,7 +59,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -344,6 +344,9 @@ MonoBehaviour:
   ConfirmDiscardDialog: {fileID: 0}
   yesButton: {fileID: 0}
   noButton: {fileID: 0}
+  tooltip: {fileID: 0}
+  itemName: {fileID: 0}
+  description: {fileID: 0}
 --- !u!1 &6263328645292181482
 GameObject:
   m_ObjectHideFlags: 0
