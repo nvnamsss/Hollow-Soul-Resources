@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5789144348868123089}
   - component: {fileID: 3949325449526298840}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: test-item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43,9 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55c32264cf36ff54ba4c30f2b348eb04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  description: 
-  itemType: 0
-  ammount: 1
+  itemName: Potion
+  description: Heal 1 hp
+  itemType: 2
   icon: {fileID: 21300000, guid: 9b05b305205bbdd4fbe7b296d9701085, type: 3}
   instaUse: 0
