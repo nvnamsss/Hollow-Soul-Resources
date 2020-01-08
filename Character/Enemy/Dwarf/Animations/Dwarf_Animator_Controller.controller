@@ -331,7 +331,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Dwarf_Sprite_Sheet1_2v_0
+  m_Name: Dwarf_Animator
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: taking-damage
