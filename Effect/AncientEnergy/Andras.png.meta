@@ -1,0 +1,2029 @@
+fileFormatVersion: 2
+guid: 5bc3377028690394ba72fdc200e80894
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3839238410232187632
+    second: Andras_0
+  - first:
+      213: -2892074091704644872
+    second: Andras_1
+  - first:
+      213: -5878584715292644374
+    second: Andras_2
+  - first:
+      213: 1815893656409500443
+    second: Andras_3
+  - first:
+      213: -4203625879738510596
+    second: Andras_4
+  - first:
+      213: -8652468380056937971
+    second: Andras_5
+  - first:
+      213: 6949636184556597897
+    second: Andras_6
+  - first:
+      213: 7833191994473940633
+    second: Andras_7
+  - first:
+      213: 3607424079557523049
+    second: Andras_8
+  - first:
+      213: 2173641043865454399
+    second: Andras_9
+  - first:
+      213: -5533648710202083421
+    second: Andras_10
+  - first:
+      213: -5022247383079669722
+    second: Andras_11
+  - first:
+      213: 7687317440857262015
+    second: Andras_12
+  - first:
+      213: -7691635226856380056
+    second: Andras_13
+  - first:
+      213: -4330565353173477787
+    second: Andras_14
+  - first:
+      213: -6552828787466920059
+    second: Andras_15
+  - first:
+      213: 6074349650386274057
+    second: Andras_16
+  - first:
+      213: -6136700507114911422
+    second: Andras_17
+  - first:
+      213: -6558238535020075746
+    second: Andras_18
+  - first:
+      213: -6122961948464638427
+    second: Andras_19
+  - first:
+      213: -4246878881841112794
+    second: Andras_20
+  - first:
+      213: -7393931308911934740
+    second: Andras_21
+  - first:
+      213: 2466314448959271908
+    second: Andras_22
+  - first:
+      213: -7942025394325118755
+    second: Andras_23
+  - first:
+      213: 329591895333218387
+    second: Andras_24
+  - first:
+      213: -6533879083969199685
+    second: Andras_25
+  - first:
+      213: -5591861231301347601
+    second: Andras_26
+  - first:
+      213: 8648939121097995507
+    second: Andras_27
+  - first:
+      213: -974129465285892405
+    second: Andras_28
+  - first:
+      213: 9044746371286444812
+    second: Andras_29
+  - first:
+      213: -4882318912178894318
+    second: Andras_30
+  - first:
+      213: 3882842566555030611
+    second: Andras_31
+  - first:
+      213: 4647607690938678977
+    second: Andras_32
+  - first:
+      213: 5652208601860584630
+    second: Andras_33
+  - first:
+      213: -6759462942642876282
+    second: Andras_34
+  - first:
+      213: -36735899284776603
+    second: Andras_35
+  - first:
+      213: -3073517397187780652
+    second: Andras_36
+  - first:
+      213: -3738480568489401334
+    second: Andras_37
+  - first:
+      213: 8429302998582247526
+    second: Andras_38
+  - first:
+      213: -2260734967175763812
+    second: Andras_39
+  - first:
+      213: -5466230280561170456
+    second: Andras_40
+  - first:
+      213: -3461117145256080319
+    second: Andras_41
+  - first:
+      213: -3198045928032894496
+    second: Andras_42
+  - first:
+      213: -9094709258084463854
+    second: Andras_43
+  - first:
+      213: -6549257474651582790
+    second: Andras_44
+  - first:
+      213: -6004777052986483256
+    second: Andras_45
+  - first:
+      213: 746749906368050858
+    second: Andras_46
+  - first:
+      213: -9191191435369856860
+    second: Andras_47
+  - first:
+      213: 8899524990871004594
+    second: Andras_48
+  - first:
+      213: 5868582223837413648
+    second: Andras_49
+  - first:
+      213: 5217559589725288859
+    second: Andras_50
+  - first:
+      213: 6971561963937633433
+    second: Andras_51
+  - first:
+      213: 832743085164903529
+    second: Andras_52
+  - first:
+      213: -2229086131700389718
+    second: Spell_Andras_5
+  - first:
+      213: 8522245807128718529
+    second: Andras_54
+  - first:
+      213: -4794926926620659380
+    second: Andras_55
+  - first:
+      213: 5722554241128410023
+    second: Spell_Andras_6
+  - first:
+      213: 1869375181732973823
+    second: Spell_Andras_7
+  - first:
+      213: -6145337873025632161
+    second: Spell_Andras_10
+  - first:
+      213: -6580541590184198864
+    second: Spell_Andras_11
+  - first:
+      213: 3439572499831924011
+    second: Spell_Andras_12
+  - first:
+      213: 2561542816231377830
+    second: Andras_61
+  - first:
+      213: -9022088207849434380
+    second: Andras_62
+  - first:
+      213: 796888929978680267
+    second: Andras_63
+  - first:
+      213: 7068817726170981191
+    second: Andras_64
+  - first:
+      213: -7542923359775165773
+    second: Andras_65
+  - first:
+      213: 6216538769550106147
+    second: Spell_Andras_8
+  - first:
+      213: -2667441802079183154
+    second: Spell_Andras_9
+  - first:
+      213: -1785887392441635639
+    second: Spell_Andras_1
+  - first:
+      213: 1669945952892751136
+    second: Spell_Andras_2
+  - first:
+      213: -6624396843214562103
+    second: Andras_70
+  - first:
+      213: -3860445551175075709
+    second: Spell_Andras_3
+  - first:
+      213: -1195096436854884133
+    second: Andras_72
+  - first:
+      213: -1641594539972587711
+    second: Spell_Andras_4
+  - first:
+      213: -5410483323270473082
+    second: Andras_74
+  - first:
+      213: -6058166382528481002
+    second: Andras_75
+  - first:
+      213: -3929274131966861287
+    second: Spell_Andras_13
+  - first:
+      213: 2630012947858245261
+    second: Spell_Andras_14
+  - first:
+      213: 6430508808700110911
+    second: Andras_78
+  - first:
+      213: -1536441157853582793
+    second: Andras_79
+  - first:
+      213: 7000509025067935255
+    second: Andras_80
+  - first:
+      213: -7056496291778307954
+    second: Andras_81
+  - first:
+      213: -6986800905810109243
+    second: Andras_82
+  - first:
+      213: -3690489999982729131
+    second: Andras_83
+  - first:
+      213: -428199221152566529
+    second: Andras_84
+  - first:
+      213: 5550844218098431094
+    second: Andras_85
+  - first:
+      213: -5408424093945279681
+    second: Andras_86
+  - first:
+      213: -3415617930180647537
+    second: Andras_87
+  - first:
+      213: 1068146273705878360
+    second: Andras_88
+  - first:
+      213: 8941748716123426834
+    second: Andras_89
+  - first:
+      213: -5909503683312701781
+    second: Andras_90
+  - first:
+      213: -3578006068817697623
+    second: Andras_91
+  - first:
+      213: -6190944394090265846
+    second: Andras_92
+  - first:
+      213: 6687930513646273848
+    second: Andras_93
+  - first:
+      213: -2586675881886573549
+    second: Andras_94
+  - first:
+      213: 4764862018828466161
+    second: Andras_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Andras_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 791
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882b71c9d49eb04894d8ad29337ed69
+      internalID: -3839238410232187632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 791
+        width: 121
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b43339d32dc64f9606f1cfb91c364
+      internalID: -2892074091704644872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 789
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0592529480a304e8d8a39a42be4666
+      internalID: -5878584715292644374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 791
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea47e7b99b33a4abced87ed5552aad
+      internalID: 1815893656409500443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 662
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e32907618db24419280cf0f98f8e6a
+      internalID: -4203625879738510596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 662
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930619317ed179b4ba6977e8079de0e9
+      internalID: -8652468380056937971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 662
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f61443805b67cc4db8e07d67b7cdf95
+      internalID: 6949636184556597897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 662
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc477f341089f341bc15457ee551efa
+      internalID: 7833191994473940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 662
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be73586a22abe429e3b826366ac068
+      internalID: 3607424079557523049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 527
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c92d8305da594c9815aaa2e34e393
+      internalID: 2173641043865454399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 527
+        width: 132
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7071067307b9bbc40bdebc8fc8c67296
+      internalID: -5533648710202083421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 527
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05304b8026f56544b9e671f2546cbcb4
+      internalID: -5022247383079669722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 528
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32af2c14f912144970d16ecae22487
+      internalID: 7687317440857262015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 528
+        width: 175
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bbd47764d325946959e672b5b50654
+      internalID: -7691635226856380056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 528
+        width: 195
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e40137676d4924d938217fedc3c4eb
+      internalID: -4330565353173477787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 527
+        width: 199
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327fbd4c28cbdf447a8b5ac57ff5491a
+      internalID: -6552828787466920059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 527
+        width: 177
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8035748c4d2c4283317ca1a6bc109
+      internalID: 6074349650386274057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_18
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 527
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9127fc2900c444b489e372baca07d
+      internalID: -6558238535020075746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 420
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53ad09d462a7f4bbdabc79928c6f2d
+      internalID: -3073517397187780652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 424
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455770d82baa839468da306063a2b069
+      internalID: -3738480568489401334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 433
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d56b703467db4bbdaaeb1bcdda650
+      internalID: 8429302998582247526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 433
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5837ecc5557041a7751803d516224
+      internalID: -2260734967175763812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 432
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3994c2cb8d77ba4392b20e124f50f5f
+      internalID: -5466230280561170456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 467
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afbef8408575e4ea172f787d922e33
+      internalID: -3461117145256080319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_42
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 467
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298d996e2fbbfc4aab9c0f989988edd
+      internalID: -3198045928032894496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 467
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589370d3312e2f49a2fb511a78fc1dd
+      internalID: -9094709258084463854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_44
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 446
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d949b0b5e5c36d4ebcb87a88483786d
+      internalID: -6549257474651582790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 446
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4cc25f6a7c58142bcfedab91d52b88
+      internalID: -6004777052986483256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 387
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595f37d5f20e14448d86116b5608cda
+      internalID: 746749906368050858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 398
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d501686a949756042a25dfaf593cb3ea
+      internalID: -9191191435369856860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 386
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff45a0399a79e41ab70d1fdce7ee6b
+      internalID: 8899524990871004594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 380
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa454f2eb42e84ca3fd45effae1495
+      internalID: 5868582223837413648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 383
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900633596c25b2443a6c50d4dfdb52f0
+      internalID: 5217559589725288859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_51
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 377
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9d3d942d95c24abf22a00830fbe22
+      internalID: 6971561963937633433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_52
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 382
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991ca92d84d2fb45b9e5466aef366ab
+      internalID: 832743085164903529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 274
+        width: 166
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a5df3d3670a764285b09f9032c1ec7
+      internalID: -2229086131700389718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_54
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 374
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605e3c37a593ca45a899a0946345844
+      internalID: 8522245807128718529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_55
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 342
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef337ec194f1b784dae5f9191677ca9a
+      internalID: -4794926926620659380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 276
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db88a8abf3c84c45a0f6a68d8690e95
+      internalID: 5722554241128410023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_7
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 274
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5540162cef26048957cb243f387ded
+      internalID: 1869375181732973823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_10
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 272
+        width: 217
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af734548e7bcd4bbd021562a033328
+      internalID: -6145337873025632161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_11
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 274
+        width: 222
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68ed5ad99695c4997a9ef993fc7780
+      internalID: -6580541590184198864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_12
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 274
+        width: 227
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87859aafc655b2b498cc0490bf5422bf
+      internalID: 3439572499831924011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6378cd239d5241a82de539bab169c
+      internalID: 2561542816231377830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_62
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fd95d6094c894f9144f473fa9c933
+      internalID: -9022088207849434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_63
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 391
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4fa56cc9f636045b051ce1eced76b5
+      internalID: 796888929978680267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_64
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 391
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2fd07fc97dbc849a8411bfe5e5508c
+      internalID: 7068817726170981191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_65
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 391
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed460d1d2f09d4458bb1dd0f770b23f
+      internalID: -7542923359775165773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 274
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287f802aa1d01a4d8ed0d26526c1433
+      internalID: 6216538769550106147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_9
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 274
+        width: 152
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54cd5a35a497440b1a090d8bae3526
+      internalID: -2667441802079183154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 272
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb83e6b09c0911459183338bb86a952
+      internalID: -1785887392441635639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 272
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608663b8f48b2a46b7a6396577ef70a
+      internalID: 1669945952892751136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 359
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e294eb255d8d9438850312e4bf60b1
+      internalID: -6624396843214562103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 272
+        width: 161
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfab82505243444184c1e550442eda1
+      internalID: -3860445551175075709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_72
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af01b3f890c4564d9152f9f531f1339
+      internalID: -1195096436854884133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 272
+        width: 163
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b487c1130fbc4ab4ba68592b723d6
+      internalID: -1641594539972587711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_74
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 362
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5beb6108423554ebad0653d66c8d01
+      internalID: -5410483323270473082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_75
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 369
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60162b1127741484e8a74a1339c24731
+      internalID: -6058166382528481002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_13
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 274
+        width: 232
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff237f048d8edd94392f53b2ac20a0ec
+      internalID: -3929274131966861287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spell_Andras_14
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 274
+        width: 132
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37130eb6dafcfe64fb1936fef9aab1cc
+      internalID: 2630012947858245261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_78
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 358
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5adb55f2756545aa0d244690b8032
+      internalID: 6430508808700110911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_79
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 357
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b646fbbccc28d4ca9a80383f484299
+      internalID: -1536441157853582793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_80
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 357
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa3ba7e8b9dbc4ca52a8dbdf424392
+      internalID: 7000509025067935255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 202
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6373a3b685e84aa4b8d589ed281c6aad
+      internalID: -7056496291778307954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_82
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 130
+        width: 142
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ca1b8c6f58cb40ae0b3a3a7add1cd
+      internalID: -6986800905810109243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_83
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40021cb3e7e717248ae0bee8c8e7e46f
+      internalID: -3690489999982729131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 71
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7f02fc4ae8a74b9c0628c26b9f9c7
+      internalID: -428199221152566529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 143
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b0956ecd26114ba6c28b4049b96b2
+      internalID: 5550844218098431094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_86
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 79
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccfba11589df834287c8ee30ddb4c1f
+      internalID: -5408424093945279681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68a1640040b8834595094e59a619364
+      internalID: -3415617930180647537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_88
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 146
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec826b7493a97484ea1c0c8f5217a4a0
+      internalID: 1068146273705878360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_89
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a421ce7b5975b4489204d12867bab77
+      internalID: 8941748716123426834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_90
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 5
+        width: 141
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466c182e09685b34786726098f8fb8e4
+      internalID: -5909503683312701781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_91
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 5
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18311500fc8ef48a87813e6f9699bc
+      internalID: -3578006068817697623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_92
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 5
+        width: 138
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd899b36c9b3f3141b399f847ebd81f2
+      internalID: -6190944394090265846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_93
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 5
+        width: 139
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46635c779f3e0854ab6d21be7ee90fd7
+      internalID: 6687930513646273848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_94
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493dfea1d4357c64883fb740be324c62
+      internalID: -2586675881886573549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Andras_95
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292843ff850fd7498f9de47454674e0
+      internalID: 4764862018828466161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
