@@ -384,7 +384,7 @@ MonoBehaviour:
   Intelligent: 0
   AttackDamage: 35
   MDamageAmplified: 0
-  MaxHp: 40
+  MaxHp: 10
   MaxMp: 40
   HpRegen: 0
   MpRegen: 0
@@ -403,12 +403,12 @@ MonoBehaviour:
   StandOn: 0
   Body: {fileID: 1101916421}
   Collider: {fileID: 0}
-  Active: 0
-  _isFly: 0
-  _currentShield: 22
+  Active: 1
+  _isFly: 1
+  _currentShield: 0
   _currentMShield: 0
-  _currentPShield: 52
-  _currentHp: 100
+  _currentPShield: 0
+  _currentHp: 5
   _currentMp: 0
   _jumpTimes: 1
   _currentJump: 0
