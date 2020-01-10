@@ -14,8 +14,6 @@ GameObject:
   - component: {fileID: 1014669699}
   - component: {fileID: 1014669696}
   - component: {fileID: 1014669694}
-  - component: {fileID: 1014669695}
-  - component: {fileID: 1014669697}
   m_Layer: 0
   m_Name: Black Dragon
   m_TagString: Untagged
@@ -190,62 +188,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1014669695
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4709158390619590895}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26f24847758eb314dac93878867baf63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TimeScale: 0
-  Strength: 1
-  Agility: 1
-  Intelligent: 1
-  AttackDamage: 1
-  MDamageAmplified: 1
-  MaxHp: 5
-  MaxMp: 5
-  HpRegen: 0
-  MpRegen: 0
-  ShieldRegen: 0
-  MShieldRegen: 0
-  PShield: 0
-  HpRegenPercent: 0
-  MpRegenPercent: 0
-  Armor: 0
-  MArmor: 0
-  AttackRange: 2
-  CastRange: 2
-  MovementSpeed: 5
-  AttackSpeed: 2
-  JumpSpeed: 20
-  StandOn: 0
-  Body: {fileID: 0}
-  Collider: {fileID: 0}
-  _isFly: 0
-  _currentShield: 22
-  _currentMShield: 0
-  _currentPShield: 52
-  _currentHp: 100
-  _currentMp: 0
-  _jumpTimes: 1
-  _currentJump: 0
-  _unitStatus: 4
---- !u!114 &1014669697
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4709158390619590895}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4ab10504bbb70b648ae243245b6e5a74, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  unit: {fileID: 0}
