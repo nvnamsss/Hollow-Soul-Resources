@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 1022550766}
   m_Layer: 0
   m_Name: Character
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -399,7 +399,7 @@ MonoBehaviour:
   CastRange: 3
   MovementSpeed: 5
   AttackSpeed: 1
-  JumpSpeed: 10
+  JumpSpeed: 15
   StandOn: 0
   Body: {fileID: 1101916421}
   Collider: {fileID: 0}
@@ -444,6 +444,7 @@ MonoBehaviour:
   unit: {fileID: 0}
   Pet: {fileID: 8203368045439838772}
   PetLocation: {fileID: 722286895}
+  Interact: 0
   render: {fileID: 3627300635739970495}
 --- !u!1 &3627300636161704206
 GameObject:
