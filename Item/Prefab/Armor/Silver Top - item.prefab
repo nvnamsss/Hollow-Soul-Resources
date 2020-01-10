@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8408244972254791483
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8561851527327995480}
+  - component: {fileID: 2533449021401334193}
+  m_Layer: 0
+  m_Name: Silver Top -item
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8561851527327995480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8408244972254791483}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2533449021401334193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8408244972254791483}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c813e9e865c748943b343e759a5d815d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: Silver Top
+  description: +15 Str +5 Atk
+  itemType: 0
+  icon: {fileID: 21300000, guid: fa9e598db3546de419a7f64194213dce, type: 3}
+  instaUse: 0
+  Strength: 15
+  Agility: 0
+  Intelligent: 0
+  AttackDamage: 5
+  MDamageAmplified: 0
+  MaxHp: 0
+  MaxMp: 0
+  HpRegen: 0
+  MpRegen: 0
+  ShieldRegen: 0
+  MShieldRegen: 0
+  PShield: 0
+  HpRegenPercent: 0
+  MpRegenPercent: 0
+  Armor: 0
+  MArmor: 0
+  AttackRange: 0
+  CastRange: 0
+  MovementSpeed: 0
+  AttackSpeed: 0
+  JumpSpeed: 0
+  slot: 1

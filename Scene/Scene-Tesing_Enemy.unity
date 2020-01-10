@@ -259,50 +259,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8560c84746a13104cb93f3e342c6867f, type: 3}
---- !u!1 &1067615516
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1067615517}
-  - component: {fileID: 1067615518}
-  m_Layer: 0
-  m_Name: GameManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1067615517
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1067615516}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.231721, y: 0.82045805, z: 0.40002275}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1067615518
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1067615516}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a7c033ad0fa60e43a4c598cc283acca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
 --- !u!1 &1524700058
 GameObject:
   m_ObjectHideFlags: 0
@@ -564,6 +520,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: detailedGizmos
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 720249108389506961, guid: 01272cc0b5f74a849abbaff1921c83f6,
         type: 3}
       propertyPath: m_Name
@@ -658,10 +618,6 @@ PrefabInstance:
         type: 3}
       propertyPath: StandOn
       value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: detailedGizmos
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6315507493330282489, guid: 01272cc0b5f74a849abbaff1921c83f6,
         type: 3}
