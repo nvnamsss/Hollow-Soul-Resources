@@ -47,7 +47,7 @@ MonoBehaviour:
   description: +20 Atk +10 Agi
   itemType: 1
   icon: {fileID: -7353613653143852761, guid: af1ffc2a99a9b244c9b255ca3780457d, type: 3}
-  instaUse: 1
+  instaUse: 0
   Strength: 20
   Agility: 10
   Intelligent: 0
