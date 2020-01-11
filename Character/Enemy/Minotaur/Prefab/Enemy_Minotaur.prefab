@@ -121,13 +121,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26f24847758eb314dac93878867baf63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TimeScale: 1
-  Strength: 1
+  TimeScale: 0
+  Strength: 10
   Agility: 0
   Intelligent: 0
   AttackDamage: 1
-  MDamageAmplified: 0
-  MaxHp: 200
+  MDamageAmplified: 1
+  MaxHp: 1
   MaxMp: 0
   HpRegen: 0
   MpRegen: 0
@@ -138,10 +138,10 @@ MonoBehaviour:
   MpRegenPercent: 0
   Armor: 0
   MArmor: 0
-  AttackRange: 3
+  AttackRange: 1
   CastRange: 1
-  MovementSpeed: 2
-  AttackSpeed: 10
+  MovementSpeed: 1
+  AttackSpeed: 6
   JumpSpeed: 6
   StandOn: 3
   Body: {fileID: 891104951677189656}
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   activeRange: 10
   nextDistance: 1
-  target: {fileID: 0}
-  AI: {fileID: 0}
+  target: {fileID: 3627300635899174762, guid: 99bffc6b5bcaf7b4ca5a40e755239ae2, type: 3}
+  AI: {fileID: 3168348236118243987}
   seeker: {fileID: 3168348236118243984}
   body: {fileID: 891104951677189656}
